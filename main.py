@@ -17,17 +17,23 @@ if __name__ == "__main__":
     # 2. get clause information    
     text = preprocess.Text("test_text.txt", preprocess.nlp)
     text.get_sents_obj()
-    for i, sent in enumerate(text.sentences):
-        print("===============================================")
-        for token in sent.sent:
-            print(token.text, "(", token.dep_, end=") ")
-        print()    
 
-        print()
-        print(str(i) +  ". " + sent.sent.text.strip())
-        for clause in sent.clauses:
-            print(clause.clause_span.text.strip())
-    print()
+    for s in text.sentences:
+        for c in s.clauses:
+            print(c)
+
+
+    # for i, sent in enumerate(text.sentences):
+    #     print("===============================================")
+    #     for token in sent.sent:
+    #         print(token.text, "(", token.dep_, end=") ")
+    #     print()    
+
+    #     print()
+    #     print(str(i) +  ". " + sent.sent.text.strip())
+    #     for clause in sent.clauses:
+    #         print(clause.clause_span.text.strip())
+    # print()
 
     """text = preprocess.Text("test_text.txt", preprocess.nlp)
     for sent in text.sents_raw:

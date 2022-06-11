@@ -106,51 +106,7 @@ pattern_passive = [
 ]
 
 
-pattern_agent = [
-    # by
-    {
-        "RIGHT_ID": "agent",
-        "RIGHT_ATTRS": {"LOWER": "by"}},
-
-    # noun phrase
-  {
-    "LEFT_ID": "agent",
-    "REL_OP": ">",
-    "RIGHT_ID": "noun",
-    "RIGHT_ATTRS": {"DEP": "pobj"},
-  }
-]
-
-
-pattern_conj = [
-  {
-    "RIGHT_ID": "conj",
-    "RIGHT_ATTRS": {"DEP": "conj"}
-  },
-    # root
-  {
-    "LEFT_ID": "conj",
-    "REL_OP": "<<",
-    "RIGHT_ID": "main verb",
-    "RIGHT_ATTRS": {"DEP": {"NOT_IN": ["ROOT"]}}
-  },
-  # be (auxiliary verb)
-  {
-    "LEFT_ID": "main verb",
-    "REL_OP": ">",
-    "RIGHT_ID": "be verb",
-    "RIGHT_ATTRS": {"DEP": {"IN": ["auxpass"]}}
-  }
-]
-
-
 matcher.add("passive", [pattern_passive])
-matcher.add("agent", [pattern_agent])
-matcher.add("conj", [pattern_conj])
-
-hashs = StringStore(["passive", "agent", "conj"])
-
-
 
 # get clause information as a Clause Object
 class Clause:
@@ -160,9 +116,19 @@ class Clause:
         #self.form = ""
         #self.agent = ""
         #self.patient = ""
-
     # def get_voice(self):
     #     return False
+
+
+def find_conj(token):
+    conjs = []
+    if token.dep_ not in ("ROOT", "conj"):
+        return conjs
+
+    for t in token.children:
+        if t.dep_ == "conj":
+            conjs.append(t)
+            find_conj(t)
 
 
 class Sentence:
@@ -172,33 +138,38 @@ class Sentence:
         self.get_clauses()
 
     def get_clauses(self):
-        try:
-            m = matcher(self.sent)
-            print(self.sent)
-            for (match_id, token_ids) in m:
-                if (match_id == hashs["passive"]):
-                    for i, token_id in enumerate(token_ids):
-                        t = self.sent[token_id]
-                        print(pattern_passive[i]["RIGHT_ID"], t.text)
-                        for c in t.children:
-                            if c.dep_ == "agent":
-                                print(c.text, [k for k in c.children if k.dep_ == "pobj"])
+        m = matcher(self.sent) #print([(t.text, t.dep_, t.head) for t in self.sent])
 
+        for (match_id, token_ids) in m:
+            subj, be, pp = [self.sent[i] for i in token_ids[::-1]]
+            agent = ""
+            
+            conjs = find_conj(pp)
+            if conjs:
+                for conj in conjs:
+                    self.clauses.append(" ".join((subj, be, conj)))
 
+            for c in pp.children:
+                #print("pp children:", pp.text, c.text, c.dep_.strip()) #, list(c.children))
+                if c.dep_ == "agent":
+                    agent = list(c.children)[0]
+                conj_rc = find_conj(c)    
+                if conj_rc:
+                    conjs.append(conj_rc)
+            
+            agent = agent if not agent else "by " + agent.text
 
-                        #print("\t\t", [t.text for t in t.children])
-                    print()
+            self.clauses.append(" ".join((subj.text, be.text, pp.text, agent)))
+            
+                #if c.dep_ == "conj":
+                #    print("conj", c.text, [k for k in c.children if k.dep_ == "pobj"], sep="\t")
 
-        except:
-            print("none")
-            print()
+            # for i, token_id in enumerate(token_ids):
+            #     t = self.sent[token_id]
+            #     print(pattern_passive[i]["RIGHT_ID"], t.text)
 
-        """consts = self.sent._.constituents
-        for const in consts:
-            if self.is_clause(const):
-                clause = Clause(const)
-                self.clauses.append(clause)
-        return"""
+                    #print("\t\t", [t.text for t in t.children])
+
 
     def get_clause_cnt(self):
         return len(self.clauses)    
