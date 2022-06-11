@@ -1,0 +1,214 @@
+I want you to be involved in our project.
+Why don't you know my true intention?
+Just get yourself constantly informed by clicking this url!
+I was about to depart but you are constantly bothering me.
+I was a fool  to believe her.
+I don't want to get in the project.
+
+
+pattern_passive = [
+  { # be (auxiliary verb)
+    "RIGHT_ID": "be verb",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["auxpass"]}}
+  },
+  { # p.p.
+    "LEFT_ID": "be verb",
+    "REL_OP": "<",
+    "RIGHT_ID":  "past participle",
+    "RIGHT_ATTRS": {}
+  },
+
+  { # subject (patient)
+    "LEFT_ID": "past participle",
+    "REL_OP": ">",
+    "RIGHT_ID": "subject",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["nsubjpass", "csubjpass"]}},
+  },
+
+  { # other p.p.s
+    "LEFT_ID": "past participle",
+    "REL_OP": ">",
+    "RIGHT_ID": "other past participles",
+    "RIGHT_ATTRS": {"DEP": "conj"},
+  }
+#   ,
+  
+#   { # agent (by N)
+#     "LEFT_ID": "past participle",
+#     "REL_OP": ">",
+#     "RIGHT_ID": "agent",
+#     "RIGHT_ATTRS": {"DEP": "agent"},
+#     "OP" : "*"
+#     } #
+]
+
+pattern_passive = [
+  {
+    "RIGHT_ID": "main verb",
+    "RIGHT_ATTRS": {"SPEC": {"NODE_NAME": "ROOT"}} #{"DEP": {"IN" : ["ROOT"]}}
+  },
+
+  # be (auxiliary verb)
+  {
+    "LEFT_ID": "main verb",
+    "REL_OP": ">",
+    "RIGHT_ID": "be verb",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["auxpass"]}}
+  },
+  
+  # subject
+  {
+    "LEFT_ID": "main verb",
+    "REL_OP": ">",
+    "RIGHT_ID": "subject",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["nsubjpass", "csubjpass"]}},
+  },
+
+    # agent (by N)
+  {
+    "LEFT_ID": "main verb",
+    "REL_OP": ">",
+    "RIGHT_ID": "agent",
+    "RIGHT_ATTRS": {"DEP": "agent"},
+    "OP" : "*"
+    } #
+]
+
+
+pattern_passive_agented = [
+    {
+    "RIGHT_ID": "main verb",       # unique name
+    "RIGHT_ATTRS": {"SPEC": {"NODE_NAME": "ROOT"}} #{"DEP": {"IN" : ["ROOT"]}}
+  },
+
+  # be (auxiliary verb)
+  {
+    "LEFT_ID": "main verb",
+    "REL_OP": ">",
+    "RIGHT_ID": "be verb",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["auxpass"]}}
+  },
+
+    # subject (patient)
+  {
+    "LEFT_ID": "main verb",
+    "REL_OP": ">",
+    "RIGHT_ID": "subject",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["nsubjpass", "csubjpass"]}},
+  },
+
+  # agent (by N)
+  {
+    "LEFT_ID": "main verb",
+    "REL_OP": ">",
+    "RIGHT_ID": "agent",
+    "RIGHT_ATTRS": {"DEP": "agent"}}
+]
+
+
+
+pattern_passive_conj = [
+  {
+    "RIGHT_ID": "be verb",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["auxpass"]}}
+  },
+
+  # other past participles
+  {
+    "LEFT_ID": "be verb",
+    "REL_OP": "<",
+    "RIGHT_ID": "other past participles",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["conj"]}} #{"IN": ["conj" , "advcl", "ccomp", "xcomp", "relcl"]}}
+  }
+#   ,
+  
+#   # subject
+#   {
+#     "LEFT_ID": "be verb",
+#     "REL_OP": ">",l
+#     "RIGHT_ID": "subject",
+#     "RIGHT_ATTRS": {"DEP": {"IN": ["nsubjpass", "csubjpass"]}},
+#   },
+]
+
+
+
+                """idx_pred = 0
+                pred = self.sent[token_ids[idx_pred]]
+                give_children = pred.children
+                print("pred: ", pred.text)
+                print("give children: ", [t.text for t in give_children])"""
+
+
+# pattern_active = [
+#    # anchor token: predicate
+#   {
+#     "RIGHT_ID": "main verb",
+#     "RIGHT_ATTRS": {"SPEC": {"NODE_NAME": "root"}} #{"DEP": {"IN" : ["ROOT"]}}
+#     #"RIGHT_ATTRS": {{"DEP": {"IN": ["aux", "neg"]}, "OP":"*"}, {"DEP": {"IN": ["aux", "neg"]}, "OP":"*"}, {"DEP": {"IN": ["ROOT", "conj", "advcl", "xcomp", "relcl"]}}}
+#   },
+
+#   # other verbs
+#   {
+#     "LEFT_ID": "main verb",
+#     "REL_OP": ">",
+#     "RIGHT_ID": "other verbs",
+#     "RIGHT_ATTRS": {"DEP": {"IN": ["conj", "advcl", "ccomp", "xcomp", "relcl"]}}
+#   },
+
+#   # subject
+#   {
+#     "LEFT_ID": "main verb",
+#     "REL_OP": ">",
+#     "RIGHT_ID": "subject",
+#     "RIGHT_ATTRS": {"DEP": {"IN": ["nsubj", "csubj"]}},
+#   }
+# ]
+
+"""  # predicate clause
+  {
+    "LEFT_ID": "predicate",
+    "REL_OP": ">",
+    "RIGHT_ID": "pred clause",
+    "RIGHT_ATTRS": ,
+  },
+  
+    # object (direct)
+  {
+        "LEFT_ID": "predicate",
+        "REL_OP": ">",
+        "RIGHT_ID": "verb_dobj",
+        "RIGHT_ATTRS": {"DEP": "dobj"},
+  },
+
+  # object (indirect)
+  {
+        "LEFT_ID": "predicate",
+        "REL_OP": ">",
+        "RIGHT_ID": "verb_iobj",
+        "RIGHT_ATTRS": {"DEP": "iobj"},
+  }
+  """
+
+
+def is_clause(self, const):
+        #do = nlp(str)
+        #matches = matcher(doc)
+
+        """const_tags = set([token.dep_ for token in const])
+        has_subj = false
+        has_pred = false
+
+        #check_subj = lambda tag: "subj" in tag
+        check_pred = lambda tag: "ROOT" in tag or "advcl" in tag or "auxpass" in tag
+
+        for tag in const_tags:
+            #if check_subj(tag):
+            #    has_subj = true
+            #    continue
+            if check_pred(tag):   
+                has_pred = true
+            else:    
+                continue
+
+        return has_pred #has_subj and has_pred"""
