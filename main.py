@@ -1,10 +1,21 @@
 import preprocess
+import pickle
+
 
 
 if __name__ == "__main__":
-    #texts = preprocess.get_texts("data_toefl")
+    # 0. preprocess toefl texts
+    # texts = preprocess.get_texts("data_toefl")
+    # f = open("data_pickle.txt", 'wb')
+    # pickle.dump(texts, f)
+    # f.close()
+
+    # 1. get data
+    # f = open("data_pickle.txt", 'rb')
+    # data = pickle.load(f)
+
     """
-    # 1. get basic statistics
+    # get basic statistics
     for text in texts:
         print(text.get_sentcnt())
         print(text.get_wordcnt())
@@ -15,12 +26,31 @@ if __name__ == "__main__":
         print"""
 
     # 2. get clause information    
-    text = preprocess.Text("test_text.txt", preprocess.nlp)
+    data = preprocess.read_file("test_text.txt")
+    text = preprocess.Text(preprocess.nlp(data))
     text.get_sents_obj()
-
     for s in text.sentences:
-        for c in s.clauses:
-            print(c)
+        if s.clauses:
+            print(s.text)
+            for c in s.clauses:
+                print("\t", c)
+            print()
+
+    # texts = []
+    # for text in data:
+    #     texts.append(preprocess.Text(text))
+
+    # sample = texts[0]
+    # sample.get_sents_obj()
+    # for s in sample.sentences:
+    #     if s.clauses:
+    #         print(s.text)
+    #         for c in s.clauses:
+    #             print("\t", c)
+    #         print()
+
+    
+    
 
 
     # for i, sent in enumerate(text.sentences):
@@ -34,13 +64,3 @@ if __name__ == "__main__":
     #     for clause in sent.clauses:
     #         print(clause.clause_span.text.strip())
     # print()
-
-    """text = preprocess.Text("test_text.txt", preprocess.nlp)
-    for sent in text.sents_raw:
-        print("sent:" + sent.text)
-        for const in sent._.constituents:
-            print("const: "+ const.text)
-            for t in const:
-                print(t.text, t.dep_)
-            print()
-        print()"""

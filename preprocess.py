@@ -41,11 +41,8 @@ else:
 
 # 1. preprocess txt files
 class Text:
-    def __init__(self, filename, nlp):
-        self.filename = filename
-        self.data = read_file(self.filename)
-        self.nlp = nlp
-        self.doc = self.nlp(self.data)
+    def __init__(self, doc):
+        self.doc = doc
         self.sents_raw = list(self.doc.sents)
         self.sentences = []
     
@@ -120,56 +117,57 @@ class Clause:
     #     return False
 
 
-def find_conj(token):
-    conjs = []
-    if token.dep_ not in ("ROOT", "conj"):
-        return conjs
-
-    for t in token.children:
-        if t.dep_ == "conj":
-            conjs.append(t)
-            find_conj(t)
-
-
 class Sentence:
     def __init__(self, sent):
         self.sent = sent
+        self.text = sent.text
         self.clauses = []
         self.get_clauses()
 
+    
+    def find_conj(self, token, conjs, agent, first_call):
+        if first_call:
+            pass
+        elif token.dep_ != "conj":
+            return
+        else: pass
+
+        for t in token.children:
+            if t.dep_ == "conj":
+                conjs.append(t)
+                self.find_conj(t, conjs, agent, False)
+            elif t.dep_ == "agent":
+                agent.append(t)
+            else: pass
+
+
+
     def get_clauses(self):
-        m = matcher(self.sent) #print([(t.text, t.dep_, t.head) for t in self.sent])
+        m = matcher(self.sent)
 
         for (match_id, token_ids) in m:
             subj, be, pp = [self.sent[i] for i in token_ids[::-1]]
-            agent = ""
+            conjs = []
+            conjs.append(pp)
+            agent = []
+            self.find_conj(pp, conjs, agent, True)
             
-            conjs = find_conj(pp)
-            if conjs:
-                for conj in conjs:
-                    self.clauses.append(" ".join((subj, be, conj)))
+            # print("pp: ", pp.text, pp.dep_)
+            # print("conjs: ", conjs)
+            # print("childrens: ", [(c.text, c.dep_) for c in pp.children])
+            # print()
 
             for c in pp.children:
-                #print("pp children:", pp.text, c.text, c.dep_.strip()) #, list(c.children))
                 if c.dep_ == "agent":
-                    agent = list(c.children)[0]
-                conj_rc = find_conj(c)    
-                if conj_rc:
-                    conjs.append(conj_rc)
+                    agent.append(c)
+                #self.find_conj(c, conjs)
             
-            agent = agent if not agent else "by " + agent.text
+            agent = "" if not agent else "by " + list(agent[0].children)[0].text #agent.text #
+            # print(conjs)
 
-            self.clauses.append(" ".join((subj.text, be.text, pp.text, agent)))
+            for conj in conjs:
+                self.clauses.append(" ".join((subj.text, be.text, conj.text, agent)))
             
-                #if c.dep_ == "conj":
-                #    print("conj", c.text, [k for k in c.children if k.dep_ == "pobj"], sep="\t")
-
-            # for i, token_id in enumerate(token_ids):
-            #     t = self.sent[token_id]
-            #     print(pattern_passive[i]["RIGHT_ID"], t.text)
-
-                    #print("\t\t", [t.text for t in t.children])
-
 
     def get_clause_cnt(self):
         return len(self.clauses)    
@@ -204,6 +202,8 @@ def get_texts(dir):
     texts = []
 
     for filename in os.listdir(dir):
-        texts.append(Text(dir+"\\"+filename, nlp))
-
+        data = read_file(dir+"\\"+filename)
+        doc = nlp(data)
+        texts.append(doc)
+        #texts.append(Text(dir+"\\"+filename, nlp))
     return texts
