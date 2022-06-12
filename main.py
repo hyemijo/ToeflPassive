@@ -31,7 +31,7 @@ if __name__ == "__main__":
     # tags: https://web.archive.org/web/20190206204307/https://www.clips.uantwerpen.be/pages/mbsp-tags
 
     #output = open("passives.txt", 'w', encoding="utf-8")
-    output = open("passives_acl2.txt", 'w', encoding="utf-8")
+    output = open("passives_acl3.txt", 'w', encoding="utf-8")
     texts = []
     for text in data:
         text = preprocess.Text(text)
