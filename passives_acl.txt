@@ -1,0 +1,1274 @@
+	Feel confident in your ability to succeed.
+acl:  succeed
+acl head:  ability
+acl children:  [to]
+
+
+		The TOEFL iBT test is:	Preferred by more than 80% of Canadian graduate programs; And Canadian universities receive more TOEFL scores than all other English-language tests combined;	Preferred by 9 out of 10 universities in the United States and accepted everywhere;	Accepted by 100% of U.K. universities, including the prestigious Russell Group® schools;	Accepted by the top European universities and the most preferred English-language test in France and Germany;	Accepted by 100% of universities in Australia and New Zealand and for all migration visas;	Widely accepted throughout Asia, including at top universities in mainland China, Hong Kong, Japan, Korea and Malaysia;		Get the TOEFL Test Advantage.
+acl:  accepted
+acl head:  Preferred
+acl children:  [Accepted, ;, 	, Widely, throughout, ,, including]
+
+
+	Trusted scores backed by the TOEFL test's reputation and high standards help you stand out and show you have what it takes to be great.
+acl:  backed
+acl head:  scores
+acl children:  [by]
+
+
+	Over 90% of TOEFL test takers surveyed got into their 1st or 2nd choice university.
+acl:  surveyed
+acl head:  takers
+acl children:  []
+
+
+Home Edition is the same TOEFL iBT test you would take at a test center, just taken from the privacy of your own home and monitored online by a human proctor.
+acl:  taken
+acl head:  test
+acl children:  [just, from, and, monitored]
+
+
+		Test Takers in Mainland China: To register for the TOEFL iBT
+acl:  register
+acl head:  Takers
+acl children:  [To, for]
+
+
+	The Paper Edition is currently available in Colombia, India, Mexico and the United States, with testing starting by the end of 2021.
+acl:  starting
+acl head:  testing
+acl children:  [by]
+
+
+But you're also getting a better test experience designed to help you succeed.
+acl:  designed
+acl head:  experience
+acl children:  [help]
+
+
+	This free service matches you with universities based on criteria you entered in your profile, so you're more likely to receive information about programs, financial aid, fellowships and other educational opportunities.
+acl:  based
+acl head:  universities
+acl children:  [on]
+
+
+		It's the only test that measures all 4 academic English skills — reading, listening, speaking, and writing — the way they are actually used in a classroom.
+acl:  reading
+acl head:  test
+acl children:  [,, listening, —]
+
+
+	Join our mailing list to receive the latest updates, news and resources related to the TOEFL iBT test.
+acl:  related
+acl head:  news
+acl children:  [to]
+
+
+	The TOEFL iBT® Reading section is designed to assess how well you can read and understand the kind of materials used in an academic environment.
+acl:  used
+acl head:  materials
+acl children:  [in]
+
+
+There is a glossary feature available to define words not commonly used, if you need it.
+acl:  used
+acl head:  words
+acl children:  [not, commonly, ,]
+
+
+	The TOEFL iBT® Listening section is designed to measure your ability to understand conversations and lectures in English.
+acl:  understand
+acl head:  ability
+acl children:  [to, conversations]
+
+
+	The TOEFL iBT® Speaking section is designed to measure your ability to speak English effectively in academic settings.
+acl:  speak
+acl head:  ability
+acl children:  [to, English, effectively, in]
+
+
+	Questions 2–4 are called "integrated speaking tasks" because they require you to combine your English-language skills — listening and speaking, or listening, reading and speaking — just as you would in or out of a classroom.
+acl:  listening
+acl head:  skills
+acl children:  [and, speaking, ,, or, listening]
+
+
+	The TOEFL iBT® test Writing section is designed to measure your ability to write in English in an academic setting, and you're expected to be able to present your ideas in a clear, well-organized manner.
+acl:  write
+acl head:  ability
+acl children:  [to, in, in]
+
+
+	Integrated writing task (20 minutes) — read a short passage and listen to a short lecture, then write in response to what you read and listened to;	Independent writing task (30 minutes) — write an essay based on personal experience or opinion in response to a writing topic.
+acl:  based
+acl head:  essay
+acl children:  [on]
+
+
+		When you make the decision to study abroad, you expand your choices to include the world's top higher education institutions.
+acl:  study
+acl head:  decision
+acl children:  [to, abroad]
+
+
+You give yourself the opportunity to take courses you may not find anywhere else, and to experience new languages, cultures and lifestyles.
+acl:  take
+acl head:  opportunity
+acl children:  [to, courses]
+
+acl:  find
+acl head:  opportunity
+acl children:  [you, may, not, else, ,]
+
+
+"		Wherever you are in your study-abroad journey — whether you've just started to consider your options or you're thinking about the visa application process — we're here to help with the information, online tools and ongoing support you need.
+acl:  're
+acl head:  		
+acl children:  [started, —, we, here, help]
+
+
+For the Skilled Migrant Category Resident Visa, you need a total score of 79 or more from a test taken within 2 years prior to your application date.
+acl:  taken
+acl head:  test
+acl children:  [within, prior]
+
+
+scores are sent to Canadian universities than all other English tests combined.
+acl:  combined
+acl head:  tests
+acl children:  []
+
+
+	All international students intending to study in Canada are required to have a student visa.
+acl:  intending
+acl head:  	
+acl children:  [study]
+
+
+In order to apply for one, you need to take an English-proficiency test and be accepted by a Canadian college or university — you will need to provide the letter of acceptance with your application.
+acl:  apply
+acl head:  order
+acl children:  [to, for]
+
+
+		In order to use your TOEFL iBT scores in this way, the following conditions need to be met:	Your chosen U.K. university accepts the TOEFL iBT test for admissions purposes.
+acl:  use
+acl head:  order
+acl children:  [to, scores, in]
+
+
+Check the university website, or contact the admissions department directly, to confirm that they accept TOEFL iBT scores for applications to study at degree level or above.
+acl:  study
+acl head:  applications
+acl children:  [to, at]
+
+
+Be sure to check the university website for TOEFL iBT score requirements as you may find each university has different requirements depending on the course you intend to apply for.
+acl:  depending
+acl head:  requirements
+acl children:  [on]
+
+
+	You meet the TOEFL iBT score requirements set by the Home Office for immigration.
+acl:  set
+acl head:  requirements
+acl children:  [by, for]
+
+
+	If you plan to study within the European Union or wider Schengen area and you are coming from outside Western Europe, you will need a visa in order to do so.
+acl:  do
+acl head:  order
+acl children:  [to, so]
+
+
+This may include:		a valid passport;	letter of acceptance;	medical insurance;	proof of language proficiency;	proof that you are able to pay tuition fees and support yourself.
+acl:  are
+acl head:  proof
+acl children:  [that, you, able]
+
+
+		Once you've applied, you must:	travel to your nearest U.S. Embassy or Consulate for a face-to-face visa interview before it's issued;	provide proof that you can financially support yourself while studying in America;	demonstrate that you have sufficient reason to return home after your studies are over.
+acl:  support
+acl head:  proof
+acl children:  [that, you, can, financially, yourself, studying]
+
+
+	Once you've made the decision to study abroad, it's time to figure out where you want to study.
+acl:  study
+acl head:  decision
+acl children:  [to, abroad]
+
+
+	When your goal is university study, choose the test that helps you stand out to admissions officers and arrive on campus better prepared for the academic English demands of a university classroom.
+acl:  prepared
+acl head:  test
+acl children:  [better, for]
+
+
+90% of TOEFL iBT® test takers surveyed were accepted into their 1st or 2nd choice university, and you can be, too!
+acl:  surveyed
+acl head:  takers
+acl children:  []
+
+
+You'll need to submit your request and have your accommodations approved by ETS Disability Services before you can schedule your test.
+acl:  approved
+acl head:  accommodations
+acl children:  [by]
+
+
+	The required waiting period between tests is only 3 days, giving you more opportunities to test and helping you meet urgent deadlines.
+acl:  test
+acl head:  opportunities
+acl children:  [to, and, helping]
+
+
+	Registration using your ETS account is the fastest, easiest way to register.
+acl:  using
+acl head:  Registration
+acl children:  [account]
+
+
+With the online registration system, you'll take advantage of:		easy access to official test prep and exclusive savings when you bundle essential resources;	a test center search powered by Google Maps™;	the ability to register 24 hours a day, 7 days a week.
+acl:  powered
+acl head:  search
+acl children:  [by]
+
+acl:  register
+acl head:  ability
+acl children:  [to, hours]
+
+
+	If you are testing in the United States, U.S. Virgin Islands, Puerto Rico or Canada, use the mailing address that corresponds to your payment method listed on the Registration Form.
+acl:  listed
+acl head:  method
+acl children:  [on]
+
+
+Pick a date at least 2 to 3 months before your earliest admissions deadline to ensure your scores will be reported in time.
+acl:  ensure
+acl head:  deadline
+acl children:  [to, reported]
+
+
+			Test Takers in Mainland China: To register for the TOEFL
+acl:  register
+acl head:  Takers
+acl children:  [To, for]
+
+
+	Creating an ETS account is easy.
+acl:  Creating
+acl head:  	
+acl children:  [account]
+
+
+Each ID document must:		be an original document; photocopied documents are not acceptable, and documents cannot be presented on a mobile phone or any other electronic device;	be a physical ID; an electronic ID issued to a mobile phone or any other electronic device is not acceptable;	be a government-issued national/state/province identity card that is issued and recognized by the country where you are a citizen or resident;	be valid; expired documents are not acceptable;	include your full name and date of birth exactly matching the name and date of birth you used to register, excluding accents or diacritical marks;	include a recent, recognizable photograph;	include your signature (the name on the ID and the signature name must match).
+acl:  issued
+acl head:  ID
+acl children:  [to]
+
+
+		Government-issued ID card (including, but not limited to, those listed under Acceptable Primary ID Documents);	Student ID card;	Confirmation of identity letter from your educational institution.
+acl:  listed
+acl head:  those
+acl children:  [under]
+
+
+Such letters are valid for only one year from the date issued.
+acl:  issued
+acl head:  date
+acl children:  []
+
+
+Depending on the state, the extension or deferral may consist of a sticker on the license, the designation "military" printed in place of an expiration date, or a separate document carried with the license, usually with a notation that the license is valid for a specific amount of time after discharge from service.
+acl:  printed
+acl head:  military
+acl children:  [in]
+
+acl:  carried
+acl head:  document
+acl children:  [with]
+
+
+	Use an internal or external microphone that isn't part of a headset to communicate with the proctor.
+acl:  communicate
+acl head:  headset
+acl children:  [to, with]
+
+
+	You must be alone in a room with no one else entering during the test.
+acl:  entering
+acl head:  one
+acl children:  [during]
+
+
+	The tabletop and surrounding area must be clear of all items not approved for use during the test, including cell phones (except when used for check in), cameras, notes and study materials.
+acl:  approved
+acl head:  items
+acl children:  [not, for, during]
+
+
+	Here are the fees associated with taking the TOEFL iBT® test.
+acl:  associated
+acl head:  fees
+acl children:  [with]
+
+
+In jurisdictions where the customer is required to account for any local taxes due, the price remitted to ETS excludes those taxes.
+acl:  remitted
+acl head:  price
+acl children:  [to]
+
+
+		In the jurisdictions listed below, test and test-related fees are exclusive of any sales, use, value-added or similar taxes and will be added to the order when it is placed.
+acl:  listed
+acl head:  jurisdictions
+acl children:  [below]
+
+
+	Note: Only VISA cards are accepted in Benin, Côte d'Ivoire, Ghana, Kenya, Nigeria and Togo.
+acl:  accepted
+acl head:  Note
+acl children:  [:, cards, are, in, .]
+
+
+	When you select credit/debit card as your payment method, you have the option to pay in select local currencies instead of U.S. dollars.
+acl:  pay
+acl head:  option
+acl children:  [to, in]
+
+
+The system will display available local currencies and the credit card types supported for each.
+acl:  supported
+acl head:  types
+acl children:  [for]
+
+
+The check must be:	in U.S. dollars;	made payable to ETS-TOEFL;	signed by the account holder or an authorized signer.
+acl:  signed
+acl head:  	
+acl children:  [by]
+
+
+	any currency other than U.S. dollars (for payments not made by credit/debit card).
+acl:  made
+acl head:  payments
+acl children:  [not, by]
+
+
+In order to receive a refund for the TOEFL iBT Paper Edition, you must cancel both parts of your registration before the 4-day deadline.
+acl:  receive
+acl head:  order
+acl children:  [to, refund]
+
+
+	You must submit your request and have your accommodations approved by ETS Disability Services before your test can be scheduled.
+acl:  approved
+acl head:  accommodations
+acl children:  [by]
+
+
+		Once you've been approved, you'll receive an email providing instructions on how to register for the test.
+acl:  providing
+acl head:  email
+acl children:  [instructions]
+
+
+	If you'd like to request accommodations other than those listed above, describe them in Part II of the Testing Accommodations Request Form found in the Bulletin Supplement (PDF).
+acl:  listed
+acl head:  those
+acl children:  [above]
+
+
+	Practice with self-paced courses and personalized learning to help you do your best.
+acl:  help
+acl head:  Practice
+acl children:  [to, do]
+
+
+You can practice for the Speaking section using the free Speaking Practice Sets.
+acl:  using
+acl head:  section
+acl children:  [Sets]
+
+
+	Receive scores within 24 hours, with performance feedback on all 4 skills measured on the test — reading, listening, speaking, and writing.
+acl:  measured
+acl head:  skills
+acl children:  [on]
+
+acl:  reading
+acl head:  skills
+acl children:  [,, listening]
+
+
+Mac users may also use the internal speakers and microphone located in the computer.
+acl:  located
+acl head:  microphone
+acl children:  [in]
+
+
+	Note: These sample questions allow you to experience the types of tasks presented in the TOEFL iBT® test.
+acl:  presented
+acl head:  tasks
+acl children:  [in]
+
+
+	Note: These sample questions allow you to experience the types of tasks presented in the TOEFL iBT® test.
+acl:  presented
+acl head:  tasks
+acl children:  [in]
+
+
+	Note: These sample questions allow you to experience the types of tasks presented in the TOEFL iBT® test.
+acl:  presented
+acl head:  tasks
+acl children:  [in]
+
+
+	Note: These sample questions allow you to experience the types of tasks presented in the TOEFL iBT® test.
+acl:  presented
+acl head:  tasks
+acl children:  [in]
+
+
+Learn more about the products included in each, including any system requirements.
+acl:  included
+acl head:  products
+acl children:  [in]
+
+
+Your registration must already be in your cart (but not yet paid for) for this option to appear.
+acl:  appear
+acl head:  option
+acl children:  [to]
+
+
+		PRACTICE the skills you want, PREPARE with resources from the maker of the test and GO far!
+acl:  PREPARE
+acl head:  skills
+acl children:  [with, and, GO]
+
+
+		Test Takers in Mainland China: To register for the TOEFL iBT
+acl:  register
+acl head:  Takers
+acl children:  [To, for]
+
+
+	Close all browsers and applications not needed for the test.
+acl:  needed
+acl head:  browsers
+acl children:  [not, for]
+
+
+Then you'll have the option to report or cancel your scores.
+acl:  report
+acl head:  option
+acl children:  [to, or, cancel]
+
+
+Frequent, inappropriate reuse of shared testing devices and common testing locations may result in score delay and/or score cancellation and could impact your eligibility to take future ETS exams.
+acl:  take
+acl head:  eligibility
+acl children:  [to, exams]
+
+
+			Having technical issues?
+acl:  Having
+acl head:  			
+acl children:  [issues]
+
+
+	You must resolve all issues (shown in red) and pass the equipment check prior to checking in for your test.
+acl:  shown
+acl head:  issues
+acl children:  [in]
+
+
+	Close all browsers and applications not needed for the test.
+acl:  needed
+acl head:  browsers
+acl children:  [not, for]
+
+
+	Watch our TOEFL iBT® Test Day video to learn more about:		checking in;	presenting your identification;	test security procedures;	using your headset and microphone;	taking the test;	viewing your Reading and Listening scores;	the option to cancel your scores.
+acl:  presenting
+acl head:  	
+acl children:  [identification]
+
+acl:  using
+acl head:  	
+acl children:  [headset]
+
+acl:  taking
+acl head:  	
+acl children:  [	, test]
+
+acl:  cancel
+acl head:  option
+acl children:  [to, scores]
+
+
+Be sure to check with your local test center for a complete list of health and safety procedures required for admission to the test center.
+acl:  required
+acl head:  procedures
+acl children:  [for]
+
+
+Failure to comply may result in your dismissal from the test, and your test fee will not be refunded.
+acl:  comply
+acl head:  Failure
+acl children:  [to]
+
+
+Test center staff will make every effort to accommodate such requests, but ETS cannot guarantee that all test centers will have the necessary staff and space available.
+acl:  accommodate
+acl head:  effort
+acl children:  [to, requests]
+
+
+In some countries, the common keyboard used is configured to QWERTY and a template is provided to each test taker to help with locating the few keys that are in a different location.
+acl:  used
+acl head:  keyboard
+acl children:  []
+
+
+You will then have the choice to report or cancel your scores.
+acl:  report
+acl head:  choice
+acl children:  [to, or, cancel]
+
+
+This is your only opportunity to cancel your scores.
+acl:  cancel
+acl head:  opportunity
+acl children:  [to, scores]
+
+
+Paper Edition, you’ll have the option to cancel your scores on your answer sheet after you complete the Reading, Writing, and Listening sections.
+acl:  cancel
+acl head:  option
+acl children:  [to, scores, on, complete]
+
+
+You will also have the option to cancel your scores after taking the Speaking section from home.
+acl:  cancel
+acl head:  option
+acl children:  [to, scores, after]
+
+
+To this end, ETS has established and maintains policies and procedures designed to ensure the integrity and fairness of your testing experience.
+acl:  designed
+acl head:  policies
+acl children:  [ensure]
+
+
+		Improper Behavior Leading to Test Termination.
+acl:  Leading
+acl head:  Behavior
+acl children:  [to]
+
+
+			Improper Behavior Leading to Test Termination: Test Security Procedures.
+acl:  Leading
+acl head:  Behavior
+acl children:  [to]
+
+
+ETS may use statistical evaluation or other professional evaluation methods as evidence that a test taker did not complete the test or part of the test independently or that pre-knowledge of test questions or answers occurred.
+acl:  complete
+acl head:  evidence
+acl children:  [that, taker, did, not, test, independently, or, that, pre, -, knowledge]
+
+
+If ETS believes that a test taker may have gained an unfair advantage by sharing or obtaining test questions, topics or answers before, during or after the test, or that a test was completed in whole or in part by someone or with the assistance of someone other than the registered test taker, ETS may exercise its right to cancel the test taker's appointment in advance, hold or cancel the test taker's scores and/or ban the test taker from future testing.
+acl:  cancel
+acl head:  right
+acl children:  [to, appointment]
+
+
+		If any of ETS's investigative methods result in a test taker's scores being canceled, or if unethical behavior is identified on or after test day, ETS may also share its concerns with score recipients selected by the test taker, so that the information can be considered in the institution's or agency's decision-making process.
+acl:  selected
+acl head:  recipients
+acl children:  [by]
+
+
+	The test center administrator or proctor is authorized to dismiss you from the test center and/or terminate your test, and ETS reserves the right to hold and/or cancel your scores, and/or ban you from future testing, for any action that violates any of the policies and procedures in the Bulletin, on the TOEFL website or communicated to you at the test center or by the proctor on the day of the test, including but not limited to:		Taking or attempting to take the test or part of the test for someone else, or having or attempting to have someone take the test or part of the test for you.
+acl:  hold
+acl head:  right
+acl children:  [to, and/or, cancel]
+
+
+	Removing or attempting to remove or transmit any test content, scratch paper or notes relating to the test.
+acl:  relating
+acl head:  notes
+acl children:  [to]
+
+
+This includes on your ID documents, via prohibited devices, and any other method used as an aid in connection with the test.
+acl:  used
+acl head:  method
+acl children:  [as]
+
+
+ETS reserves the right to cancel scores when evidence of pre-knowledge is found.
+acl:  cancel
+acl head:  right
+acl children:  [to, scores, found]
+
+
+	Having food or beverages in the testing area, unless you have been approved for an accommodation based on a disability or health-related need.
+acl:  based
+acl head:  accommodation
+acl children:  [on]
+
+
+	Evidence that responses are invalid for reasons including unusual timing patterns, unusual answer patterns, inconsistent performance on different parts of the test, or performance inconsistent with other test administrations.
+acl:  are
+acl head:  Evidence
+acl children:  [that, responses, invalid]
+
+
+	Evidence that a Writing or Speaking response includes material that is substantially similar to material in other TOEFL test taker responses, or the quoting or paraphrasing of language or ideas from published or unpublished sources without attribution.
+acl:  includes
+acl head:  Evidence
+acl children:  [that, response, material]
+
+
+	Failing to follow any regulations in the Bulletin, on this website, instructions given by the test center administrator, proctor, or specified in any materials.
+acl:  given
+acl head:  instructions
+acl children:  [by]
+
+
+	ETS reserves the right to take any and all action — including but not limited to banning you from future testing or holding or cancelling your scores — for failure to comply with test administration regulations, the test proctor's or the test center administrator's instructions.
+acl:  take
+acl head:  right
+acl children:  [to, any]
+
+acl:  comply
+acl head:  failure
+acl children:  [to, with]
+
+
+Frequent, inappropriate reuse of shared testing devices and common testing locations may result in score delay and/or score cancellation and could impact your eligibility to take future ETS exams.
+acl:  take
+acl head:  eligibility
+acl children:  [to, exams]
+
+
+	Your score report includes MyBest® scores, also known as superscores, to help you show your best overall performance and achieve your goals sooner.
+acl:  known
+acl head:  scores
+acl children:  [also, as]
+
+
+PDF score reports are ready for download 2 days after you receive your scores electronically through your ETS account, or you can view this list of dates (PDF) for an estimated availability date, for tests taken at a test center.
+acl:  taken
+acl head:  tests
+acl children:  [at]
+
+
+Note: PDF score reports are currently not available for tests taken in Mainland China.
+acl:  taken
+acl head:  tests
+acl children:  [in]
+
+
+Scores canceled by ETS cannot be reinstated.
+acl:  canceled
+acl head:  Scores
+acl children:  [by]
+
+
+	There are no passing or failing scores set by the TOEFL® Program or ETS.
+acl:  set
+acl head:  scores
+acl children:  [by]
+
+
+It will not include your scores from tests taken at a test center or from home with the TOEFL iBT® Home Edition.
+acl:  taken
+acl head:  tests
+acl children:  [at, with]
+
+
+Below is a list of the institutions known by ETS to accept MyBest scores for their programs.
+acl:  known
+acl head:  institutions
+acl children:  [by]
+
+
+It is based on information taken from university websites or other official university sources.
+acl:  taken
+acl head:  information
+acl children:  [from]
+
+
+			Institutions Accepting TOEFL iBT® Home Edition Scores.
+acl:  Accepting
+acl head:  Institutions
+acl children:  [Scores]
+
+
+Home Edition, based on information taken from university websites or other official university sources.
+acl:  based
+acl head:  Edition
+acl children:  [on]
+
+acl:  taken
+acl head:  information
+acl children:  [from]
+
+
+Under the ETS privacy and information security policy, it is the program's responsibility to protect information that is stored in data or research files held by ETS from unauthorized disclosure.
+acl:  protect
+acl head:  responsibility
+acl children:  [to, information]
+
+acl:  held
+acl head:  files
+acl children:  [by, from]
+
+
+Information retained in TOEFL records is the same as the information in the score posting and on the official score reports.
+acl:  retained
+acl head:  Information
+acl children:  [in]
+
+acl:  posting
+acl head:  information
+acl children:  [and]
+
+
+	Official score reports will be sent only to those institutions or agencies chosen by the test taker when he or she registered to test, on a Score Report Request Form submitted at a later date, or otherwise authorized by the test taker.
+acl:  chosen
+acl head:  institutions
+acl children:  [by, registered]
+
+acl:  submitted
+acl head:  Form
+acl children:  [at, ,, or, authorized]
+
+
+To that end, ETS reserves the right to share any and all information in its possession about a test taker and the terms and conditions of test taking with appropriate parties, including:	Any entity contracted with ETS and recognized as an authorized user of TOEFL test scores.
+acl:  share
+acl head:  right
+acl children:  [to, any, information]
+
+acl:  taking
+acl head:  terms
+acl children:  [with]
+
+acl:  contracted
+acl head:  entity
+acl children:  [with, and, recognized]
+
+
+	Information subject to release to appropriate parties includes — but is not limited to — test taker identifying information, information concerning the conduct and findings of any test security investigation, and information regarding the test center where the test was taken.
+acl:  identifying
+acl head:  taker
+acl children:  [information]
+
+acl:  concerning
+acl head:  information
+acl children:  [conduct]
+
+
+Unless your photograph or other biometric samples taken on the day of the test or during the check-in or registration process are being used in connection with a test security investigation, ETS shall retain them for a maximum of 3 years unless local regulations limit retention.
+acl:  taken
+acl head:  photograph
+acl children:  [on]
+
+
+		Please include:	the test name;	the test section;	the test date;	the name of the center where the test was taken;	the number of the test item being questioned, if possible.
+acl:  questioned
+acl head:  item
+acl children:  [being, ,, possible]
+
+
+ETS standards in this regard have 2 primary goals:	giving all test takers an equal opportunity to demonstrate their abilities;	preventing any test taker from gaining an unfair advantage over others.
+acl:  giving
+acl head:  goals
+acl children:  [	, takers, opportunity, ;, preventing]
+
+acl:  demonstrate
+acl head:  opportunity
+acl children:  [to, abilities]
+
+
+Therefore, ETS reserves the right to cancel any test score when, in its sole judgment, there is substantial evidence that the score is invalid.
+acl:  cancel
+acl head:  right
+acl children:  [to, score]
+
+acl:  is
+acl head:  evidence
+acl children:  [that, score, invalid]
+
+
+ETS reserves the right to cancel a test taker's test appointment in advance, hold or cancel the test taker's scores, and/or ban the test taker from future testing if it appears that the entire test wasn't taken solely by person who was registered, or that there was pre-knowledge of test questions or answers.
+acl:  cancel
+acl head:  right
+acl children:  [to, appointment]
+
+
+		If any of ETS's investigative methods result in a test taker's scores being cancelled, or if unethical behavior is identified on test day, ETS may also share its concerns with score recipients selected by the test taker so that the information can be considered in the institution or agency's decision-making process.
+acl:  selected
+acl head:  recipients
+acl children:  [by]
+
+
+		ETS reserves the right to dismiss you from a test session, terminate your test, and/or cancel your scores and ban you from taking ETS tests in the future for violations such as, but not limited to, those listed under Improper Behavior Leading to Test Termination.
+acl:  dismiss
+acl head:  right
+acl children:  [to, you, from]
+
+acl:  listed
+acl head:  those
+acl children:  [under]
+
+acl:  Leading
+acl head:  those
+acl children:  [to]
+
+
+In certain circumstances, determined by ETS, all scores for test takers at a particular test center may be canceled even if there is no evidence of individual wrongdoing.
+acl:  determined
+acl head:  circumstances
+acl children:  [by]
+
+
+	When there is information that ETS considers sufficient to indicate that a test taker has engaged in any activity that affects score validity, ETS may cancel the test taker's scores and may ban the test taker from future ETS tests.
+acl:  considers
+acl head:  information
+acl children:  [ETS, sufficient]
+
+
+In addition, when there is information that ETS considers sufficient that the administrator of the test did not comply with regulations, some or all scores from that administration may be held or canceled.
+acl:  considers
+acl head:  information
+acl children:  [that, ETS, sufficient]
+
+
+		ETS reserves the right to take any action — including, but not limited to, dismissing you from the test center, terminating your test, cancelling your scores and banning you from future testing — for failure to comply with test administration regulations, the test center administrator's or test proctor's instructions.
+acl:  take
+acl head:  right
+acl children:  [to, action]
+
+acl:  comply
+acl head:  failure
+acl children:  [to, with]
+
+
+		ETS reserves the right to take appropriate action and/or notify the appropriate authorities, including but not limited to law enforcement authorities, if any test taker responds in a threatening or disturbing way to essay questions, or communicates with ETS either verbally or in writing in a threatening or disturbing manner.
+acl:  take
+acl head:  right
+acl children:  [to, action, and/or, notify]
+
+
+ETS will exercise its right to determine what constitutes an inappropriate response.
+acl:  determine
+acl head:  right
+acl children:  [to, constitutes]
+
+
+	ETS shall have no liability to any test taker for damages or claims of any kind whatsoever that the test taker may assert against ETS for not reporting scores, holding or cancelling scores, banning the test taker from future testing or disclosure of test taker information pursuant to ETS's rights.
+acl:  assert
+acl head:  liability
+acl children:  [that, taker, may, against, for, banning]
+
+
+	The procedures and options described below apply to score validity cases only and do not apply to testing irregularities, discrepancies in test taker identification or test taker misconduct.
+acl:  described
+acl head:  procedures
+acl children:  [below]
+
+
+		As a matter of fairness to test takers, educational institutions, government agencies, professional organizations, or any entity that ETS recognizes as an authorized user of TOEFL® scores in making important decisions about test takers, ETS reviews test scores that may be invalid.
+acl:  test
+acl head:  matter
+acl children:  [to, takers]
+
+
+ETS also makes available 3 options for resolution, which are described in detail under "Options Leading to Resolution" below.
+acl:  Leading
+acl head:  Options
+acl children:  [to]
+
+
+submit the matter to arbitration (for test takers testing in the United States at the time of testing).
+acl:  testing
+acl head:  takers
+acl children:  [in, at]
+
+
+		The test taker has the right to initiate legal action.
+acl:  initiate
+acl head:  right
+acl children:  [to, action]
+
+
+	ETS strives to administer tests under secure, standard conditions that afford test takers equivalent opportunities to demonstrate their abilities.
+acl:  demonstrate
+acl head:  opportunities
+acl children:  [to, abilities]
+
+
+During the registration process, upon arrival at the test center and before the start of the testing session, test takers are required to signify their agreement to accept ETS policies and procedures.
+acl:  accept
+acl head:  agreement
+acl children:  [to, policies]
+
+
+As part of that agreement, they acknowledge that ETS has the right to review scores of questionable validity and to cancel scores when there is substantial evidence that they are invalid.
+acl:  review
+acl head:  right
+acl children:  [to, scores, and, cancel]
+
+acl:  are
+acl head:  evidence
+acl children:  [that, they, invalid]
+
+
+Communications in cases of questioned scores, including the information provided below, are designed to help test takers understand ETS procedures for reviewing scores so that questions about score validity can be resolved as quickly and equitably as possible.
+acl:  provided
+acl head:  information
+acl children:  [below]
+
+
+		The test taker's score record and the documents completed that are retained at ETS may be released to any entity that ETS recognizes as an authorized recipient of scores, including without limitation (1) any entity to which ETS reports scores at the test taker's request, (2) any government agency, including agencies responsible for administration or enforcement of U.S. criminal and/or immigration laws, and (3) pursuant to a U.S. or foreign subpoena or required by applicable law.
+acl:  completed
+acl head:  documents
+acl children:  []
+
+
+Unless ETS finds substantial evidence that test scores are invalid, the scores are reported.
+acl:  are
+acl head:  evidence
+acl children:  [that, scores, invalid]
+
+
+If ETS has concerns about the validity of test scores, the test taker is offered an opportunity to respond and select an option for resolving the matter.
+acl:  respond
+acl head:  opportunity
+acl children:  [to, and, select]
+
+
+		Although ETS considers information received from these sources, ETS does not cancel scores unless it is determined that there is substantial evidence that the scores are invalid.
+acl:  received
+acl head:  information
+acl children:  [from]
+
+acl:  are
+acl head:  evidence
+acl children:  [that, scores, invalid]
+
+
+		Comparisons of, including but not limited to:	a test taker's answers with those of other test takers;	a test taker's scores with previous scores, or scores on different sections of the test;	the handwriting from documents completed on test day with handwriting on other documents;	identification documents presented by the test taker on test day with other records;	the information on test day documents with other records;	answers changed to match those of another test taker;	biometric data.
+acl:  completed
+acl head:  documents
+acl children:  [on, with]
+
+acl:  presented
+acl head:  documents
+acl children:  [by, with]
+
+acl:  changed
+acl head:  documents
+acl children:  [;, 	, ;, answers, match, .]
+
+
+	ETS will not cancel test scores without substantial evidence that they are invalid.
+acl:  are
+acl head:  evidence
+acl children:  [that, they, invalid]
+
+
+In each case the OTI prepares a file, called a Score Review Summary, which contains information and documentation relating to its concerns.
+acl:  relating
+acl head:  information
+acl children:  [to]
+
+
+		If OTI determines that there is not substantial evidence of invalidity, it terminates the review and sends any scores not already reported to the test taker and designated score recipients.
+acl:  reported
+acl head:  scores
+acl children:  [not, already, to, and]
+
+
+		If OTI staff finds substantial evidence that scores may be invalid, they notify the test taker and offer a single opportunity to submit additional information that addresses ETS's concerns.
+acl:  be
+acl head:  evidence
+acl children:  [that, scores, may, invalid]
+
+acl:  submit
+acl head:  opportunity
+acl children:  [to, information]
+
+
+Upon receipt of such information, OTI staff refer the Score Review Summary and any additional information supplied by the test taker to the ETS Board of Review for consideration and decision/recommendation.
+acl:  supplied
+acl head:  information
+acl children:  [by, for]
+
+
+If the test taker elects not to respond by the expiration of the time period indicated in ETS's letter, the test taker's scores will be canceled without further notice.
+acl:  indicated
+acl head:  period
+acl children:  [in]
+
+
+	Before questioned scores are submitted to the Board of Review, the OTI provides test takers with an opportunity to submit information addressing ETS's concerns.
+acl:  submit
+acl head:  opportunity
+acl children:  [to, information]
+
+acl:  addressing
+acl head:  information
+acl children:  [concerns]
+
+
+For example:	Authenticated original documents written prior to the questioned test administration may address questions about handwriting differences.
+acl:  written
+acl head:  documents
+acl children:  [prior]
+
+
+		The Board of Review considers the contents of the Score Review Summary (which, in discrepant-handwriting cases, includes a report from an external document examiner retained by ETS) and any information submitted by the test taker.
+acl:  retained
+acl head:  examiner
+acl children:  [by]
+
+acl:  submitted
+acl head:  information
+acl children:  [by]
+
+
+ETS offers options before cancelling the test taker's scores at this stage, as explained below under "Options Leading to Resolution."
+acl:  Leading
+acl head:  Options
+acl children:  [to]
+
+
+		Options Leading to Resolution.
+acl:  Leading
+acl head:  Options
+acl children:  [to]
+
+
+ETS then removes the scores from the test taker's record and refunds any applicable test fees paid by the test taker.
+acl:  paid
+acl head:  fees
+acl children:  [by]
+
+
+	A test taker may ask to have a third-party arbitrator, appointed by the American Arbitration Association, determine whether ETS has substantial evidence to support the cancellation of the questioned test scores.
+acl:  appointed
+acl head:  arbitrator
+acl children:  [by]
+
+acl:  support
+acl head:  evidence
+acl children:  [to, cancellation]
+
+
+		The arbitration option is available only to test takers testing in the United States at the time of testing.
+acl:  testing
+acl head:  takers
+acl children:  [in, at]
+
+
+	A test taker electing this option must sign a standard ETS Arbitration Agreement that spells out the procedures that will apply in the arbitration.
+acl:  electing
+acl head:  taker
+acl children:  [option]
+
+
+Arbitration is intended only as an independent review of ETS's decision that there is substantial evidence to support cancellation.
+acl:  is
+acl head:  decision
+acl children:  [that, there, evidence]
+
+acl:  support
+acl head:  evidence
+acl children:  [to, cancellation]
+
+
+Therefore, test takers may not submit any information in the arbitration that was not submitted to the Board of Review within the time provided.
+acl:  provided
+acl head:  time
+acl children:  []
+
+
+Any applicable test fee the test taker paid is refunded, or the test taker may take a future test without charge.
+acl:  paid
+acl head:  taker
+acl children:  []
+
+
+Test takers must give ETS written permission to talk to anyone.
+acl:  talk
+acl head:  permission
+acl children:  [to, to]
+
+
+	Look for words that refer back to some information given in a previous section of the text.
+acl:  given
+acl head:  information
+acl children:  [in]
+
+
+	Review glossaries/lists of terms used in academic textbooks.
+acl:  used
+acl head:  terms
+acl children:  [in]
+
+
+	Study prefixes — a part of a word attached to the beginning of the word:	in- (into);	pre- (before).
+acl:  attached
+acl head:  word
+acl children:  [to]
+
+
+	Study suffixes — a part of a word attached at the end of the word:	-tion (inspection);	-able (predictable).
+acl:  attached
+acl head:  word
+acl children:  [at]
+
+
+	Learn to recognize different organizational styles so you can understand the way an article or text is structured.
+acl:  recognize
+acl head:  Learn
+acl children:  [to, styles]
+
+
+	Pay attention to the connecting words/transitions used for specific relationships:	steps — first, second, next, finally;	reasons — because, since;	results — as a result, so, therefore;	examples — for example, such as;	comparisons — in contrast, on the other hand;	restatements of information — in other words, that is;	conclusions — in conclusion, in summary.
+acl:  used
+acl head:  transitions
+acl children:  [for]
+
+
+	Combine the sentences using appropriate transition words to show the relationship between ideas.
+acl:  using
+acl head:  sentences
+acl children:  [words, show]
+
+
+	Call and listen to information recorded in English, such as a movie schedule, a weather report or information about an airline flight.
+acl:  recorded
+acl head:  information
+acl children:  [in]
+
+
+	Watch or listen to TV programs and podcasts recorded in English.
+acl:  recorded
+acl head:  podcasts
+acl children:  [in]
+
+
+	Visit academic classes conducted in English.
+acl:  conducted
+acl head:  classes
+acl children:  [in]
+
+
+	Pay attention to the difference between main ideas and details presented.
+acl:  presented
+acl head:  difference
+acl children:  []
+
+
+	Pay attention to the structure:	Lecture or presentation — introduction, body and conclusion;	Narrative story — beginning, middle and end.
+acl:  beginning
+acl head:  structure
+acl children:  [Lecture, ,, middle]
+
+
+	Learn to recognize different styles of organization:	Theory and evidence;	Cause and effect;	Steps of a process;	Comparison of 2 things.
+acl:  recognize
+acl head:  Learn
+acl children:  [to, styles]
+
+
+Be careful not to interpret information based on your personal understanding or knowledge of the topic.
+acl:  based
+acl head:  information
+acl children:  [on]
+
+
+	Listen for expressions and vocabulary that tell you the type of information being given.
+acl:  given
+acl head:  information
+acl children:  [being]
+
+
+	Listen for signal words or phrases that connect ideas in order to recognize the relationship between ideas.
+acl:  recognize
+acl head:  order
+acl children:  [to, relationship]
+
+
+	Write a sentence connecting the examples, using the appropriate connecting word.
+acl:  connecting
+acl head:  sentence
+acl children:  [examples]
+
+
+	Read a paragraph from an academic course book, and practice summarizing the paragraph aloud.
+acl:  summarizing
+acl head:  practice
+acl children:  [paragraph, aloud]
+
+
+	Listen to something spoken by a native English speaker.
+acl:  spoken
+acl head:  something
+acl children:  [by]
+
+
+Record yourself repeating the same information, and compare it to the native English speaker.
+acl:  repeating
+acl head:  Record
+acl children:  [information]
+
+
+	Make a list of the kinds of topics being discussed.
+acl:  discussed
+acl head:  topics
+acl children:  [being]
+
+
+Practice finding the main points and taking notes.
+acl:  finding
+acl head:  Practice
+acl children:  [points, and, taking]
+
+
+	Replay the recording to check your notes and add information you may have missed.
+acl:  check
+acl head:  recording
+acl children:  [to, notes, and, add]
+
+
+	Learn to recognize common errors you make
+acl:  recognize
+acl head:  Learn
+acl children:  [to, errors]
+
+
+	Practice combining information you have heard and read into a written summary.
+acl:  combining
+acl head:  Practice
+acl children:  [information]
+
+
+	Take 2 of your sentences and practice combining them.
+acl:  combining
+acl head:  practice
+acl children:  [them]
+
+

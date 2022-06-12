@@ -6,6 +6,54 @@ I was a fool  to believe her.
 I don't want to get in the project.
 
 
+"""
+RULES FOR ACL PASSIVES
+1. -en form (!= lemma, -ing)
+	Trusted scores backed by the TOEFL test's reputation and high standards help you stand out and show you have what it takes to be great.
+acl:  backed
+acl head:  scores
+acl children:  [by]
+
+Home Edition is the same TOEFL iBT test you would take at a test center, just taken from the privacy of your own home and monitored online by a human proctor.
+acl:  taken
+acl head:  test
+acl children:  [just, from, and, monitored]
+
+
+2. acl head pos = noun.
+scores are sent to Canadian universities than all other English tests combined.
+acl:  combined
+acl head:  tests
+acl children:  []
+
+	Close all browsers and applications not needed for the test.
+acl:  needed
+acl head:  browsers
+acl children:  [not, for]
+
+
+3. w/ or w/o agent
+	You meet the TOEFL iBT score requirements set by the Home Office for immigration.
+acl:  set
+acl head:  requirements
+acl children:  [by, for]
+
+4. exclude adjective -ed form preceding head noun 
+	The required waiting period between tests is only 3 days, giving you more opportunities to test and helping you meet urgent deadlines.
+acl:  test
+acl head:  opportunities
+acl children:  [to, and, helping]
+
+5. include adjective -ed form following head noun 
+Such letters are valid for only one year from the date issued.
+acl:  issued
+acl head:  date
+acl children:  []
+
+"""
+
+
+
 pattern_passive = [
   { # be (auxiliary verb)
     "RIGHT_ID": "be verb",

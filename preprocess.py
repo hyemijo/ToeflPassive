@@ -3,7 +3,6 @@
 #-수동태의 비율. -> 선행연구와 부합하는지 확인.
 
 from collections import defaultdict
-from contextlib import nullcontext
 from lib2to3.pgen2 import token
 import os
 import turtle
@@ -70,6 +69,7 @@ class Text:
 # 2. preprocess sentences of txt files
 from spacy.matcher import DependencyMatcher
 matcher = DependencyMatcher(nlp.vocab)
+matcher2 = DependencyMatcher(nlp.vocab)
 
 
 # https://spacy.io/usage/rule-based-matching#dependencymatcher 
@@ -103,7 +103,24 @@ pattern_passive = [
 ]
 
 
+pattern_passive_acl = [
+  {
+    "RIGHT_ID": "main verb",
+    "RIGHT_ATTRS": {"DEP":"acl"} #{"DEP": {"IN" : ["ROOT"]}}
+  }
+]
+
+pattern_passive_other_cls = [
+  {
+    "RIGHT_ID": "main verb",
+    "RIGHT_ATTRS": {"DEP":"advcl"} #{"DEP": {"IN" : ["ROOT"]}}
+  }
+]
+
+
+
 matcher.add("passive", [pattern_passive])
+matcher2.add("acl", [pattern_passive_acl])
 
 # get clause information as a Clause Object
 class Clause:
@@ -143,30 +160,50 @@ class Sentence:
 
 
     def get_clauses(self):
+        # 1. basic passive clause
         m = matcher(self.sent)
-
-        for (match_id, token_ids) in m:
+        for (match_id, token_ids) in m:            
             subj, be, pp = [self.sent[i] for i in token_ids[::-1]]
             conjs = []
             conjs.append(pp)
             agent = []
             self.find_conj(pp, conjs, agent, True)
-            
-            # print("pp: ", pp.text, pp.dep_)
-            # print("conjs: ", conjs)
-            # print("childrens: ", [(c.text, c.dep_) for c in pp.children])
-            # print()
 
             for c in pp.children:
                 if c.dep_ == "agent":
                     agent.append(c)
-                #self.find_conj(c, conjs)
             
             agent = "" if not agent else "by " + list(agent[0].children)[0].text #agent.text #
-            # print(conjs)
 
             for conj in conjs:
                 self.clauses.append(" ".join((subj.text, be.text, conj.text, agent)))
+
+
+        # 2. acl
+        m2 = matcher2(self.sent)
+
+        for (match_id, token_ids) in m2:
+            acl = self.sent[token_ids[0]]
+            passive_acl_flag = acl.tag_ == "VBN" and acl.head.tag_.startswith("NN") # Penn Treebank II tag set. # pp and acl's head noun
+            if not passive_acl_flag:
+                continue
+
+            head_noun = acl.head
+            conjs = []
+            conjs.append(acl)
+            agent = []
+            self.find_conj(acl, conjs, agent, True)
+
+            for c in acl.children:
+                if c.dep_ == "agent":
+                    agent.append(c)
+            
+            agent = "" if not agent else "by " + list(agent[0].children)[0].text #agent.text #
+
+            for conj in conjs:
+                self.clauses.append(" ".join((head_noun.text, conj.text, agent)))
+            
+
             
 
     def get_clause_cnt(self):

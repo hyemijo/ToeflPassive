@@ -11,8 +11,10 @@ if __name__ == "__main__":
     # f.close()
 
     # 1. get data
-    # f = open("data_pickle.txt", 'rb')
-    # data = pickle.load(f)
+    f = open("data_pickle.txt", 'rb')
+    data = pickle.load(f)
+    # data = preprocess.read_file("test_text.txt")
+    # text = preprocess.Text(preprocess.nlp(data))
 
     """
     # get basic statistics
@@ -26,16 +28,47 @@ if __name__ == "__main__":
         print"""
 
     # 2. get clause information    
-    data = preprocess.read_file("test_text.txt")
-    text = preprocess.Text(preprocess.nlp(data))
-    text.get_sents_obj()
-    for s in text.sentences:
-        if s.clauses:
-            print(s.text)
-            for c in s.clauses:
-                print("\t", c)
-            print()
+    # tags: https://web.archive.org/web/20190206204307/https://www.clips.uantwerpen.be/pages/mbsp-tags
 
+    #output = open("passives.txt", 'w', encoding="utf-8")
+    output = open("passives_acl2.txt", 'w', encoding="utf-8")
+    texts = []
+    for text in data:
+        text = preprocess.Text(text)
+        text.get_sents_obj()
+        texts.append(text)
+        
+    # for s in texts[0].sentences:
+    #     string = s.text.strip()
+    #     string = string.replace("\t", " ")
+    #     print("--" + string +"--")
+    cnt = 0
+    
+    for k, text in enumerate(texts, start=1):
+        for i, s in enumerate(text.sentences, start = 1):
+            # s_str = s.text.strip().replace("\t", " ")
+            # print(str(k) + "-" + str(i), s_str, sep="\t", end = "\t", file = output)
+        
+            if s.clauses:
+                print(s.text, file = output)
+                cnt += len(s.clauses)
+                for c in s.clauses:
+                    print(c, file = output)
+                    #print("acl: ", c, c.lemma_, c.pos_, c.tag_,  file = output)
+                    #print("acl head: ", c.head, c.head.pos_, c.head.tag_, file = output)
+                    #print("acl children: ", list(c.children), file = output)
+                    #print("flag", form_pp and head_noun, file = output)
+                    #print(file = output)
+                print(file = output)
+            #     for j, c in enumerate(s.clauses, start=1):
+            #         endstr = "" if j == len(s.clauses) else "\t\t"
+                    # print(str(j), c, sep="\t", end = "\n"+ endstr, file = output)
+            # else:
+                # print(file = output)
+    print(cnt)
+
+
+    ################################################################
     # texts = []
     # for text in data:
     #     texts.append(preprocess.Text(text))
@@ -48,9 +81,6 @@ if __name__ == "__main__":
     #         for c in s.clauses:
     #             print("\t", c)
     #         print()
-
-    
-    
 
 
     # for i, sent in enumerate(text.sentences):
