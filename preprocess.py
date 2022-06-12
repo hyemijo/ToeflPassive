@@ -217,7 +217,7 @@ class Sentence:
         m2 = matcher2(self.sent)
         for (match_id, token_ids) in m2:
             acl = self.sent[token_ids[0]]
-            if advcl.tag_ != "VBN" or not acl.head.tag_.startswith("NN"):
+            if acl.tag_ != "VBN" or not acl.head.tag_.startswith("NN"):
                 continue
 
             head_noun = acl.head
@@ -239,7 +239,6 @@ class Sentence:
         # 3. other cls advcl, relcl        
         m3 = matcher3(self.sent)
         exclude_subj = ("nsubj", "nsubjpass", "csubj", "csubjpass")
-        exclude_pp = (("have", "aux"), ("get", "auxpass"))
         
         for (match_id, token_ids) in m3:
             advcl = self.sent[token_ids[0]]
@@ -249,7 +248,6 @@ class Sentence:
             if advcl.tag_ != "VBN" or has_subj or has_get_pp or has_perfect_pp:
                 continue
 
-            head_noun = advcl.head
             conjs = []
             conjs.append(advcl)
             agent = []
@@ -262,15 +260,13 @@ class Sentence:
             agent = "" if not agent else "by " + list(agent[0].children)[0].text #agent.text #
 
             for conj in conjs:
-                self.clauses.append(conj)    
-                self.clauses.append(" ".join(("cls\t", head_noun.text, conj.text, agent)))    
+                self.clauses.append(" ".join(("cls\t", conj.text, agent)))    
 
         # 4. passive with active
         m4 = matcher4(self.sent)
         for (match_id, token_ids) in m4:          
             root, subj, pp, be = [self.sent[i] for i in token_ids]
             if any("subjpass" in t.dep_ for t in pp.children):
-                print(pp, ":", list(pp.children))
                 continue
 
             conjs = []

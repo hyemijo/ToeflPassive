@@ -1,0 +1,2089 @@
+1-1	Why Choose the TOEFL iBT® Test?	
+1-2	Accepted and preferred by universities worldwide, the TOEFL iBT® test is a high-quality, high-standard test that assures admissions officers of your readiness for the classroom and beyond.	1	cls	 Accepted by universities
+		2	cls	 preferred by universities
+1-3	More than 35 million people worldwide have chosen the TOEFL test to demonstrate their English-language proficiency.	
+1-4	Here's why.	
+1-5	Accepted and Preferred Worldwide.	
+1-6	Get in at more universities.	
+1-7	The TOEFL iBT test is the world's most accepted English-language test for study, work and immigration.	
+1-8	It is preferred by more universities and institutions, so you can be confident you’ll stand out to admissions officers where it counts.	1	main	 It is preferred by universities
+1-9	Test Your Way.	
+1-10	Now you have a choice of where and how to take the TOEFL iBT test: at a test center or at home.	
+1-11	Test centers around the world are open, with enhanced safety and health regulations, or you can test from the privacy of your home.	
+1-12	Some countries now offer a Paper Edition option as well.	
+1-13	Your test.	
+1-14	Your choice.	
+1-15	A Better Test Experience.	
+1-16	Feel confident in your ability to succeed.	
+1-17	Learn about the benefits the TOEFL iBT test offers, including MyBest® scores and a free practice test, which provide you with a better testing experience from start to finish to help you do your best.	
+1-18	Accepted and Preferred Worldwide.	
+1-19	When you choose the high-standard TOEFL iBT® test to demonstrate your English proficiency, universities notice and know you are ready to succeed.	
+1-20	Accepted worldwide by more than 11,500 universities and institutions in over 160 countries, the TOEFL iBT test is the world's premier English-language test for study, work and immigration.	1	cls	 Accepted by universities
+1-21	Get Where You Want to Go.	
+1-22	If your goal is university study, the TOEFL iBT® test can help get you there.	
+1-23	"As a top-ranked global university, Macquarie University welcomes applicants with TOEFL iBT test scores.	
+1-24	" David Harrison, International Director, Macquarie University.	
+1-25	"As a top 100 University, the University of Glasgow welcomes applicants with TOEFL iBT test scores.	
+1-26	" Mhairi Macfarlane, Senior International Officer, University of Glasgow.	
+1-27	The TOEFL iBT test is: Preferred by more than 80% of Canadian graduate programs; And Canadian universities receive more TOEFL scores than all other English-language tests combined; Preferred by 9 out of 10 universities in the United States and accepted everywhere; Accepted by 100% of U.K. universities, including the prestigious Russell Group® schools; Accepted by the top European universities and the most preferred English-language test in France and Germany; Accepted by 100% of universities in Australia and New Zealand and for all migration visas; Widely accepted throughout Asia, including at top universities in mainland China, Hong Kong, Japan, Korea and Malaysia;  Get the TOEFL Test Advantage.	
+1-28	The TOEFL test comes with a clear advantage: universities know you are ready to succeed.	
+1-29	Get noticed by admissions officers.	
+1-30	Trusted scores backed by the TOEFL test's reputation and high standards help you stand out and show you have what it takes to be great.	1	acl	 scores backed by reputation
+1-31	Get in.	
+1-32	Over 90% of TOEFL test takers surveyed got into their 1st or 2nd choice university.	1	acl	 takers surveyed 
+1-33	Get a head start over your peers.	
+1-34	Strengthen your skills while preparing for the test and arrive on campus better prepared for the academic English demands of a university classroom.	
+1-35	Test Your Way.	
+1-36	Feeling safe and comfortable during testing is important and contributes to your success.	
+1-37	That's why the TOEFL iBT® test is offered 3 different ways, so you can choose the testing option that best suits your needs and preferences: TOEFL iBT test: Test on a computer at a test center; TOEFL iBT® Home Edition: Test on a computer at home; TOEFL iBT® Paper Edition: Test in 2 sessions — Reading, Listening, and Writing on paper at a test center, and Speaking on a computer at home.	1	main	 test is offered 
+1-38	It's your test — you choose where and how to take it.	
+1-39	TOEFL iBT® Test (at a Test Center).	
+1-40	Authorized TOEFL iBT test centers are open in locations around the world.	
+1-41	Find available test centers and dates.	
+1-42	Openings can vary by location and may depend on local conditions and government requirements that are outside of ETS's control.	
+1-43	Be sure to review What to Expect on Test Day to learn about the procedures you must follow and the enhanced safety procedures in place.	
+1-44	You can also check with your local test center for a complete list of health and safety procedures they've implemented.	
+1-45	TOEFL iBT Home Edition.	
+1-46	The TOEFL iBT	
+1-47	Home Edition is the same TOEFL iBT test you would take at a test center, just taken from the privacy of your own home and monitored online by a human proctor.	1	acl	 test taken by proctor
+		2	acl	 test monitored by proctor
+1-48	It is trusted and accepted by universities worldwide.	1	main	 It is trusted by universities
+		2	main	 It is accepted by universities
+1-49	Be sure you review and meet the At Home Testing Environment and Equipment requirements before you register for the Home Edition.	
+1-50	Learn about what you can expect on test day when taking the TOEFL iBT	
+1-51	Home Edition.	
+1-52	Test Takers in Mainland China: To register for the TOEFL iBT	
+1-53	Home Edition and for information, policies and procedures specific to Mainland China, visit https://toefl.cn/at-home.	
+1-54	TOEFL iBT Paper Edition.	
+1-55	You can take the TOEFL iBT test on paper in select countries if you prefer that testing format.	
+1-56	The Paper Edition is the same 4-skills TOEFL iBT test, just delivered on paper and given in 2 testing sessions.	
+1-57	The Reading, Listening, and Writing sections are taken on paper at a test center.	1	main	 sections are taken 
+1-58	The Speaking section is taken at home on your computer monitored online by a human proctor, within 3 days after the paper sections.	1	main	 section is taken 
+		2	cls	 monitored by proctor
+1-59	The Paper Edition is currently available in Colombia, India, Mexico and the United States, with testing starting by the end of 2021.	
+1-60	Additional countries will be added in the future.	1	main	 countries be added 
+1-61	Because the Speaking section is administered at home, make sure you meet the necessary Environment and Equipment requirements before you register.	1	main	 section is administered 
+1-62	Also, be sure to review On Test Day information — both for at home testing and test center testing — to learn about the policies and procedures you must follow.	
+1-63	Prepare for Success.	
+1-64	There are plenty of resources to help you prepare for the TOEFL iBT test.	
+1-65	Access a full line of official free and low-cost test prep materials to help you do your best on test day, no matter where and how you take it.	
+1-66	Prepare for the Test.	
+1-67	A Better Test Experience from Start to Finish.	
+1-68	When you choose the TOEFL iBT® test, you're choosing the only test that measures academic English skills in the way they're actually used in a classroom.	1	main	 they 're used 
+1-69	But you're also getting a better test experience designed to help you succeed.	1	acl	 experience designed 
+1-70	Here are some of the enhancements we’ve put in place to offer you the best English-language test and testing experience possible: More Opportunities to Register.	
+1-71	The mandatory wait time between tests is just 3 days, and you can register online up to 2 days before your test.	
+1-72	Free Practice Test.	
+1-73	Prepare for test day with a full-length test, as part of the complete line of official test prep from the maker of the test.	
+1-74	Shorter Test.	
+1-75	The total testing time is about 3 hours.	
+1-76	Instant Scores.	
+1-77	View your unofficial Reading and Listening scores at the end of your test.	
+1-78	(Not available for TOEFL iBT® Paper Edition.)	
+1-79	Faster Official Scores.	
+1-80	Receive your full, official scores just 6 days after your test (11–13 business days for Paper Edition).	
+1-81	MyBest® Scores.	
+1-82	Show your best overall test performance with MyBest scores, the combination of your best section scores from the past 2 years.	
+1-83	Fair and Unbiased Scoring.	
+1-84	All tests are marked centrally using a combination of AI and human scoring.	1	main	 tests are marked 
+1-85	TOEFL® Search Service.	
+1-86	This free service matches you with universities based on criteria you entered in your profile, so you're more likely to receive information about programs, financial aid, fellowships and other educational opportunities.	1	acl	 universities based 
+1-87	Opt in for free through your ETS account!	
+2-1	About the TOEFL iBT® Test.	
+2-2	Get the Advantage You Need to Succeed.	
+2-3	The TOEFL iBT® test helps you stand out confidently in English, and it comes with a clear advantage — universities know you are ready to succeed.	
+2-4	That's why it's accepted by more than 11,500 universities and other institutions in over 160 countries, including Australia, Canada, New Zealand, the United States, the U.K., and across Europe and Asia.	1	main	 it 's accepted by universities
+2-5	The test is conveniently offered via 3 testing options: the traditional TOEFL iBT test in a test center; the TOEFL iBT	1	main	 test is offered 
+2-6	Home Edition; the TOEFL iBT Paper Edition.	
+2-7	It's the only test that measures all 4 academic English skills — reading, listening, speaking, and writing — the way they are actually used in a classroom.	1	main	 they are used 
+2-8	So your TOEFL® scores provide a true reflection of your abilities and show admissions officers you have what it takes to be great.	
+2-9	See the full list of countries where the TOEFL iBT test is available.	
+2-10	Find out more about the test that can help you get where you want to go.	
+2-11	Why the TOEFL iBT Test?	
+2-12	See why more than 35 million people have chosen our test to prove their English proficiency.	
+2-13	Why Choose the TOEFL Test.	
+2-14	Where Would You Like to Study?	
+2-15	Find country-specific information, in-country resources and more to help you on your journey.	
+2-16	Resources to Help You Study Abroad.	
+2-17	What's On the Test?	
+2-18	Learn about test content and get information about what to expect on each section of the test.	
+2-19	Test Content.	
+2-20	Taking the Test.	
+2-21	Choose where and how you want to take the test, learn how to register, search for test locations and dates, and more.	
+2-22	Taking the Test.	
+2-23	Prepare for Success.	
+2-24	Make sure you're ready!	
+2-25	Learn about the test format, access sample questions, take practice tests and much more.	
+2-26	Preparing for the Test.	
+2-27	Fair and Unbiased Scores.	
+2-28	Discover what your test scores mean, when you'll receive them, and how to send them to universities and institutions.	
+2-29	Scores.	
+2-30	Connect with Us.	
+2-31	Join our mailing list to receive the latest updates, news and resources related to the TOEFL iBT test.	1	acl	 news related 
+2-32	Check out the TOEFL Blog to learn how the TOEFL iBT test can help you pursue your academic dreams.	
+2-33	TOEFL iBT® Test Content.	
+2-34	The TOEFL iBT® test has 4 sections: Reading, Listening, Speaking, and Writing.	
+2-35	During the test, you'll perform tasks that combine these 4 English communication skills, such as: read, listen and then speak in response to a question; listen and then speak in response to a question; read, listen and then write in response to a question.	
+2-36	The total test takes about 3 hours to complete, but you should plan for 3½ hours, allowing 30 minutes for check in.	
+2-37	This quick video about the structure of the TOEFL iBT® test will help you understand what to expect on the test.	
+2-38	At a Glance.	
+2-39	Section Time Limit Questions Tasks.	
+2-40	Reading 54–72 minutes 30–40 questions Read passages and respond to questions.	
+2-41	Listening 41–57 minutes 28–39 questions Answer questions about brief lectures or classroom discussions.	
+2-42	Break 10 minutes — —.	
+2-43	Speaking 17 minutes 4 tasks Talk about a familiar topic and discuss material you read and listened to.	
+2-44	Writing 50 minutes 2 tasks Read a passage, listen to a recording, type your response.	
+2-45	A Closer Look.	
+2-46	Let's take a closer look at each section of the test.	
+2-47	TOEFL iBT® Reading Section.	
+2-48	What Is In the Reading Section?	
+2-49	The TOEFL iBT® Reading section is designed to assess how well you can read and understand the kind of materials used in an academic environment.	1	main	 section is designed 
+		2	acl	 materials used 
+2-50	It includes 3 or 4 reading passages, each approximately 700 words long, with 10 questions per passage.	
+2-51	You have 54 to 72 minutes to answer all the questions in the section.	
+2-52	Reading passages are excerpts from university-level textbooks that would be used in introductions to a discipline or topic.	1	main	 that be used 
+2-53	The passages cover a variety of different subjects.	
+2-54	Don't worry if you're not familiar with the topic of a passage.	
+2-55	All the information you need to answer the questions will be included in the passage.	1	main	 information be included 
+2-56	There is a glossary feature available to define words not commonly used, if you need it.	1	acl	 words used 
+2-57	Inside the TOEFL® Test.	
+2-58	These Inside the TOEFL® Test videos describe the types of questions you will find in the Reading section, plus helpful tips.	
+2-59	Extra Questions.	
+2-60	The test you take may include extra questions in the Reading or Listening sections that don't count toward your score.	
+2-61	These questions help ETS to: make test scores comparable across administrations; determine how such questions function under actual testing conditions.	
+2-62	TOEFL iBT® Listening Section.	
+2-63	What Is In the Listening Section?	
+2-64	The TOEFL iBT® Listening section is designed to measure your ability to understand conversations and lectures in English.	1	main	 section is designed 
+2-65	It includes listening for:  basic comprehension; pragmatic understanding (speaker's attitude and degree of certainty) and connecting and synthesizing information.	
+2-66	There are 2 types of listening items in the Speaking section — lectures and conversations.	
+2-67	Both use campus-based language.	
+2-68	3–4 lectures, each 3–5 minutes long, with 6 questions per lecture.	
+2-69	2–3 conversations with 2 speakers, each 3 minutes long, with 5 questions per conversation.	
+2-70	You can take notes on any audio item throughout the test to help you answer questions.	
+2-71	You have 41 to 57 minutes to complete the section.	
+2-72	Inside the TOEFL® Test.	
+2-73	These Inside the TOEFL® Test videos describe the types of questions you will find in the Listening section, plus helpful tips.	
+2-74	Extra Questions.	
+2-75	The test you take may include extra questions in the Reading or Listening sections that don't count toward your score.	
+2-76	These questions help ETS to: make test scores comparable across administrations; determine how such questions function under actual testing conditions.	
+2-77	Accents.	
+2-78	The Listening section includes native-speaker English accents from North America, the U.K., New Zealand or Australia to better reflect the variety of accents you might encounter while studying abroad.	
+2-79	For example, listen to this talk about the greenhouse effect (MP3).	
+2-80	The lecturer is from the U.K.   TOEFL iBT® Speaking Section What Is In the Speaking Section?	
+2-81	The TOEFL iBT® Speaking section is designed to measure your ability to speak English effectively in academic settings.	1	main	 section is designed 
+2-82	It is composed of 4 tasks that resemble real-life situations you might encounter both in and outside of a classroom.	1	main	 It is composed 
+2-83	Question 1 is called an "independent speaking task" because it requires you to draw entirely on your own ideas, opinions and experiences when you respond.	1	main	 Question is called 
+2-84	Questions 2–4 are called "integrated speaking tasks" because they require you to combine your English-language skills — listening and speaking, or listening, reading and speaking — just as you would in or out of a classroom.	1	main	 2–4 are called 
+2-85	You'll get 15–30 seconds of preparation time before each response, and your response will be 45 or 60 seconds long.	
+2-86	To respond, you'll speak into the microphone.	
+2-87	Your responses are recorded and sent to ETS, where they will be scored by a combination of AI scoring and certified human raters to ensure fairness and quality.	1	main	 responses are recorded 
+		2	main	 responses are sent 
+		3	main	 they be scored by combination
+2-88	See the Speaking Scoring Guides (Rubrics) (PDF) for more information about how your responses are scored.	1	main	 responses are scored 
+2-89	You have 17 minutes to complete the Speaking section.	
+2-90	Practice Your Speaking Skills.	
+2-91	The TOEFL® Practice Online Speaking Series, an official test prep tool from ETS, is exclusively dedicated to helping you practice your English-speaking skills.	1	main	 Series is dedicated 
+2-92	Includes previously administered test questions, simulates the actual testing experience and provides feedback within 24 hours.	
+2-93	Purchase today.	
+2-94	Inside the TOEFL® Test.	
+2-95	These Inside the TOEFL® Test videos describe the types of questions you will find in the Speaking section, plus helpful tips.	
+2-96	Accents.	
+2-97	The Speaking section includes native-speaker English accents from North America, the U.K., New Zealand or Australia to better reflect the variety of accents you might encounter while studying abroad.	
+2-98	Only the first of the 4 items may have accented speech.	
+2-99	Below are 2 examples, both of which use accents from the U.K.	
+2-100	In each instance, the example is 15 seconds long, and you would have 45 seconds to respond.	
+2-101	Audio File Transcript.	
+2-102	Item 1 (MP3) If friends from another country were going to spend time in your country, what city or place would you suggest they visit?	
+2-103	Using details and examples, explain why.	
+2-104	Item 2 (MP3) Some people enjoy taking risks and trying new things.	
+2-105	Others are not adventurous; they are cautious and prefer to avoid danger.	
+2-106	Which behavior do you think is better?	
+2-107	Explain why.	
+2-108	TOEFL iBT® Test Writing Section.	
+2-109	What Is In the Writing Section?	
+2-110	The TOEFL iBT® test Writing section is designed to measure your ability to write in English in an academic setting, and you're expected to be able to present your ideas in a clear, well-organized manner.	1	main	 section is designed 
+		2	main	 section is expected 
+		3	main	 you 're expected 
+2-111	There are 2 writing tasks.	
+2-112	Integrated writing task (20 minutes) — read a short passage and listen to a short lecture, then write in response to what you read and listened to; Independent writing task (30 minutes) — write an essay based on personal experience or opinion in response to a writing topic.	1	acl	 essay based 
+2-113	You'll type your responses on a computer keyboard (or hand write them for the TOEFL iBT® Paper Edition).	
+2-114	Responses are sent to ETS, where they are scored by a combination of AI scoring and certified human raters to ensure fairness and quality.	1	main	 Responses are sent 
+		2	main	 they are scored by combination
+2-115	You'll have 50 minutes to complete the Writing section.	
+2-116	Practice Your Writing Skills.	
+2-117	Get The Official Guide to the TOEFL® Test for a list of sample writing topics.	
+2-118	You can purchase the Guide through your ETS account, either online or via the TOEFL official app.	
+2-119	Inside the TOEFL® Test.	
+2-120	These Inside the TOEFL® Test videos describe the types of questions you will find in the Writing section, plus helpful tips.	
+2-121	Do You Need to Be an Expert?	
+2-122	The writing tasks are designed to measure your English proficiency, so you don't need deep knowledge of specialized topics to get a high score.	1	main	 tasks are designed 
+2-123	Raters recognize that each essay is a first draft, and you can receive a high score with an essay that contains some errors.	
+2-124	See the Writing Scoring Guides (Rubrics) (PDF) for more information about how the essays are scored.	1	main	 essays are scored 
+2-125		
+3-1	Where Would You Like to Study?	
+3-2	When you make the decision to study abroad, you expand your choices to include the world's top higher education institutions.	
+3-3	You give yourself the opportunity to take courses you may not find anywhere else, and to experience new languages, cultures and lifestyles.	
+3-4	Did you know?	
+3-5	A 50-year study of 3,400 students showed that "studying abroad is usually a defining moment in a young person's life and continues to impact the participant's life for years after the experience.	
+3-6	"  Wherever you are in your study-abroad journey — whether you've just started to consider your options or you're thinking about the visa application process — we're here to help with the information, online tools and ongoing support you need.	
+3-7	Get to the Most Popular Countries.	
+3-8	Find information about the process you'll go through to study in some of the most popular destinations.	
+3-9	Australia and New Zealand.	
+3-10	Canada.	
+3-11	U.K. and Europe.	
+3-12	United States.	
+3-13	Expand Your Options with the TOEFL® Search Service.	
+3-14	This free service uses criteria from your ETS account to match you with universities and institutions around the world.	
+3-15	You can receive information about programs, admission requirements, financial aid opportunities and more.	
+3-16	Even if you aren't ready to register for the test yet, you can still create your account and sign up today!	
+3-17	Create an account or log in to get started.	
+3-18	Other Resources.	
+3-19	Destination Search.	
+3-20	Want to know who accepts TOEFL scores?	
+3-21	Use our Destination Search to find where your TOEFL scores can take you.	
+3-22	Search by institution name or location.	
+3-23	Student Fairs.	
+3-24	Meet with representatives of top colleges and universities and learn more about how the TOEFL test can help you meet your academic goals.	
+3-25	Country Information.	
+3-26	Below are some of the most popular study-abroad destinations.	
+3-27	Select the country where you want to study for information about the visa application process and how the TOEFL iBT® test can help you get there.	
+3-28	Go to Australia or New Zealand.	
+3-29	Get there with the TOEFL iBT® Test.	
+3-30	Accepted by 100% of Australian universities and for all Australian immigration.	
+3-31	Accepted by 100% of New Zealand universities and the New Zealand Qualifications Authority (NZQA), and for New Zealand permanent residence.	
+3-32	Australia.	
+3-33	If you are applying for an Australian visa, be sure to register for a TOEFL iBT® test at a test center.	
+3-34	The Australian government does not currently accept any English-language tests that are taken at home, including the TOEFL iBT Home Edition.	1	main	 that are taken 
+3-35	For applications to Australian universities and other institutions, please check with the institution directly about their requirements.	
+3-36	Student Visas.	
+3-37	All international students need a student visa to attend college or university in Australia.	
+3-38	To gain an Australian visa, you'll need to demonstrate your English abilities to the Australian Department of Home Affairs.	
+3-39	You can use your TOEFL iBT scores to do this!	
+3-40	Just be sure to check the score requirements of the universities and programs where you're applying — those requirements may be different than the student visa requirements.	
+3-41	For more information about getting your Australian visa, visit the Australian Department of Home Affairs website.	
+3-42	Other Visas.	
+3-43	You can also use your TOEFL iBT scores to apply for a variety of temporary and permanent visas, including skilled migration, post-study work, business, and work and holiday.	
+3-44	For more information about skilled migration, including TOEFL iBT score requirements for professional bodies, read Australian Skilled Migration FAQs (PDF) visit the Australian Department of Home Affairs website.	
+3-45	New Zealand.	
+3-46	If you are applying for a New Zealand visa, be sure to register for a TOEFL iBT test at a test center.	
+3-47	The New Zealand government does not currently accept English-language tests that are taken at home, including the TOEFL iBT Home Edition.	1	main	 that are taken 
+3-48	For applications to New Zealand universities and other institutions, please check with the institution directly about their requirements.	
+3-49	Student Visas.	
+3-50	You can use your TOEFL iBT scores to prove English-language proficiency for university and college admission in New Zealand.	
+3-51	Check with the institutions directly for their score requirements.	
+3-52	Other Visas.	
+3-53	TOEFL iBT	
+3-54	scores are also accepted for permanent skilled migration visas.	1	main	 scores are accepted 
+3-55	For the Skilled Migrant Category Resident Visa, you need a total score of 79 or more from a test taken within 2 years prior to your application date.	1	acl	 test taken 
+3-56	Visit the Immigration New Zealand website for more information.	
+3-57	TOEFL	
+3-58	iBT	
+3-59	scores are also recognized by the New Zealand Qualifications Authority (NZQA) for Institutes of Technology and Polytechnics (ITPs) and Private Training Establishments (PTEs).	1	main	 scores are recognized by Authority
+3-60	Go to Canada.	
+3-61	Get there with the TOEFL iBT® Test.	
+3-62	Accepted by 100% of Canadian universities.	
+3-63	More than 80% of graduate programs in Canada prefer the TOEFL iBT® test over other tests.	
+3-64	More TOEFL iBT	
+3-65	scores are sent to Canadian universities than all other English tests combined.	1	main	 scores are sent 
+		2	acl	 tests combined 
+3-66	All international students intending to study in Canada are required to have a student visa.	
+3-67	In order to apply for one, you need to take an English-proficiency test and be accepted by a Canadian college or university — you will need to provide the letter of acceptance with your application.	
+3-68	You can find out more information and apply for your Canadian Student Visa at the Citizenship and Immigration Canada website.	
+3-69	Go to the U.K. or Europe.	
+3-70	Get there with the TOEFL iBT® Test.	
+3-71	Accepted by 100% of U.K. universities, including the prestigious Russell Group® universities.	
+3-72	Accepted by the top European universities and most preferred in France and Germany.	
+3-73	Accepted by 100% of universities in Ireland, which also accept the TOEFL iBT® Home Edition without conditions.	
+3-74	U.K..	
+3-75	The TOEFL iBT test is accepted for admissions by 100% of all U.K. universities, including the prestigious Russell Group universities.	1	main	 test is accepted 
+3-76	If you are a citizen of the European Union and arrive before January 1, 2021, you can study in the U.K. without a student visa.	
+3-77	If you are an EU, EEA or Swiss citizen and intend to arrive in the U.K. on or after January 1, 2021, you will need to apply for a student visa under the U.K. government's new Student route.	
+3-78	You can find more information about living and studying in the U.K. on the U.K. Council for International Student Affairs (UKCISA) website.	
+3-79	Using the TOEFL iBT	
+3-80	Test for Student Route Visas.	
+3-81	The U.K. Home Office now uses a points-based system for issuing a Student route visa.	
+3-82	International students must meet the requirement of 70 points, and the English-language requirement counts for 10 of the 70 points.	
+3-83	The TOEFL iBT test is accepted for the English-language requirement of Student route visas under certain conditions.	1	main	 test is accepted 
+3-84	Universities are permitted by the Home Office to choose how to assess applicants' English-language abilities.	1	main	 Universities are permitted by Office
+3-85	Under this provision, a university may issue a Confirmation of Acceptance for Studies (CAS) for students with scores from an English test that is not formally recognized by the U.K. Home Office as a Secure English Language Test (SELT), including the TOEFL iBT test.	1	main	 that is recognized by Office
+3-86	In order to use your TOEFL iBT scores in this way, the following conditions need to be met: Your chosen U.K. university accepts the TOEFL iBT test for admissions purposes.	
+3-87	Check the university website, or contact the admissions department directly, to confirm that they accept TOEFL iBT scores for applications to study at degree level or above.	
+3-88	You meet the TOEFL iBT score requirements for university entry and your course of study.	
+3-89	Be sure to check the university website for TOEFL iBT score requirements as you may find each university has different requirements depending on the course you intend to apply for.	
+3-90	You meet the TOEFL iBT score requirements set by the Home Office for immigration.	1	acl	 requirements set by Office
+3-91	These scores are: For University Degree Level Courses – B2 level; Total: 72; Reading: 18; Listening: 17; Writing: 17; Speaking: 20.	
+3-92	Europe.	
+3-93	If you plan to study within the European Union or wider Schengen area and you are coming from outside Western Europe, you will need a visa in order to do so.	
+3-94	If you plan to stay for 90 days or more, you'll also need a Long-Stay Visa or residence permit.	
+3-95	You must be accepted by a reputable institution in the EU country prior to applying.	1	main	 You be accepted by institution
+3-96	To apply for these documents, you'll need to submit your application to the country in which you plan to study, along with whatever documentation and evidence they require.	
+3-97	This may include:  a valid passport; letter of acceptance; medical insurance; proof of language proficiency; proof that you are able to pay tuition fees and support yourself.	
+3-98	It typically takes about a month to process, though it can take as long as 90 days.	
+3-99	If you haven't received a response within 90 days, it's likely that you were denied, and you should reach out to the visa office for more information.	1	main	 you were denied 
+3-100	For more information on studying in Europe, see: Are You Ready to Study in Europe?	
+3-101	; Studying in the European Union and the European Economic Area; The Schengen Visa.	
+3-102	Ireland	
+3-103	If you plan to study in Ireland, you have a choice of where you can take your TOEFL iBT test — in a test center or at home with the TOEFL iBT	
+3-104	Home Edition.	
+3-105	100% of Irish universities accept the TOEFL iBT	
+3-106	Home Edition without conditions.	
+3-107	Learn more about the requirements for Irish study visas.	
+3-108	Go to the United States.	
+3-109	Get there with the TOEFL iBT® Test.	
+3-110	Demonstrate your English proficiency with the test that is preferred by 9 out of 10 universities in the United States and accepted everywhere.	1	main	 that is preferred by universities
+		2	main	 that is accepted by universities
+3-111	Before you can apply for your U.S. student visa, you must be accepted by a study program at an accredited American institution, which will require you to prove your English proficiency with a test like the TOEFL iBT test.	1	main	 you be accepted by program
+3-112	Once you've applied, you must: travel to your nearest U.S. Embassy or Consulate for a face-to-face visa interview before it's issued; provide proof that you can financially support yourself while studying in America; demonstrate that you have sufficient reason to return home after your studies are over.	1	main	 it 's issued 
+3-113	For more information about living or studying in the United States, visit: EducationUSA; Study in the States; International Student USA; U.S. Bureau of Consular Affairs.	
+3-114	How Do You Choose Where to Go?	
+3-115	Once you've made the decision to study abroad, it's time to figure out where you want to study.	
+3-116	But with so many places to go, how do you choose?	
+3-117	Here are some questions to help you narrow down your options.	
+3-118	What kinds of culture appeal to you?	
+3-119	How difficult will it be to get a student visa in the country where you want to study?	
+3-120	What type of education do you want — independent learning, guided learning or a combination of both?	
+3-121	What is the cost of study and how does it compare to your budget?	
+3-122	What are the program requirements?	
+3-123	If you want to stay in that country after completing your studies, how easily will you be able to get a work visa?	
+3-124	How Do You Apply for a Visa?	
+3-125	No matter where you're planning to study, you'll probably need a visa to get there.	
+3-126	The process for getting a visa depends on the country, but here are some helpful general tips.	
+3-127	Keep on Schedule.	
+3-128	Plan ahead so you don't miss any appointments, such as face-to-face interviews or deadlines.	
+3-129	Complete All Forms.	
+3-130	Student visa applications can be rejected or delayed if all required portions of the form aren't completed, so be sure to read and follow all instructions.	1	main	 applications be rejected 
+		2	main	 applications be delayed 
+		3	main	 portions are completed 
+3-131	Be Honest.	
+3-132	Make sure you're totally honest in every stage of your student visa application.	
+3-133	Visa agencies have comprehensive databases and will often be able to identify information that isn't accurate.	
+3-134	Assess Your Health.	
+3-135	You may be required to have a medical examination or get vaccinations before being issued a student visa.	1	main	 You be required 
+3-136	Plan Your Finances.	
+3-137	Make sure you can demonstrate that you have the financial resources to pay for your tuition and living expenses while studying abroad.	
+3-138	This will require a detailed financial plan, including any financial aid or scholarships, along with any financial documentation the country requires.	
+3-139	Establish Ties to Home.	
+3-140	You may need to prove that you have ties to home, such as family or property, and that you'll be returning to your native country after your studies are complete.	
+3-141	You may be asked to prove how your education abroad will help you get a job in your native country.	1	main	 You be asked 
+3-142		
+4-1	Take the TOEFL iBT® Test.	
+4-2	When your goal is university study, choose the test that helps you stand out to admissions officers and arrive on campus better prepared for the academic English demands of a university classroom.	
+4-3	90% of TOEFL iBT® test takers surveyed were accepted into their 1st or 2nd choice university, and you can be, too!	1	main	 % were accepted 
+		2	acl	 takers surveyed 
+4-4	Are you ready to put that advantage to work for you?	
+4-5	Once you've familiarized yourself with your TOEFL iBT testing options, let's take a closer look at how you'll register for the test, and what you need to know before you do.	
+4-6	Ready to register?	
+4-7	Already familiar with testing requirements and other policies, and ready to schedule your test?	
+4-8	How to Register.	
+4-9	Use our convenient online system to register for a test or learn about other registration methods.	
+4-10	Your ETS Account.	
+4-11	Learn about what you can do with your account, and how to make sure you register using the correct name.	
+4-12	Find Test Locations and Dates.	
+4-13	Choose how and where to take your test, and find available appointments that work for you.	
+4-14	At Home Testing Requirements.	
+4-15	Interested in taking the Home or Paper Edition?	
+4-16	Verify you meet the equipment and environment requirements.	
+4-17	ID Requirements.	
+4-18	ID requirements vary based on where you're from and where you plan to take the test.	
+4-19	Make sure you have proper ID!	
+4-20	Cancel or Change Registration.	
+4-21	Need to make changes to your test appointment?	
+4-22	Find out how and when you need to do it.	
+4-23	Disability Accommodations.	
+4-24	ETS is committed to serving test takers with disabilities or health-related needs, and accommodations are available for those who meet ETS requirements.	
+4-25	You'll need to submit your request and have your accommodations approved by ETS Disability Services before you can schedule your test.	1	acl	 accommodations approved by Services
+4-26	Download the necessary bulletins and forms and learn more about available accommodations and registration procedures at Disability Accommodations.	
+4-27	What Is the Retest Policy?	
+4-28	The required waiting period between tests is only 3 days, giving you more opportunities to test and helping you meet urgent deadlines.	
+4-29	You can take the test as many times as you wish.	
+4-30	For the full retest policy, see the Information Bulletin.	
+4-31	How to Register for the TOEFL iBT® Test.	
+4-32	The TOEFL iBT® test is administered up to 6 days a week around the world at authorized test centers or at home, giving you plenty of options.	
+4-33	Timing is important though, as appointments can fill up quickly!	
+4-34	Pick a test date that's at least 2 to 3 months before your earliest deadline.	
+4-35	Register approximately 4 months before your desired test date.	
+4-36	Note: Walk-in registration at test centers is not permitted.	1	main	 Note is permitted 
+4-37	Test Takers in Mainland China (not Hong Kong, Macau or Taiwan): To register for the TOEFL iBT test in a test center, and for more information, policies and procedures specific to Mainland China, visit https://toefl.neea.cn.	
+4-38	To register for the TOEFL iBT	
+4-39	Home Edition and for information, policies and procedures specific to Mainland China, visit https://toefl.cn/at-home.	
+4-40	TOEFL	
+4-41	iBT	
+4-42	Paper Edition is currently not available in Mainland China.	
+4-43	Before You Register.	
+4-44	Familiarize yourself with the fees, accepted forms of payment and payment policies.	
+4-45	Be sure the name you use when you register exactly matches the identification you'll bring on test day.	
+4-46	See ID Requirements and The Name You Use for more information.	
+4-47	If you choose the TOEFL iBT	
+4-48	Home Edition or Paper Edition, be sure you review and meet the Equipment and Environment requirements for testing at home.	
+4-49	ETS is committed to serving test takers with disabilities or health-related needs.	
+4-50	Download the necessary bulletins and forms and learn more about available accommodations and registration procedures at Disability Accommodations.	
+4-51	How to Register.	
+4-52	The easiest way to register is with your ETS online account, but you can also register by phone or by mail.	
+4-53	Select the method you wish to use below to learn more and get started.	
+4-54	Register with Your ETS Account.	
+4-55	Register by Phone.	
+4-56	Register by Mail.	
+4-57	After You Register.	
+4-58	Once your online registration is complete, you'll receive a confirmation email with the test date, start time and test center address.	
+4-59	This information is also available via your ETS account.	
+4-60	Plan to log in to your account the day before your test to make sure that none of the registration details have changed (for example, a different time or building than originally scheduled).	1	cls	 scheduled 
+4-61	Register for the TOEFL iBT® Test with Your ETS Account.	
+4-62	Easy and Convenient.	
+4-63	Registration using your ETS account is the fastest, easiest way to register.	
+4-64	With the online registration system, you'll take advantage of:  easy access to official test prep and exclusive savings when you bundle essential resources; a test center search powered by Google Maps™; the ability to register 24 hours a day, 7 days a week.	1	acl	 search powered by ™
+4-65	Watch these videos to learn how to create an account and register for a TOEFL iBT® test.	
+4-66	Go Mobile Now you can use the free TOEFL® official app to access your account, register for your TOEFL iBT test at a test center and much more.	
+4-67	Registration at a Glance.	
+4-68	1.	
+4-69	Create Your Account — input all the information exactly as it appears on your ID, create your username and password, and submit.	
+4-70	2.	
+4-71	Select a Testing Method — choose from the TOEFL iBT test, the TOEFL iBT® Home Edition or the TOEFL iBT® Paper Edition.	
+4-72	3.	
+4-73	Select a Location, Date and Time — select a test date to see available test locations, then choose the time that works for you.	
+4-74	4.	
+4-75	Complete Your Registration — finish the remaining steps, choose your score recipients, purchase test prep and pay for your test.	
+4-76	Get Started.	
+4-77	When you're ready to register, remember the following: You must enter at least 1 form of identification before you can register for a test date.	
+4-78	The name you use when you register must exactly match the ID you'll use on test day.	
+4-79	You can pay for your test using a credit/debit card (American Express®, Discover®, JCB®, China Union Pay®, Diners Club®, Mastercard®, RuPay® or VISA®) or one of the other approved forms of payment.	
+4-80	You can register online up to just 2 days before a test date.	
+4-81	A late fee (US$40) applies from 7 days before the test.	
+4-82	If you're requesting accommodations due to a disability or health-related need, you can't register through your ETS account.	
+4-83	Register for the TOEFL iBT® Test by Phone.	
+4-84	Review the Registration Form (PDF) before you call, so you'll know what information you'll need.	
+4-85	If you are testing in the United States, U.S. Virgin Islands, Puerto Rico or Canada, call +1-443-751-4862 or 1-800-GO-TOEFL (1-800-468-6335).	
+4-86	For all other locations, you must call your Regional Registration Center (RRC).	
+4-87	Select your testing location to find the phone number.	
+4-88	If you are registering by phone, you can pay with: credit/debit card (American Express®, Discover®, JCB®, China Union Pay®, Diners Club®, Mastercard®, RuPay® or VISA®); electronic check (e-check) — Only a valid form of payment if you have a bank account in the United States, U.S. Virgin Islands, Puerto Rico or Canada.	
+4-89	Payment must be in U.S. dollars.	
+4-90	You can register by phone until 5 p.m. local test center time on the business day before the test.	
+4-91	A late fee (US$40) applies starting 7 days before the test.	
+4-92	Register for the TOEFL iBT® Test by Mail.	
+4-93	If you're requesting accommodations due to a disability or health-related need, you can't register by mail.	
+4-94	To register by mail, first download and fill out a Registration Form (PDF).	
+4-95	You'll have to enter certain codes manually that are input automatically online.	
+4-96	See the lists below.	
+4-97	If you can't find the code you need in one of these lists, contact your institution directly.	
+4-98	Department Codes (PDF).	
+4-99	Country/Location and Region Codes (PDF).	
+4-100	Native Language Codes (PDF).	
+4-101	Mail your completed form and payment to the appropriate address.	
+4-102	If you are testing outside the United States, U.S. Virgin Islands, Puerto Rico and Canada, select your testing location to find your RRC and its mailing address.	
+4-103	If you are testing in the United States, U.S. Virgin Islands, Puerto Rico or Canada, use the mailing address that corresponds to your payment method listed on the Registration Form.	1	acl	 method listed 
+4-104	Forms must be received at least 4 weeks before your test date.	1	main	 Forms be received 
+4-105	If you don't receive a confirmation, call the location where you mailed your paperwork at least 3 business days before your registration deadline.	
+4-106	TOEFL iBT® Test Locations and Dates.	
+4-107	Test Your Way.	
+4-108	Feeling safe and comfortable during testing is important and contributes to your success.	
+4-109	It's your test — you choose where and how to take it.	
+4-110	The TOEFL iBT® test is offered up to 6 days a week around the world at authorized test centers or from home.	1	main	 test is offered 
+4-111	When you register, you'll select the TOEFL iBT testing option that best suits your needs and preferences: at a test center, at home or on paper.	
+4-112	When selecting a test date and format, consider your deadlines.	
+4-113	Pick a date at least 2 to 3 months before your earliest admissions deadline to ensure your scores will be reported in time.	1	main	 scores be reported 
+4-114	Score reports are sent to your designated score recipients approximately 8–16 days after your test date.	1	main	 reports are sent 
+4-115	Please allow time for delivery of scores and processing by the institution.	
+4-116	Test at a Test Center.	
+4-117	The TOEFL iBT test is offered more than 60 times a year at authorized test centers around the world.	1	main	 test is offered 
+4-118	Test At Home.	
+4-119	TOEFL iBT® Home Edition testing is available 24 hours a day, 4 days a week, with appointments available as early as 24 hours after you register.	
+4-120	It's available worldwide, except Iran.	
+4-121	To be able to take the test at home, you must meet the Equipment and Environment Requirements.	
+4-122	You'll need an ETS account to see available appointments.	
+4-123	Test Takers in Mainland China: To register for the TOEFL	
+4-124	iBT Home Edition and for information, policies and procedures specific to Mainland China, visit https://toefl.cn/at-home.	
+4-125	Test on Paper.	
+4-126	The TOEFL iBT® Paper Edition is currently offered 1–2 times a month at authorized test centers in Colombia, India, Mexico and the United States.	1	main	 Edition is offered 
+4-127	You'll need to register for 2 appointments, one at your local test center and the other at home.	
+4-128	To take the Speaking section of the test from home, you must meet the Equipment and Environment requirements.	
+4-129	You'll need an ETS account to see available test centers and at home appointments.	
+4-130	Your ETS Account.	
+4-131	Manage Your Test Experience in One Place.	
+4-132	Your ETS account isn't just for registering for your TOEFL iBT® test!	
+4-133	You'll also use it to: Purchase official test prep; Sign up for the free TOEFL® Search Service; View, reschedule or cancel your registration; Apply for or view approved testing accommodations; View or download your scores; Order additional score reports or other services; Update personal information, such as your email or mailing address.	
+4-134	See How It Works.	
+4-135	Creating an ETS account is easy.	
+4-136	Watch these videos to learn how to create an account and register for a TOEFL iBT test.	
+4-137	The Name You Use.	
+4-138	Regardless of whether you're ready to register, you can create an account at any time.	
+4-139	The name you use when you create your account is also the name you'll use when you register for your test.	
+4-140	So it's important to make sure that your name appears exactly (other than accents or apostrophes) as it does on the identification (ID) document that you'll present on the day of your test.	
+4-141	If the name doesn't match, you won't be able to take the test, and your test fee won't be refunded.	1	main	 fee be refunded 
+4-142	Learn more about The Name You Use.	
+4-143	The Name	
+4-144	You Use When Registering.	
+4-145	The name you use when you register — and the spelling of that name — must appear exactly (other than accents and apostrophes) as it does on the identification (ID) document that you plan to bring on test day.	
+4-146	If the names don't match, you won't be able to take the test, and your test fee won't be refunded.	1	main	 fee be refunded 
+4-147	Be sure to provide your entire first/given name (other than accents and apostrophes).	
+4-148	Don't register using a nickname or with only an initial as your first name.	
+4-149	If you have a multiple-part first/given or last/family name, enter it exactly as it appears on the ID you'll bring to the test center.	
+4-150	Enter your names so they read in the same order as they do on your ID document.	
+4-151	For example, if your first/given name is Jean Louis, enter both names in the First/Given Name(s) box.	
+4-152	If you don't have a first/given name or don't have a last/family name, select the appropriate check box next to the name fields.	
+4-153	If the Name in Your Account Doesn't Match Your ID.	
+4-154	If you make a mistake entering your name or date of birth, or if your name changes after you create your account, you must contact TOEFL Services to update it before your test.	
+4-155	You cannot update these fields yourself in your account, and the information on the ID you bring on test day must match the information in your account.	
+4-156	Identification (ID) Requirements for the TOEFL® Test.	
+4-157	When you register for your TOEFL® test, you're required to enter your identification (ID) information.	1	main	 you 're required 
+4-158	The name and date of birth you use when you create your account must exactly match the name and date of birth on the ID document you bring to the test center.	
+4-159	If this information doesn't match, you won't be able to take the test, and your test fee won't be refunded.	1	main	 fee be refunded 
+4-160	See The Name You Use When Registering.	
+4-161	If you are concerned about a discrepancy, contact TOEFL Services before you register.	
+4-162	TOEFL Services can also help if your name changes after you register.	
+4-163	Your ID requirements depend on where you plan to take the test and your citizenship.	
+4-164	Review both the country-specific and general ID requirements below.	
+4-165	ID Requirements in the Country/Location Where You Plan to Test.	
+4-166	Select the country/location where you plan to take the test to see information about specific ID requirements.	
+4-167	General ID Document Requirements.	
+4-168	With few exceptions, ID documents must meet all of the following requirements.	
+4-169	Each ID document must:  be an original document; photocopied documents are not acceptable, and documents cannot be presented on a mobile phone or any other electronic device; be a physical ID; an electronic ID issued to a mobile phone or any other electronic device is not acceptable; be a government-issued national/state/province identity card that is issued and recognized by the country where you are a citizen or resident; be valid; expired documents are not acceptable; include your full name and date of birth exactly matching the name and date of birth you used to register, excluding accents or diacritical marks; include a recent, recognizable photograph; include your signature (the name on the ID and the signature name must match).	1	main	 documents be presented 
+		2	main	 that is issued by country
+		3	main	 that is recognized by country
+		4	acl	 ID issued 
+4-170	Test Takers 15 Years of Age or Younger.	
+4-171	If you are age 15 or younger when you take the test, we suggest that you be accompanied by a parent or other authorized adult age 18 or older, who will be required to complete and sign a release form at the test center.	1	main	 you be accompanied by parent
+		2	main	 who be required 
+4-172	Both you and the parent or authorized person must present valid, acceptable ID, or you will not be able to take the test.	
+4-173	If you are unable to meet the ID requirements, contact the Office of Testing Integrity at TSReturns@ets.org before you register for the test.	
+4-174	Unacceptable ID Documents	
+4-175	The following documents are not acceptable as primary or supplemental ID under any circumstances:  International driver's license; Mobile driver's license; Draft classification card; International student ID; Credit/debit card of any kind; Notary-prepared letter or document; Birth certificate; Social Security card; Employee ID card; Any temporary ID card; Diplomatic, consulate or embassy ID card.	
+4-176	Note: If your ID document is not written in English-language letters and the test center administrator cannot read it, you may not be able to take the test, and your test fee will not be refunded.	1	main	 document is written 
+		2	main	 fee be refunded 
+4-177	Unable to Meet ID Requirements.	
+4-178	If you have been granted political asylum, have refugee status or are otherwise unable to meet the ID requirements, you must contact the ETS Office of Testing Integrity (OTI) at least 7 days before you register.	1	main	 you been granted 
+4-179	You must receive approval from OTI before you register.	
+4-180	Be prepared to submit any requested documents for review.	
+4-181	If you don't contact OTI and as a result you can't take the test or your scores are held or cancelled, your test fee will not be refunded.	1	main	 scores are held 
+		2	main	 scores are cancelled 
+		3	main	 fee be refunded 
+4-182	ETS Office of Testing Integrity (OTI).	
+4-183	Phone: +1-609-406-5430.	
+4-184	(Monday–Friday, 7:30 a.m.–5:30 p.m. U.S. Eastern time, except U.S. holidays).	
+4-185	Email: TSReturns@ets.org Questions about ID Documents.	
+4-186	For general questions about acceptable ID, call TOEFL® Services at:  +1-877-863-3546 (United States, U.S. Virgin Islands, Puerto Rico and Canada).	
+4-187	+1-609-771-7100 (all other locations).	
+4-188	Supplemental ID Documents.	
+4-189	You might have to provide a supplemental ID document if: the test center administrator questions your primary ID document; your primary ID document is otherwise acceptable but is missing your full name, photograph or signature.	
+4-190	You can't use supplemental ID documents to resolve last-name discrepancies.	
+4-191	Contact TOEFL® Services before test day to handle that.	
+4-192	Note: If you can't provide acceptable supplemental ID (see below) that includes your signature, you can present 2 government-issued IDs with photographs, as long as they're in the same name you used when you registered.	
+4-193	Acceptable Supplemental ID.	
+4-194	The following ID documents are generally acceptable as supplemental ID:	
+4-195	Government-issued ID card (including, but not limited to, those listed under Acceptable Primary ID Documents); Student ID card; Confirmation of identity letter from your educational institution.	
+4-196	This letter must be typed or printed on the original letterhead of the educational institution you attend(ed) and, in addition to meeting all of the ID Document Requirements, must include your date of birth and the date issued.	1	main	 letter be typed 
+		2	main	 letter be printed 
+4-197	Additionally, a school official's signature and the school seal must be present and both must overlap your photograph, as shown below.	1	cls	 shown 
+4-198	Such letters are valid for only one year from the date issued.	1	acl	 date issued 
+4-199	Image of confirmation of identity letter; Driver's license renewals; If you are in the U.S. military and the expiration of your driver's license has been extended or deferred by the issuing state, it can be used as supplemental ID along with your U.S. military ID card.	1	main	 Image been extended by state
+		2	main	 Image been deferred by state
+		3	main	 Image been used by state
+		4	main	 it be used 
+4-200	Depending on the state, the extension or deferral may consist of a sticker on the license, the designation "military" printed in place of an expiration date, or a separate document carried with the license, usually with a notation that the license is valid for a specific amount of time after discharge from service.	1	acl	 document carried 
+4-201	If your driver's license has expired but you present it along with your Original Department of Public Safety renewal certificate, the 2 documents together can be accepted if the names match exactly.	1	main	 documents be accepted 
+4-202	If you have a temporary paper license instead of a renewal certificate, that is acceptable only if it is accompanied by an acceptable supplemental ID.	1	main	 it is accompanied by ID
+4-203	Equipment and Environment Requirements for At Home Testing.	
+4-204	You must verify that your computer and testing room meet the following requirements before you register for the TOEFL iBT® Home Edition or Paper Edition.	
+4-205	If you don't meet these requirements on test day, you won't be able to test, and you won't receive a refund or a free reschedule.	
+4-206	Equipment.	
+4-207	Computer.	
+4-208	Desktop or laptop computer; you can't use a tablet or mobile device.	
+4-209	Only one monitor or screen; multiple monitors or dual screens are not permitted.	1	main	 monitors are permitted 
+4-210	Approved operating system, which must be licensed.	1	main	 which be licensed 
+4-211	Unlicensed or test-mode versions are not permitted.	1	main	 versions are permitted 
+4-212	PC: Windows® operating system, versions 10 or 8.	
+4-213	MAC®: Mac OS X® 10.5 or higher (10.13 High Sierra is recommended).	1	main	 Sierra is recommended 
+4-214	Chrome™ or Firefox® browser.	
+4-215	Helpful Tip.	
+4-216	Be sure to review the ProctorU® minimum and recommended technical requirements.	
+4-217	Browser download and equipment check.	
+4-218	Download and install the ETS Secure Test Browser on the computer you'll use to test.	
+4-219	To fully install the browser, run the file after downloading it.	
+4-220	You can close the browser once you see the following message: "Success!	
+4-221	You have installed the ETS secure test browser.	
+4-222	" Download the Windows version.	
+4-223	If you receive an error message, please follow these troubleshooting steps (PDF).	
+4-224	Download the Mac version.	
+4-225	Run the ProctorU® Equipment Check from the computer you'll use to test.	
+4-226	If you fail the equipment check, you must fix any issues before test day.	
+4-227	Live ProctorU representatives are available to help.	
+4-228	Computer firewalls and security applications can interfere with the test delivery software.	
+4-229	If you experience this issue, you may need to disable or reconfigure your applications prior to the test.	
+4-230	Helpful Tip	
+4-231	The equipment check includes a bandwidth check.	
+4-232	Since bandwidth differs depending on time of day and network usage, run the equipment check at a few different times to see which time works best.	
+4-233	Additionally, you should run the check on the same day of the week and the same time of day as your test.	
+4-234	That way, you're checking your bandwidth in an environment similar to what you would experience when you test.	
+4-235	Watch the helpful Tech Tips video.	
+4-236	Speaker.	
+4-237	Use an internal or external speaker to hear the proctor.	
+4-238	Headsets or earphones aren't allowed.	1	main	 Headsets are allowed 
+4-239	Microphone.	
+4-240	Use an internal or external microphone that isn't part of a headset to communicate with the proctor.	
+4-241	Camera.	
+4-242	Can be a built-in camera in the computer or a separate webcam.	
+4-243	Camera must be able to be moved to show the proctor a 360-degree view of the room, including your tabletop surface, before the test.	
+4-244	Environment and Testing Space.	
+4-245	Privacy.	
+4-246	You must be alone in a room with no one else entering during the test.	
+4-247	You can't take the test in a public space such as a park, internet cafe or restaurant.	
+4-248	You must close all doors in the room before beginning the test.	
+4-249	Tabletop and seating.	
+4-250	Your computer and keyboard must be on a desk or other tabletop surface.	
+4-251	Position your table and chair so the door to the room will be visible to the proctor.	
+4-252	The proctor may require you to do this at check in.	
+4-253	The tabletop and surrounding area must be clear of all items not approved for use during the test, including cell phones (except when used for check in), cameras, notes and study materials.	1	acl	 items approved 
+4-254	The furniture and décor in the room don't need to be removed.	
+4-255	You must sit in a standard chair; you can't sit or lie on a bed, couch or overstuffed chair.	
+4-256	Food and drink aren't allowed during the test.	1	main	 Food are allowed 
+4-257	Clothing and appearance.	
+4-258	Your ears and face must remain visible throughout the test, not covered by hair, a hat or other items.	1	cls	 covered by hair
+4-259	Religious headwear is permitted if your ears remain visible during the test.	1	main	 headwear is permitted 
+4-260	Face masks may not be worn during check in or any part of the at home testing session.	1	main	 masks be worn 
+4-261	Dress appropriately for your test.	
+4-262	You'll be monitored via camera by the proctor, and your photo will be shared with institutions that receive your scores.	1	main	 You be monitored 
+		2	main	 You be shared 
+		3	main	 photo be shared 
+4-263	You must remove all headphones, smartwatches, face masks, jewelry, tie clips, cuff links, ornate clips, combs, barrettes, headbands and other hair accessories before checking in for your exam.	
+4-264	You do not need to remove wedding and engagement rings.	
+4-265	Note-taking materials.	
+4-266	You may not take notes on regular paper, for security purposes.	
+4-267	You may use 1 of the following to take notes: 1 small desktop whiteboard with erasable marker, no pencil or pen; 1 sheet of paper inside a transparent sheet protector, with erasable marker.	
+4-268	At the end of the test, you'll need to show the proctor that all notes have been erased.	1	main	 notes been erased 
+4-269	TOEFL iBT® Test Fees.	
+4-270	What Does It Cost?	
+4-271	Here are the fees associated with taking the TOEFL iBT® test.	1	acl	 fees associated 
+4-272	Item Fees.	
+4-273	Registration.	
+4-274	Fees vary by testing location.	
+4-275	Late registration US$40.	
+4-276	Rescheduling US$60.	
+4-277	Reinstatement of canceled scores US$20.	
+4-278	Additional score reports (per institution or agency) US$20 each.	
+4-279	Speaking or Writing Section score review US$80.	
+4-280	Speaking and Writing Section score review US$160.	
+4-281	Returned payment US$30.	
+4-282	Test and test-related fees are inclusive of any sales, use, value-added or similar taxes.	
+4-283	In jurisdictions where the customer is required to account for any local taxes due, the price remitted to ETS excludes those taxes.	1	main	 customer is required 
+		2	acl	 price remitted 
+4-284	In those circumstances, it is the sole responsibility of the customer to pay those taxes to the local tax authority.	
+4-285	ETS is not responsible or liable for collecting and remitting those taxes on the customer's behalf.	
+4-286	In the jurisdictions listed below, test and test-related fees are exclusive of any sales, use, value-added or similar taxes and will be added to the order when it is placed.	1	main	 it is placed 
+		2	acl	 jurisdictions listed 
+4-287	Australia, Canada, Colombia, Nigeria, Turkey, United States, Vietnam, and Singapore (effective January 1, 2023).	
+4-288	Learn more about how you can pay for your test: Forms of Payment; Payment and Refund Policies.	
+4-289	Fee Reduction Service.	
+4-290	The TOEFL Fee Reduction Service is designed for high school seniors in the United States with financial need who are applying to colleges and universities where TOEFL scores are recommended or required.	1	main	 Service is designed 
+		2	main	 scores are recommended 
+		3	main	 scores are required 
+4-291	The fee reduction voucher covers 50% of the regular test fee.	
+4-292	Please review the fee reduction guidelines (PDF) and the fee reduction voucher request form (PDF) for more information.	
+4-293	Forms of Payment.	
+4-294	Acceptable Forms of Payment.	
+4-295	This list is subject to change without notice.	
+4-296	Acceptable payment methods vary based on how you register: through your ETS account, by phone or by mail.	
+4-297	See below for important instructions on how to use each of these methods.	
+4-298	Instructions for Using Acceptable Forms of Payment.	
+4-299	Credit/debit card.	
+4-300	American Express®, Discover®, JCB®, China Union Pay®, Diners Club®, Mastercard® or VISA® are accepted.	1	main	 ® are accepted 
+4-301	Note: Only VISA cards are accepted in Benin, Côte d'Ivoire, Ghana, Kenya, Nigeria and Togo.	1	main	 cards are accepted 
+4-302	No other cards are accepted.	1	main	 cards are accepted 
+4-303	When you select credit/debit card as your payment method, you have the option to pay in select local currencies instead of U.S. dollars.	
+4-304	You can change your selection at any time before you click "Submit" to process your payment.	
+4-305	The system will display available local currencies and the credit card types supported for each.	1	acl	 types supported 
+4-306	Electronic Check (e-check).	
+4-307	E-checks must be drawn on a bank in the United States, U.S. Virgin Islands, Puerto Rico or Canada, in U.S. dollars only.	1	main	 checks be drawn 
+4-308	Please provide the following information from the bottom of your paper check: bank account number; ABA/bank routing and transit number.	
+4-309	Note: Your bank account may be debited the same day we receive your request.	1	main	 account be debited 
+4-310	You will not receive a cancelled check.	
+4-311	When paying with an e-check, you authorize ETS to make a one-time deduction from your checking or savings account.	
+4-312	PayPal.	
+4-313	PayPal can be used to pay for a test through your ETS Account.	1	main	 PayPal be used 
+4-314	Select PayPal as your payment option on the payment page and follow the instructions.	
+4-315	To learn more about PayPal or to create an account visit the PayPal website.	
+4-316	Paper Check or Money Order	
+4-317	The check must be: in U.S. dollars; made payable to ETS-TOEFL; signed by the account holder or an authorized signer.	
+4-318	Typewritten payer name and address, in place of signature, is not acceptable.	
+4-319	The following information must be preprinted on the check: bank name; bank address; check or money order number; payer's name and address.	1	main	 information be preprinted 
+4-320	Note: Post-dated checks are not accepted.	1	main	 checks are accepted 
+4-321	Check dates cannot be more than 90 days old when received by ETS.	1	cls	 received by ETS
+4-322	Unacceptable Forms of Payment.	
+4-323	cash or demand drafts.	
+4-324	post-dated checks.	
+4-325	any currency other than U.S. dollars (for payments not made by credit/debit card).	1	acl	 payments made by card
+4-326	receipts for bank checks.	
+4-327	UNESCO® coupons.	
+4-328	Western Union®.	
+4-329	Payment and Refund Policies.	
+4-330	Payment Policies.	
+4-331	Make sure all payments for tests and services: are paid in full at the time the service is requested; have the correct numeric and written dollar amount, if paying by check or money order; have any necessary signature(s).	1	main	 service is requested 
+4-332	Any outstanding balance from prior ETS tests or services must be paid in full before you register.	1	main	 balance be paid 
+4-333	Services or test scores may be withheld for non-payment.	1	main	 Services be withheld 
+4-334	Did you know?	
+4-335	You can pay your balance through the TOEFL® Official App.	
+4-336	Download the app today!	
+4-337	If you do not submit the correct fee, your registration form or request for service will be returned.	1	main	 form be returned 
+4-338	Payment methods are subject to change without notice.	
+4-339	Refund Policies.	
+4-340	See the specific refund policies for: Testing in Korea; Test center testing in Mainland China (not Hong Kong, Macau or Taiwan); Home Edition testing in Mainland China, using a voucher from the Hong Kong Examinations and Assessment Authority.	
+4-341	To receive a refund, you must cancel your registration by the deadline (4 days before your test date).	
+4-342	For example, if your test is on Saturday, you must cancel by Tuesday.	
+4-343	If you cancel your registration before the 4-day deadline, you'll receive a refund of 50% of the original test fee you paid.	
+4-344	If you arrive at your testing appointment and find out that the test administration has been canceled by ETS, and you do not wish to reschedule, you can receive a full refund of your test fee.	1	main	 administration been canceled by ETS
+4-345	If ETS cancels a test administration and you incurred travel costs to get to the test center, you may be eligible for a refund of reasonable and documented travel expenses for yourself only within 30 days of your original test date.	
+4-346	For more information on reimbursement, see Rescheduled Tests.	
+4-347	Refunds are issued in the currency used to pay for the test and include taxes as applicable.	1	main	 Refunds are issued 
+		2	cls	 used 
+4-348	Cash refunds aren't available.	
+4-349	You won't receive a refund if registration procedures weren't followed or if you didn't present the required ID at the test center.	1	main	 procedures were followed 
+4-350	If you paid by credit/debit card or e-check, the refund will be credited back to the original credit/debit card or bank account.	1	main	 refund be credited 
+4-351	If payment was made with a personal check, please allow 8 weeks for processing.	1	main	 payment was made 
+4-352	If you paid with a voucher, but haven't registered yet, contact the organization where you purchased the voucher.	
+4-353	If you have a test appointment already, regular refund policies apply.	
+4-354	Refunds are available for registration only.	
+4-355	They aren't available for other services.	
+4-356	Cancel or Change Your TOEFL iBT® Test Registration.	
+4-357	If you need to reschedule or cancel your registration, you must do so at least 4 full days before your test date.	
+4-358	For example, if your test is on Saturday, you must reschedule or cancel by Tuesday.	
+4-359	See the specific refund policy for test takers in Korea.	
+4-360	The fee to reschedule is US$60 and must be paid before you can register for a new test appointment.	1	conj	 fee be paid 
+4-361	If you only need to reschedule your TOEFL iBT® Paper Edition Speaking section appointment, the fee is US$30.	
+4-362	You can only reschedule or cancel by one of the methods below: Online through your ETS account.	
+4-363	By phone.	
+4-364	Be prepared to provide your appointment number and the full name you used when you made the appointment.	
+4-365	In the United States, U.S. Virgin Islands, Puerto Rico or Canada, call +1-443-751-4862 or 1-800-468-6335.	
+4-366	For all other locations, contact your Regional Registration Center.	
+4-367	Note: You can't reschedule or cancel by mail or email, or at the test center.	
+4-368	Refunds.	
+4-369	If you cancel your registration before the 4-day deadline, you'll receive a refund for 50% of the original test fee you paid.	
+4-370	(The balance is retained to cover expenses for processing your registration and holding a seat.)	1	main	 balance is retained 
+4-371	No refunds are given for other services.	1	main	 refunds are given 
+4-372	In order to receive a refund for the TOEFL iBT Paper Edition, you must cancel both parts of your registration before the 4-day deadline.	
+4-373	For more information about how your refund will be processed, see Payment and Refund Policies.	1	main	 refund be processed 
+4-374	Accommodations for Test Takers with Disabilities or Health-related Needs.	
+4-375	ETS is committed to serving test takers with disabilities or health-related needs by providing reasonable accommodations that are appropriate given the purpose of the test.	
+4-376	Testing accommodations are available for test takers who meet ETS requirements.	
+4-377	See a list of available accommodations for the TOEFL iBT® test.	
+4-378	How to Request Accommodations.	
+4-379	The Bulletin Supplement for Test Takers with Disabilities or Health-related Needs contains procedures and forms for requesting testing accommodations.	
+4-380	The Supplement should be used together with the information in the TOEFL iBT® Information Bulletin.	1	main	 Supplement be used 
+4-381	Effective July 1, 2021.	
+4-382	2021–22 TOEFL iBT® Bulletin Supplement for Test Takers with Disabilities or Health-related Needs (PDF).	
+4-383	2021–22 TOEFL iBT® Information Bulletin (PDF).	
+4-384	You must submit your request and have your accommodations approved by ETS Disability Services before your test can be scheduled.	1	main	 test be scheduled 
+		2	acl	 accommodations approved by Services
+4-385	Submit your request as early as possible, especially if you're requesting an alternate test format.	
+4-386	Documentation review takes approximately 6 weeks once your request and completed paperwork are received.	1	main	 request are received 
+4-387	If you are required to submit additional documentation, the review can take another 6 weeks from the time the new documents are received.	1	main	 you are required 
+		2	main	 documents are received 
+4-388	Once you've been approved, you'll receive an email providing instructions on how to register for the test.	1	main	 you been approved 
+4-389	Please wait for your approval email before attempting to make a test appointment.	
+4-390	If you have a health-related need that requires you to bring equipment, beverages or snacks into the testing room, or to take extra or extended breaks, you must follow the accommodations request procedures in the Bulletin Supplement for Test Takers with Disabilities or Health-related Needs (PDF).	
+4-391	Requesting Accommodations Through Your Online Account.	
+4-392	You can do the following online through your ETS account:	
+4-393	apply for accommodations; view your approved accommodations; view test appointments.	
+4-394	Requesting Accommodations By Email or Mail.	
+4-395	You can also submit requests for accommodations via email or mail.	
+4-396	Send your completed forms and documentation to:  Email: disability.reg@ets.org.	
+4-397	Mail: ETS Disability Services P.O. Box 6054 Princeton, NJ 08541-6054 U.S.A. Courier Service: ETS Disability Services 225 Phillips Boulevard Ewing, NJ 08628-1426 U.S.A. Contact ETS Disability Services.	
+4-398	For general information, contact ETS Disability Services Monday–Friday, 8:30 a.m. to 5 p.m. U.S. Eastern Time.	
+4-399	Email: stassd@ets.org Phone: +1-609-771-7780 1-866-387-8602 (Toll-free for test takers in the United States, U.S. Virgin Islands, Puerto Rico and Canada) Fax: +1-609-771-7165 Mail: ETS Disability Services P.O. Box 6054 Princeton, NJ 08541-6054	
+4-400	U.S.A.  Available Testing Accommodations for the TOEFL iBT® Test.	
+4-401	The following are some of the available accommodations that you can request as part of the registration and accommodations approval process.	
+4-402	Technical Accommodations.	
+4-403	Screen magnification.	
+4-404	Selectable background and foreground colors.	
+4-405	Kensington® Trackball mouse.	
+4-406	IntelliKeys® keyboard.	
+4-407	Ergonomic keyboard.	
+4-408	Keyboard with touchpad.	
+4-409	Specialized Assistance.	
+4-410	Sign language interpreter for spoken directions only.	
+4-411	Oral interpreter for spoken directions only.	
+4-412	Oral interpreter for Listening section only.	
+4-413	Writer/recorder of answers.	
+4-414	Test reader.	
+4-415	Adaptive Accommodations.	
+4-416	Audio version of the test.	
+4-417	Reader's script version of the test.	
+4-418	Braille test (in contracted or uncontracted Braille).	
+4-419	Braille test with reader's script.	
+4-420	Large-print version of the test.	
+4-421	Regular print version of the test.	
+4-422	Listening section omitted.	
+4-423	Speaking section omitted.	
+4-424	Extended testing time.	
+4-425	Additional rest breaks.	
+4-426	Transcripts of audio elements in Speaking and Writing sections.	
+4-427	Do You Need a Different Accommodation?	
+4-428	If you'd like to request accommodations other than those listed above, describe them in Part II of the Testing Accommodations Request Form found in the Bulletin Supplement (PDF).	
+4-429	If you are not sure whether the accommodation you need is available, please contact ETS Disability Services.	
+4-430		
+5-1	Prepare for the TOEFL iBT® Test.	
+5-2	When you choose the TOEFL iBT® test to demonstrate your English proficiency, you’ll have access to our full line of official test prep resources to help you do your best and stand out to admissions officers.	
+5-3	Purchase materials through your ETS account or practice with our free resources to prepare for success!	
+5-4	ETS is committed to providing a variety of test prep in accessible formats.	1	main	 ETS is committed 
+5-5	Courses.	
+5-6	Practice with self-paced courses and personalized learning to help you do your best.	
+5-7	Practice Tests.	
+5-8	Familiarize yourself with test content or see what it's like to take a real TOEFL iBT test.	
+5-9	Guides and Books.	
+5-10	Get ready with these top-selling resources.	
+5-11	Available as paperbacks or eBooks.	
+5-12	Value Packs.	
+5-13	Save up to 40% on essential TOEFL prep by bundling our most popular resources.	
+5-14	TOEFL Go!® App.	
+5-15	Prepare for success wherever you go with this official test prep app.	
+5-16	TOEFL Talks.	
+5-17	Register for in-person seminars or online webinars in English or local languages.	
+5-18	TOEFL iBT® Test Prep Courses.	
+5-19	Official TOEFL iBT® Prep Course.	
+5-20	The Official TOEFL iBT® Prep Course has more than 60 hours of content and 200+ activities to help you prepare for the TOEFL iBT test and build the skills you need to communicate in English in an academic environment.	
+5-21	With unlimited access during the 6-month subscription, this self-paced course features in-depth lessons and activities across the 4 skills — Reading, Listening, Speaking, and Writing — as well as pre- and post-tests to help you evaluate your performance.	
+5-22	You'll also receive score ranges for the Speaking and Writing post-tests, using the same automated scoring technology as in the actual TOEFL iBT test!	
+5-23	There are 2 options to choose from: the Prep Course; the Prep Course PLUS.	
+5-24	The PLUS course has all the course material of the standard course, plus additional scoring and feedback throughout, including score ranges for Speaking and Writing activities and tests, and written feedback on your Speaking responses.	
+5-25	TOEFL® Test Preparation: The Insider's Guide.	
+5-26	This free, highly interactive course uses videos, short quizzes, collaborative discussion boards, tips from expert instructors and more to help you understand what you can do to achieve your best scores on the TOEFL iBT test.	
+5-27	Includes an introduction to the test and each section.	
+5-28	Provides a scaled-score range for Speaking and Writing practice questions.	
+5-29	Completely self-paced so you can learn and practice on your schedule.	
+5-30	TOEFL iBT® Practice Tests.	
+5-31	Are you looking for test prep in accessible formats?	
+5-32	All of our electronically offered test prep is accessible, but we also offer some of our practice tests in specific formats such as large print.	
+5-33	Explore test prep in accessible formats.	
+5-34	TOEFL iBT® Free Practice Test.	
+5-35	Practice as often as you like!	
+5-36	The TOEFL iBT® free practice test features a full test with all 4 sections and real past test questions.	
+5-37	View correct answers in the Reading and Listening sections.	
+5-38	Listen to sample Speaking responses.	
+5-39	Read sample Writing responses.	
+5-40	TOEFL iBT® Paper Edition Practice Test.	
+5-41	This free official practice test uses real TOEFL	
+5-42	iBT	
+5-43	past test questions for the Reading, Listening, and Writing sections.	
+5-44	It has the same paper-delivered format you'll experience on test day.	
+5-45	The practice test includes all audio files and transcripts.	
+5-46	The Speaking section of the Paper Edition test is taken on a computer.	1	main	 section is taken 
+5-47	You can practice for the Speaking section using the free Speaking Practice Sets.	
+5-48	TOEFL iBT® Practice Sets.	
+5-49	Practice for each section of the test with free sets of TOEFL iBT questions from previous tests.	
+5-50	You can become familiar with the types of questions and content on the actual test and understand how the test sections are structured.	1	main	 sections are structured 
+5-51	Reading Practice Sets.	
+5-52	Listening Practice Sets.	
+5-53	Speaking Practice Sets.	
+5-54	Writing Practice Sets.	
+5-55	Note: Audio is not included for Listening, Speaking and Writing questions.	1	main	 Audio is included 
+5-56	However, transcripts of the audio are provided where applicable.	1	main	 transcripts are provided 
+5-57	TOEFL® Practice Online TOEFL® Practice Online tests are the only official practice tests that allow you to experience what it's like to take the real TOEFL iBT test.	
+5-58	Review and answer authentic test questions, the same way you see them at the test center.	
+5-59	Receive scores within 24 hours, with performance feedback on all 4 skills measured on the test — reading, listening, speaking, and writing.	1	acl	 skills measured 
+5-60	Take the test at home, school, or wherever there's an internet connection, 24 hours a day, 7 days a week.	
+5-61	Choose from volumes that include complete tests, half tests or speaking tests.	
+5-62	Each volume has a different set of questions, so you can practice a few times to prepare for success on the test.	
+5-63	(You can only complete each volume once.)	
+5-64	Note: To purchase TOEFL Practice Online in the Republic of Korea, please visit www.toefltpo.com  System Requirements Be sure to review the system requirements carefully.	
+5-65	There are no refunds or returns for test prep materials.	
+5-66	Operating Systems.	
+5-67	Mac OS X® 10.11 or higher.	
+5-68	Microsoft® Windows® 8 and 10.	
+5-69	Browsers.	
+5-70	Mac®: Safari® 9.0 or higher, Firefox® and Google Chrome™.	
+5-71	Windows®: Internet Explorer® 11.0 or higher, Microsoft Edge, Google Chrome or Firefox.  Additional Requirements.	
+5-72	Installation of the Audio Browser for Windows OS.	
+5-73	Installation of TOEFL Practice Online Browser for Mac OS.	
+5-74	A headset and a non-voice activated microphone are recommended for the Speaking section.	1	main	 headset are recommended 
+5-75	Mac users may also use the internal speakers and microphone located in the computer.	1	acl	 microphone located 
+5-76	TOEFL iBT® Reading Practice Sets.	
+5-77	Note: These sample questions allow you to experience the types of tasks presented in the TOEFL iBT® test.	1	acl	 tasks presented 
+5-78	They are not intended to mimic the testing experience.	1	main	 They are intended 
+5-79	Need More Practice?	
+5-80	Download additional TOEFL iBT	
+5-81	Reading Practice Sets (PDF).	
+5-82	Download the large-print version of the TOEFL	
+5-83	iBT	
+5-84	Reading Practice Sets (PDF).	
+5-85	TOEFL iBT® Test Listening Practice Sets.	
+5-86	Note: These sample questions allow you to experience the types of tasks presented in the TOEFL iBT® test.	1	acl	 tasks presented 
+5-87	They are not intended to mimic the testing experience.	1	main	 They are intended 
+5-88	Need More Practice?	
+5-89	Download additional TOEFL iBT	
+5-90	Listening Practice Sets with accompanying audio tracks (zip).	
+5-91	Download the large-print version of the TOEFL	
+5-92	iBT	
+5-93	Listening Practice Sets (PDF).	
+5-94	TOEFL iBT® Test Speaking Practice Sets.	
+5-95	Note: These sample questions allow you to experience the types of tasks presented in the TOEFL iBT® test.	1	acl	 tasks presented 
+5-96	They are not intended to mimic the testing experience.	1	main	 They are intended 
+5-97	Audio is not included with the questions in these sets.	1	main	 Audio is included 
+5-98	However, transcripts of the audio are provided.	1	main	 transcripts are provided 
+5-99	Need More Practice?	
+5-100	Download additional TOEFL iBT	
+5-101	Speaking Practice Sets (PDF).	
+5-102	Download the large-print version of the TOEFL	
+5-103	iBT	
+5-104	Speaking Practice Sets (PDF).	
+5-105	TOEFL iBT® Test Writing Practice Sets.	
+5-106	Note: These sample questions allow you to experience the types of tasks presented in the TOEFL iBT® test.	1	acl	 tasks presented 
+5-107	They are not intended to mimic the testing experience.	1	main	 They are intended 
+5-108	Audio is not included with the questions in these sets.	1	main	 Audio is included 
+5-109	However, transcripts of the audio are provided.	1	main	 transcripts are provided 
+5-110	Need More Practice?	
+5-111	Download additional TOEFL iBT	
+5-112	Writing Practice Sets (PDF).	
+5-113	Download the large-print version of the TOEFL	
+5-114	iBT	
+5-115	Writing Practice Sets (PDF).	
+5-116	TOEFL iBT® Guides and Books.	
+5-117	Guides, Tests and Bundles.	
+5-118	The Official Guide to the TOEFL iBT® Test.	
+5-119	This top-selling guide has 4 full-length practice tests plus valuable tips, scoring criteria and hundreds of sample questions for all 4 test sections — Reading, Listening, Speaking, and Writing — to help you do your best on test day.	
+5-120	Available in eBook and paperback format, this is an authentic test preparation guide from ETS, the maker of the TOEFL® test.	
+5-121	Official TOEFL iBT® Tests, Volumes 1 & 2.	
+5-122	Prepare for success with a total of 10 authentic, full-length TOEFL iBT tests with previously administered Reading, Listening, Speaking, and Writing questions.	
+5-123	Each volume offers 5 practice tests and includes: Interactive online versions of all 5 tests; All tests are accessed via a unique code; Sample Speaking and Writing responses; Audio files and written transcripts for all listening passages.	1	main	 tests are accessed 
+5-124	Each volume is available as a paperback or an eBook.	
+5-125	These 2 books are perfect companions to The Official Guide to the TOEFL® Test.	
+5-126	Official TOEFL iBT Tests Savings Bundle.	
+5-127	Save when you purchase both Official TOEFL iBT Tests eBooks, Volumes 1 & 2 together.	
+5-128	Ultimate TOEFL iBT	
+5-129	Test Prep Savings Bundle.	
+5-130	Save when you purchase all 3 of the best-selling official TOEFL test prep eBooks — The Official Guide to the TOEFL test, and the Official TOEFL iBT Tests, Volumes 1 & 2.	
+5-131	The TOEFL iBT® Test Prep Planner.	
+5-132	Just beginning your test prep journey?	
+5-133	Get started with this free 8-week planner to help you organize your preparation efforts effectively and build the skills you need to succeed.	
+5-134	In-depth review of the 4 sections of the test: Reading, Listening, Speaking, and Writing.	
+5-135	Skill-building activities.	
+5-136	Sample TOEFL iBT test questions.	
+5-137	Scoring information, including the Speaking and Writing scoring guides.	
+5-138	Tips for success on test day … and beyond!	
+5-139	TOEFL® Value Packs.	
+5-140	The ultimate way to practice for the TOEFL iBT® test!	
+5-141	Bundle essential test prep items and save up to 40%.	
+5-142	There are four options to choose from: Value Pack Prep; Value Pack Prep Plus; Value Pack Premium; Exclusive TOEFL® Practice Online volume.	
+5-143	Which Value Pack Is Right for You?	
+5-144	All prices are in US$.	
+5-145	Before you purchase a Value Pack, be sure to check the system requirements for the products it includes.	
+5-146	There are no refunds or returns for test prep materials.	
+5-147	Use the links below.	
+5-148	Learn More.	
+5-149	Not sure which Value Pack is right for you?	
+5-150	Learn more about the products included in each, including any system requirements.	1	acl	 products included 
+5-151	TOEFL Practice Online and TOEFL Practice Online Speaking Series.	
+5-152	The Official Guide to the TOEFL iBT	
+5-153	Test (eBook).	
+5-154	Additional Score Reports (regularly US$20 each).	
+5-155	Must be purchased with your registration to get the discounted price.	
+5-156	Your registration must already be in your cart (but not yet paid for) for this option to appear.	
+5-157	TOEFL Practice Online is for 1-time use only and must be completed within 6 months.	1	conj	 Online be completed 
+5-158	TOEFL Practice Online Speaking Series is not available in the Republic of Korea.	
+5-159	Can be used for any TOEFL iBT test you take.	
+5-160	Must be used within 1 year of the date of the Value Pack purchase.	
+5-161	Valid for online registration only.	
+5-162	Must be used within 1 year of the date of the Value Pack purchase.	
+5-163	TOEFL Go!® Official App.	
+5-164	Introducing the TOEFL Go!	
+5-165	® Official app, the only official TOEFL® test prep app from ETS, the maker of the TOEFL test.	
+5-166	PRACTICE the skills you want, PREPARE with resources from the maker of the test and GO far!	
+5-167	With the TOEFL Go!	
+5-168	Official app, you can: Try before you buy with free access to sample questions; Get insider tips from the maker of the test; Practice only the skills you need with free and in-app purchases of authentic questions from the Reading, Listening, Speaking, and Writing sections ; Check your progress with scoring from ETS, available 24 hours a day, 7 days a week.	
+5-169	Download the free TOEFL Go!	
+5-170	Official app today and get one step closer to the score you want.	
+5-171	Select your location below to download the app.	
+5-172	United States and Canada.	
+5-173	All Other Areas of the World.	
+5-174	Also available: The TOEFL® Official App.	
+5-175	Now you can manage your TOEFL account from your mobile device with the TOEFL® Official App.	
+5-176	Search for test centers and dates, register and pay for the test, access official prep resources, view your scores, and more.	
+5-177	Not currently available in the Republic of Korea.	
+5-178	Some features do not apply to the TOEFL	
+5-179	iBT Home Edition or TOEFL iBT	
+5-180	Paper Edition.	
+5-181	TOEFL® Talks.	
+5-182	Given in English or in local languages, free TOEFL® Talks face-to-face seminars or online webinars provide you with information about the TOEFL iBT® test, including:  an overview of the TOEFL iBT test; the TOEFL test advantage; how to use your TOEFL scores; how to register for the test; test preparation tools.	1	cls	 Given 
+5-183	Select a location to find a TOEFL Talks seminar or online webinar near you.	
+5-184	TOEFL iBT® Test Prep in Accessible Formats.	
+5-185	The TOEFL® program is committed to providing test prep materials in accessible formats.	
+5-186	All of our prep that is designed for screens is accessible to screen readers.	1	main	 that is designed 
+5-187	Some prep materials are also available in additional accessible formats, such as large print.	
+5-188	TOEFL iBT® Free Practice Test.	
+5-189	The TOEFL iBT® Free Practice Test provides free unlimited access to 1 full length TOEFL iBT test.	
+5-190	Launch the Practice Test.	
+5-191	Download (PDF).	
+5-192	Download the Large-Print Version (PDF).	
+5-193	TOEFL iBT Practice Sets.	
+5-194	Practice for each section of the test with free sets of TOEFL iBT questions from previous tests.	
+5-195	TOEFL iBT® Reading Practice Sets (Large Print) (PDF).	
+5-196	TOEFL iBT® Listening Practice Sets (Large Print) (PDF).	
+5-197	TOEFL iBT® Speaking Practice Sets (Large Print) (PDF).	
+5-198	TOEFL iBT® Writing Practice Sets (Large Print) (PDF).	
+5-199	Access the Practice Sets on the website.	
+5-200	Note: Audio is not included for Listening, Speaking and Writing questions.	1	main	 Audio is included 
+5-201	However, transcripts of the audio are provided where applicable.	1	main	 transcripts are provided 
+5-202		
+6-1	On Test Day.	
+6-2	You've prepared for success with our official test prep resources, so you're ready to do your best on your big day.	
+6-3	It's also important to know what to expect when you take the test, especially the rules that help ensure the test is administered in a fair and secure manner.	1	main	 test is administered 
+6-4	Let's learn more about test day.	
+6-5	If you're taking the TOEFL iBT® Paper Edition, you’ll need to review information for both at home testing and test center testing.	
+6-6	The Speaking section of the Paper Edition is given as an at home test, while the other 3 sections are administered at a test center.	1	main	 section is given 
+		2	main	 sections are administered 
+6-7	At Home Testing.	
+6-8	Are you taking the Home Edition or Paper Edition?	
+6-9	Find out what to expect before and during your at home test session.	
+6-10	Test Center Testing.	
+6-11	Learn about what to bring on test day, and review procedures that apply before and during your test session.	
+6-12	ID Requirements.	
+6-13	Review the ID requirements again to make sure the ID you bring on test day is acceptable.	
+6-14	Information Bulletin.	
+6-15	Download and review the TOEFL iBT® Information Bulletin for additional information.	
+6-16	What to Expect When You Test At Home.	
+6-17	Review this information to learn about the at home testing procedures, including the materials you'll need and how to prepare the room where you'll test.	
+6-18	Before Your Test Session.	
+6-19	Checking In.	
+6-20	During Your Test.	
+6-21	Troubleshooting Technical Issues.	
+6-22	Test Takers in Mainland China: To register for the TOEFL iBT	
+6-23	Home Edition or for information, policies and procedures specific to Mainland China, visit https://toefl.cn/at-home.	
+6-24	At Home Testing Videos.	
+6-25	Watch the following videos to learn more about at home testing.	
+6-26	TOEFL® At Home Testing — a preview of the entire testing process from verifying equipment and environment requirements to what to do after your test session.	
+6-27	ProctorU® Tutorial Video — a closer look at how to prepare your testing area, the check-in process and what you should expect during your at home test.	
+6-28	Tech Tips — helpful technical tips to follow before and during your test to help avoid issues.	
+6-29	Getting Assistance — guidance on how to interact with the proctor during your test, if needed.	
+6-30	Before Your At Home Test Session Begins.	
+6-31	Prepare Your Testing Area.	
+6-32	Before your TOEFL iBT® Home Edition or Paper Edition Speaking section test session begins, make sure that your computer and testing area are properly prepared, and gather the things you'll need.	
+6-33	Run a final ProctorU® Equipment Check and fix any issues before you attempt to check in for your test.	
+6-34	All issues must be resolved before your appointment time.	1	main	 issues be resolved 
+6-35	Close all browsers and applications not needed for the test.	1	acl	 browsers needed 
+6-36	This can help prevent bandwidth issues while you test.	
+6-37	Make sure any other devices in your home that use internet are not running.	
+6-38	Gather the materials you'll need for your test session.	
+6-39	(All other materials are prohibited.)	1	main	 materials are prohibited 
+6-40	Passport or other acceptable ID.	
+6-41	Acceptable note-taking materials, such as a whiteboard or plastic transparency sheet, that can be erased in view of the proctor.	1	main	 materials be erased 
+		2	main	 that be erased 
+6-42	Cell phone or hand-held mirror for check in.	
+6-43	Make sure your testing area meets all environment requirements, including: The room is quiet and well lit.	
+6-44	The table and surrounding area are clear.	
+6-45	Your table and chair are positioned so that the door to the room will be visible to the proctor.	
+6-46	Make sure you are dressed appropriately, with your ears and face visible to the proctor.	1	main	 you are dressed 
+6-47	Avoid wearing any jewelry or other accessories.	
+6-48	Face masks may not be worn during check in or any part of the at home testing experience.	1	main	 masks be worn 
+6-49	Checking In for Your At Home Test.	
+6-50	The check-in process for the TOEFL iBT® Home Edition or the Speaking section of the Paper Edition takes approximately 20 minutes.	
+6-51		
+6-52	At your appointment time, click the "start your test" link in your appointment confirmation email.	
+6-53	You'll have up to 12 minutes after your scheduled time to begin your check in.	
+6-54	If you haven't checked in by that time, your test will be canceled and your fee won't be refunded.	1	main	 test be canceled 
+		2	main	 test be refunded 
+		3	main	 fee be refunded 
+6-55	Select "Start Session.	
+6-56	" Complete the authentication steps, which include showing your ID to the proctor.	
+6-57	The name on your ID must match the name on your ETS account.	
+6-58	The proctor will review the exam rules and request access to your computer screen for monitoring purposes.	
+6-59	The proctor will ask you to use either a hand-held mirror or cell phone to show your computer screen.	
+6-60	The proctor will ask you to move the camera on your computer to show a 360-degree view of the room, including your tabletop surface, and any other places in the room the proctor may wish to inspect.	
+6-61	The proctor will launch the ETS Test Browser and enter the ETS ID and password to access the test.	
+6-62	During Your At Home Test.	
+6-63	Be sure to follow all testing rules when taking the TOEFL iBT® Home Edition or the Speaking section of the Paper Edition.	
+6-64	If you don't, your test can be canceled and your fee won't be refunded.	1	main	 test be canceled 
+		2	main	 test be refunded 
+		3	main	 fee be refunded 
+6-65	Don't use any unauthorized materials, including mobile devices, prewritten notes or textbooks at any time during the test, including the 10-minute break.	
+6-66	Personal recording devices of any kind are strictly prohibited.	1	main	 devices are prohibited 
+6-67	You must disable any screen-sharing or remote-access software (such as Zoom®, Skype®, TeamViewer®, Microsoft Teams® and Apple Remote Desktop™) prior to the test.	
+6-68	It must remain disabled throughout the test.	
+6-69	Make sure that the software will not open automatically during the test.	
+6-70	Don't communicate with anyone other than the proctor.	
+6-71	There may be references to using a headset during your test.	
+6-72	Ignore these; headsets are not allowed when testing at home.	1	main	 headsets are allowed 
+6-73	There is a 10-minute break after the Listening section when you may leave your seat.	
+6-74	You must return on time.	
+6-75	Unscheduled breaks aren't allowed.	1	main	 breaks are allowed 
+6-76	At the end of the test, you'll be able to view unofficial scores for the Reading and Listening sections.	
+6-77	Then you'll have the option to report or cancel your scores.	
+6-78	ETS is monitoring reuse of devices and testing locations for unauthorized purposes.	
+6-79	Frequent, inappropriate reuse of shared testing devices and common testing locations may result in score delay and/or score cancellation and could impact your eligibility to take future ETS exams.	
+6-80	Interacting with the Proctor.	
+6-81	During the test, the proctor will monitor you (via video camera) and your computer screen to ensure you follow all testing procedures.	
+6-82	Make sure you can always be seen on camera by the proctor.	1	main	 you be seen by proctor
+6-83	Suspicious movements could invalidate your test.	
+6-84	If you need to contact the proctor during your test, speak to get their attention and/or use the LogMeIn chat.	
+6-85	It may take 30–60 seconds for the proctor to reply.	
+6-86	If the proctor is attempting to chat with you, the blue owl will bounce up and down.	
+6-87	Having technical issues?	
+6-88	If you experience a technical problem during the test, notify the proctor by speaking out loud and waving to the camera.	
+6-89	If you lose your internet connection momentarily, you'll automatically be reconnected to the proctor when your connection is restored.	1	main	 you be reconnected 
+		2	main	 connection is restored 
+6-90	If your exam can be reopened, your proctor will do so for you.	1	main	 exam be reopened 
+6-91	If you aren't able to reconnect and speak to the proctor, call ProctorU® at +1-855-772-8678 for assistance.	
+6-92	Be sure to watch our Getting Assistance video for additional tips.	
+6-93	Your entire test session will be recorded by ProctorU and monitored by a human proctor, and your photo will be taken.	1	main	 session be recorded by ProctorU
+		2	main	 session be monitored by ProctorU
+		3	main	 session be taken by ProctorU
+		4	main	 photo be taken 
+6-94	Your photo from the test session will be shared with institutions as part of your TOEFL iBT score report.	1	main	 photo be shared 
+6-95	Complaints about Test Administration.	
+6-96	If you have a complaint about the testing facilities, the test center staff or ProctorU, email TOEFL@ets.org no later than 5 days after your test date.	
+6-97	Be sure to include the following: name you used when you registered; registration number; date of the test; name of the test center (if applicable); city and country where you took the test.	
+6-98	* Does not apply to the TOEFL	
+6-99	iBT Paper Edition.	
+6-100	Troubleshooting At Home Testing Technical Issues.	
+6-101	What if I fail the ProctorU® Equipment Check?	
+6-102	You must resolve all issues (shown in red) and pass the equipment check prior to checking in for your test.	1	acl	 issues shown 
+6-103	If you can't resolve the issues yourself, contact ProctorU using the contact form at the bottom of the equipment check page.	
+6-104	Live Help Desk Technicians are available to assist you.	
+6-105	You must resolve all issues before your test appointment, or you won't be able to test, and you will not receive a refund or free reschedule.	
+6-106	Is there anything I can do ahead of time to prevent issues?	
+6-107	Run the ProctorU Equipment Check at the time of day you plan to test to make sure you don't have any bandwidth issues.	
+6-108	Run a final equipment check shortly before your test session starts.	
+6-109	Close all browsers and applications not needed for the test.	1	acl	 browsers needed 
+6-110	This can help prevent bandwidth issues while you test.	
+6-111	Disable any screen-sharing or remote-access software prior to the test.	
+6-112	It must remain disabled throughout the test and should be set so that the software will not open automatically during the test.	1	conj	 It be set 
+6-113	Make sure any other devices in your household that use internet aren't running.	
+6-114	For additional information and troubleshooting help, visit the ProctorU Test-taker Resource Page.	
+6-115	What if I have an issue right before my test starts?	
+6-116	If you have technical issues immediately before your test, contact ProctorU:  Live Chat: Live Chat Phone: +1-855-772-8678.	
+6-117	What if I have a technical issue and my start time is extended?	1	main	 time is extended 
+6-118	This won't affect the amount of time you have to complete the test.	
+6-119	The timer for your test doesn't begin until the proctor enters the password.	
+6-120	What if I have a technical issue during my test?	
+6-121	If you have a technical issue during your test, speak and wave to get the proctor's attention.	
+6-122	If you still have internet access but have been disconnected from the test, notify the proctor via the LogMeIn chat function.	
+6-123	The chat icon (a blue owl) can be found on the task bar for a PC and on the menu bar for Mac®.	1	main	 icon be found 
+6-124	What if I lose internet during the test?	
+6-125	If you lose your internet connection momentarily, you'll automatically be reconnected to the proctor when your connection is restored.	1	main	 you be reconnected 
+		2	main	 connection is restored 
+6-126	If your exam can be reopened, your proctor will do so for you.	1	main	 exam be reopened 
+6-127	If you aren't able to reconnect and speak to the proctor via the LogMeIn chat function, call ProctorU at +1-855-772-8678 for assistance.	
+6-128	What to Expect When You Test at a Test Center.	
+6-129	The following information will familiarize you with what to expect when you take your test at a test center, and it applies to both the TOEFL iBT® test and the TOEFL iBT® Paper Edition (Reading, Listening and Writing sections).	
+6-130	A Preview of Test Day	
+6-131	Watch our TOEFL iBT® Test Day video to learn more about:  checking in; presenting your identification; test security procedures; using your headset and microphone; taking the test; viewing your Reading and Listening scores; the option to cancel your scores.	
+6-132	What to Expect on Test Day.	
+6-133	What to Bring.	
+6-134	Checking In.	
+6-135	During Your Test.	
+6-136	Double-check Your Appointment Details.	
+6-137	24 hours before your appointment, sign in to your ETS account to confirm there are no changes to your registration details (e.g., a different time or building than originally scheduled).	1	cls	 scheduled 
+6-138	Enhanced Safety Procedures.	
+6-139	To help protect the health and safety of test takers and staff, enhanced procedures have been implemented at test centers, including: social distancing measures; masks may be required during the entire test; allowance of gloves to be worn; enhanced cleaning of testing stations.	1	main	 procedures been implemented 
+		2	main	 masks be required 
+		3	main	 allowance be worn 
+6-140	Additionally, all of our test centers have regular schedules for frequent cleaning of high-touch surfaces and provide disposable wipes so that you can wipe down your testing area.	
+6-141	Some test centers are requiring proof of vaccination or a negative COVID-19 test within a specific timeframe before testing, for entrance to the test center.	
+6-142	Be sure to check with your local test center for a complete list of health and safety procedures required for admission to the test center.	1	acl	 procedures required 
+6-143	Be sure to check with your local test center for a complete list of health and safety procedures.	
+6-144	Doesn't apply to TOEFL	
+6-145	iBT Paper Edition.	
+6-146	What to Bring to the Test Center.	
+6-147	The list of things you must bring to the test center on the day of your TOEFL iBT® test is short:  valid, acceptable identification (ID); a mask; a printout of your order confirmation email (for the Paper Edition test only) — you will need to record information from the email on your answer sheet; #2 or HB pencils and erasers (for the Paper Edition test only) — mechanical pencils are not permitted.	1	main	 pencils are permitted 
+6-148	You can't bring any food or drink into the testing room unless you have an approved health accommodation.	
+6-149	(You must request accommodations before you register for the test.)	
+6-150	Bring Valid ID.	
+6-151	We recommend that you bring at least 2 forms of ID, if you can, in case the test administrator questions the first ID you present.	
+6-152	If you don't bring valid and acceptable identification, or if the name on your ID doesn't exactly match the name in your account, you won't be able to take the test, and your test fee won't be refunded.	1	main	 fee be refunded 
+6-153	Bring a Mask.	
+6-154	You must bring your own mask.	
+6-155	If you don't have one, you won't be admitted to the test center.	1	main	 you be admitted 
+6-156	Depending on the test center and/or local policy, you may be required to wear it some or all of the time you're in the test center.	1	main	 you be required 
+6-157	You can wear a mask even if it's not required.	1	main	 it 's required 
+6-158	Medical masks and cloth face coverings are acceptable.	
+6-159	Masks with valves or vents aren't permitted.	1	main	 Masks are permitted 
+6-160	You must remove the mask temporarily to have your photo taken and to enable the test center to verify your ID during check-in and upon returning from breaks.	
+6-161	You may also bring rubber gloves to wear during the test, but they aren't required.	1	main	 they are required 
+6-162	Don't Bring Personal Belongings.	
+6-163	If it's not an approved item, don't try to bring it into the testing room!	
+6-164	This includes phones, watches or any other electronic, recording, listening, scanning or photographic devices.	
+6-165	For a full list of prohibited items and items that may be inspected, see the Information Bulletin.	1	main	 that be inspected 
+6-166	Checking In for Your Test at a Test Center.	
+6-167	Make sure to arrive at least 30 minutes before your test time, to allow time for check in.	
+6-168	ETS respects individuals' privacy and has implemented procedures to ensure that the check-in process is completed in a respectful manner.	1	main	 process is completed 
+6-169	You should be prepared to undergo these security measures to ensure a fair testing environment.	
+6-170	Failure to comply may result in your dismissal from the test, and your test fee will not be refunded.	1	main	 fee be refunded 
+6-171	More details about test center procedures and regulations can be found in the TOEFL iBT® Information Bulletin.	1	main	 details be found 
+6-172	Procedures at All Test Centers.	
+6-173	All test centers will require you to do the following: Show ETS-approved identification that contains your photograph and signature.	
+6-174	The name on your ID must exactly match the name you used when you registered for the test.	
+6-175	Provide handwriting and signature samples.	
+6-176	Have your photo taken.	
+6-177	Your photo will be displayed at your computer station and embedded into your score reports.	1	main	 photo be displayed 
+		2	main	 photo be embedded 
+6-178	Keep your face fully visible during check in.	
+6-179	Keep your ears visible, including avoiding the use of a headset or earphones.	
+6-180	Allow a staff member to inspect your eyeglasses during check in.	
+6-181	Ask you to remove your head covering, if you wear one for religious or cultural reasons, for visual inspection during check in.	
+6-182	Empty your pockets, raise your pant legs above your ankles and pull up your sleeves above your wrists for visual inspection.	
+6-183	Such inspections are routine prior to each entry into the testing room.	
+6-184	Visual Inspection Requests.	
+6-185	You may request that inspections be performed by a staff member of the same gender as you, and/or in an area that is sheltered from the view of other people.	1	main	 inspections be performed by member
+		2	main	 that is sheltered 
+6-186	Test center staff will make every effort to accommodate such requests, but ETS cannot guarantee that all test centers will have the necessary staff and space available.	
+6-187	To request a staff member of the same gender, contact ETS at least 5 days before your test date.	
+6-188	Email: TSReturns@ets.org Phone: 1-800-750-6991 (toll free for test takers in the United States, U.S. Virgin Islands, Puerto Rico and Canada).	
+6-189	+1-609-406-5430 (for all other locations).	
+6-190	Phone hours are 7:30 a.m.–5:30 p.m., U.S. Eastern Time, Monday through Friday (except U.S. holidays).	
+6-191	Procedures at Some Test Centers.	
+6-192	Some test centers also require 1 or more of the following:  fingerprinting/thumbprinting; ID with electronic chip; video monitoring of the testing room during the test; biometric voice and photo identification; the use of electronic detection scanning devices (for example, handheld metal detectors/wands); visual inspection for unauthorized testing aids or other wearable technology.	
+6-193	* Not applicable for TOEFL iBT® Paper Edition  During Your Test at a Test Center.	
+6-194	The Test Session.	
+6-195	The test administrator will assign you a seat shortly before the test begins.	
+6-196	You'll be given noise-reducing headphones with a microphone that you'll speak into for the Speaking section of the test.	1	main	 You be given 
+6-197	If you need help, raise your hand.	
+6-198	There will be a 10-minute break after the Listening section of the test.	
+6-199	You won't be able to leave the testing room or the test center without permission, either during the test or during breaks.	
+6-200	You must present your ID to the test center administrator for verification when you leave and when you return from a break.	
+6-201	If you leave the testing room to go to the storage area or the restroom, the test clock won't stop.	
+6-202	The test center staff will provide scratch paper.	
+6-203	At the end of your test, return all scratch paper to the test administrator.	
+6-204	Don't tear or remove any part of it.	
+6-205	You can ask for more paper if you need it, but you have to return the paper you have before you can get more.	
+6-206	You'll use a standard QWERTY English-language keyboard for the test.	
+6-207	In some countries, the common keyboard used is configured to QWERTY and a template is provided to each test taker to help with locating the few keys that are in a different location.	1	main	 keyboard is configured 
+		2	main	 keyboard is provided 
+		3	main	 template is provided 
+		4	acl	 keyboard used 
+6-208	You will not have access to personal items such as books, electronic devices, handbags or backpacks, which are stored separately to maintain security.	1	main	 which are stored 
+6-209	See the list of unauthorized aids in the "Improper Behaviors" section.	
+6-210	Test centers and ETS assume no responsibility for personal items you choose to bring to the test center.	
+6-211	If you think there is a problem with a test item and want to question it for any reason, notify the test center administrator before leaving.	
+6-212	Learn more about Inquiries on Test Questions.	
+6-213	Cancelling Your Scores.	
+6-214	At the end of the test, your Reading and Listening sections are scored instantly.	1	main	 sections are scored 
+6-215	These unofficial scores can give you an idea of how you did on the test.	
+6-216	You will then have the choice to report or cancel your scores.	
+6-217	Consider this carefully!	
+6-218	This is your only opportunity to cancel your scores.	
+6-219	When making your decision, keep in mind:  You have to cancel all section scores if you wish to cancel.	
+6-220	You can't cancel 1 section and have other section scores reported.	
+6-221	If you cancel your scores, you won't receive a refund.	
+6-222	There is no fee to cancel your scores, but there is a fee to reinstate them.	
+6-223	Canceled scores aren't reported to you or to any institution or agency.	1	main	 scores are reported 
+6-224	Note: If you take the TOEFL iBT	
+6-225	Paper Edition, you’ll have the option to cancel your scores on your answer sheet after you complete the Reading, Writing, and Listening sections.	
+6-226	You will also have the option to cancel your scores after taking the Speaking section from home.	
+6-227	If you choose to cancel on either, your entire test scores will be canceled.	1	main	 scores be canceled 
+6-228	Reporting Suspicious Behavior – Test Fraud Hotline.	
+6-229	Contact ETS to report behavior that may interfere with test security or cause a disturbance.	
+6-230	All reported incidents of fraud are taken seriously and investigated closely.	1	main	 incidents are taken 
+		2	main	 incidents are investigated 
+6-231	All information is held in the strictest confidence.	1	main	 information is held 
+6-232	Email: reportcheating@toefl.org Phone: 1-800-353-8570	
+6-233	(Toll free for test takers in the United States, U.S. Virgin Islands, Puerto Rico and Canada).	
+6-234	Complaints about Test Administration.	
+6-235	If you have a complaint about the testing facilities, the test center staff or ProctorU®, email TOEFL@ets.org no later than 5 days after your test date.	
+6-236	Be sure to include the name you used when you registered, your registration number, the date of the test, the name of the test center (if applicable), and the city and country where you took the test.	
+6-237	* Does not apply to the TOEFL iBT® Paper Edition.	
+6-238	TOEFL iBT® Testing Policies.	
+6-239	ETS is committed to providing tests that are fair to all test takers and administered in a secure environment.	
+6-240	To this end, ETS has established and maintains policies and procedures designed to ensure the integrity and fairness of your testing experience.	1	acl	 policies designed 
+6-241	Improper Behavior Leading to Test Termination.	
+6-242	Rescheduled Tests.	
+6-243	Improper Behavior Leading to Test Termination: Test Security Procedures.	
+6-244	Because so many individuals and institutions rely on TOEFL® test scores, test security is very important to ETS.	
+6-245	There are procedures that test centers must follow to ensure the test is administered in a fair, secure manner.	1	main	 test is administered 
+6-246	If you refuse or fail to follow any instructions of test center staff or the proctor, your test session will be terminated, and your test fee won't be refunded.	1	main	 session be terminated 
+		2	main	 session be refunded 
+		3	main	 fee be refunded 
+6-247	More details about test center procedures and regulations can be found in the TOEFL iBT® Information Bulletin.	1	main	 details be found 
+6-248	Investigating Fraudulent or Unethical Testing Behavior.	
+6-249	Fraudulent or unethical testing behavior will not be tolerated.	1	main	 behavior be tolerated 
+6-250	ETS may use statistical evaluation or other professional evaluation methods as evidence that a test taker did not complete the test or part of the test independently or that pre-knowledge of test questions or answers occurred.	
+6-251	If ETS believes that a test taker may have gained an unfair advantage by sharing or obtaining test questions, topics or answers before, during or after the test, or that a test was completed in whole or in part by someone or with the assistance of someone other than the registered test taker, ETS may exercise its right to cancel the test taker's appointment in advance, hold or cancel the test taker's scores and/or ban the test taker from future testing.	1	main	 test was completed by in
+6-252	If your scores are placed on hold, you will not be able to send score reports to any institution or agency until the investigation is complete and the scores are released.	1	main	 scores are placed 
+		2	main	 scores are released 
+6-253	If any of ETS's investigative methods result in a test taker's scores being canceled, or if unethical behavior is identified on or after test day, ETS may also share its concerns with score recipients selected by the test taker, so that the information can be considered in the institution's or agency's decision-making process.	1	main	 scores being canceled 
+		2	main	 behavior is identified 
+		3	main	 information be considered 
+		4	acl	 recipients selected by taker
+6-254	ETS will send a copy of your cancellation letter to any institution or agency that has received your scores.	
+6-255	Reasons for Test Termination.	
+6-256	The test center administrator or proctor is authorized to dismiss you from the test center and/or terminate your test, and ETS reserves the right to hold and/or cancel your scores, and/or ban you from future testing, for any action that violates any of the policies and procedures in the Bulletin, on the TOEFL website or communicated to you at the test center or by the proctor on the day of the test, including but not limited to:  Taking or attempting to take the test or part of the test for someone else, or having or attempting to have someone take the test or part of the test for you.	1	main	 administrator is authorized 
+6-257	Removing or attempting to remove or transmit any test content, scratch paper or notes relating to the test.	
+6-258	Under no circumstances may test content or any part of the test content be removed, reproduced, transmitted and/or disclosed to any person or entity by any means, including by hard copy, verbally and/or electronically.	
+6-259	Referring to, looking through or working on any test or test section when not authorized to do so, or working after time has been called.	1	main	 Referring been called 
+		2	main	 looking been called 
+		3	cls	 authorized 
+6-260	Failing to provide valid, acceptable identification.	
+6-261	Obtaining or having improper access to any test content, a part of the test, or information about the test, including test questions, topics or answers, in advance of the test administration, or bringing pre-knowledge of any test information into the test location.	
+6-262	This includes on your ID documents, via prohibited devices, and any other method used as an aid in connection with the test.	1	acl	 method used 
+6-263	ETS reserves the right to cancel scores when evidence of pre-knowledge is found.	1	main	 evidence is found 
+		2	main	 knowledge is found 
+6-264	Using or having a phone, watch of any kind, or any other electronic device in your testing environment is prohibited and will result in your dismissal from the test center, test termination and/or cancellation of your scores by ETS.	1	main	 Using is prohibited 
+6-265	Your test fee will not be refunded.	1	main	 fee be refunded 
+6-266	Enabling screen sharing and remote access software during testing.	
+6-267	Using or having of any of the following unauthorized aids: mechanical pencils; pens; scan pens; calculators; books; pamphlets; notes; unauthorized scrap paper; rulers; highlighter pens; stereos or radios with headphones; headphones (applies to at home testing); dictionaries; test preparation materials; translators; any electronic listening, recording, scanning, listening or photographic devices.	
+6-268	Bringing personal items other than ID documents into the testing area.	
+6-269	Clothing and other personal items are subject to inspection by the test center supervisor or test proctor.	
+6-270	You may also be prohibited from wearing certain clothing or hair accessories during testing.	1	main	 You be prohibited 
+6-271	Items that may be inspected and/or prohibited include, but are not limited to: neckties; bow ties; hats; scarves; jackets and other outerwear; tie clips; cuff links; combs; barrettes; headbands; jewelry (other than wedding rings).	1	main	 that be inspected 
+		2	main	 that be prohibited 
+6-272	Tampering with the computer.	
+6-273	Leaving the testing area or the test center building without permission during the test or during breaks.	
+6-274	Taking a weapon or firearm into the test center.	
+6-275	Having food or beverages in the testing area, unless you have been approved for an accommodation based on a disability or health-related need.	1	main	 you been approved 
+		2	acl	 accommodation based 
+6-276	Having tobacco or electronic cigarettes in the testing area.	
+6-277	Taking unscheduled or unauthorized breaks.	
+6-278	Receiving assistance of any kind with your responses to the Speaking section questions.	
+6-279	Using notes of any kind to prepare your essay prior to your test or during breaks.	
+6-280	Evidence that responses are invalid for reasons including unusual timing patterns, unusual answer patterns, inconsistent performance on different parts of the test, or performance inconsistent with other test administrations.	
+6-281	Evidence that a Writing or Speaking response includes material that is substantially similar to material in other TOEFL test taker responses, or the quoting or paraphrasing of language or ideas from published or unpublished sources without attribution.	
+6-282	Creating a disturbance by engaging in any kind of disruptive or threatening behavior.	
+6-283	Disruptive behavior in any form will not be tolerated.	1	main	 behavior be tolerated 
+6-284	The test center administrator or proctor has sole discretion in determining what constitutes disruptive behavior.	
+6-285	Receiving or attempting to receive help, or giving or attempting to give help.	
+6-286	Communication in any form is prohibited, including discussing or sharing test questions, topics or answers during the test or during previously approved breaks, and discussing or sharing test questions, topics or answer after the test.	1	main	 Communication is prohibited 
+6-287	This also includes communication via chat, message board or forum, SMS message, text message, email or photographs.	
+6-288	Failing to follow any regulations in the Bulletin, on this website, instructions given by the test center administrator, proctor, or specified in any materials.	1	acl	 instructions given by administrator
+6-289	ETS reserves the right to take any and all action — including but not limited to banning you from future testing or holding or cancelling your scores — for failure to comply with test administration regulations, the test proctor's or the test center administrator's instructions.	
+6-290	If your scores are canceled, they will not be reported and your test fee will not be refunded.	1	main	 scores are canceled 
+		2	main	 they be reported 
+		3	main	 they be refunded 
+		4	main	 fee be refunded 
+6-291	ETS is monitoring reuse of devices and testing locations for unauthorized purposes.	
+6-292	Frequent, inappropriate reuse of shared testing devices and common testing locations may result in score delay and/or score cancellation and could impact your eligibility to take future ETS exams.	
+6-293	Rescheduled Tests.	
+6-294	On occasion, weather conditions, technical issues or other circumstances beyond our control may result in a delayed start or rescheduled test, or scores may be canceled after you take the test.	1	main	 scores be canceled 
+6-295	If your test is rescheduled by ETS before you test, you can select a different test date and you will not be charged the rescheduling fee.	1	main	 test is rescheduled by ETS
+		2	main	 you be charged 
+6-296	If you travel to the test center and find out that the test administration has been canceled by ETS, you can reschedule your test at no charge or receive a full refund of your test fee.	1	main	 administration been canceled by ETS
+6-297	If ETS cancels a test administration and you incurred travel costs to get to the test center, you may be eligible for reimbursement of reasonable and documented travel expenses for yourself only within 30 days of your original test date.	
+6-298	Refunds are issued in the currency used to pay for the test.	1	main	 Refunds are issued 
+		2	main	 Refunds are used 
+6-299	When you contact TOEFL® Services, have appropriate receipts available and be prepared to provide the following information: name; date of birth; mailing address; daytime phone number; email address; original test date; TOEFL appointment number; a description of the problem.	
+6-300	If you have any questions about the rescheduling and refund policies, please contact TOEFL Services.	
+7-1	TOEFL iBT® Scores.	
+7-2	The reputation and high standards of the TOEFL iBT® test mean that your TOEFL® scores help you stand out to admissions officers and show you have what it takes to be great.	
+7-3	Your scores provide:  a true reflection of your abilities in the way they're used in an actual classroom; fair and unbiased scores from a centralized scoring network, not a test center.	1	main	 they 're used 
+7-4	More than 11,500 institutions in over 160 countries accept TOEFL scores.	
+7-5	When your goal is university study, choose the test with scores that are widely accepted and preferred around the world.	1	main	 that are accepted 
+		2	main	 that are preferred 
+7-6	Did you know?	
+7-7	Your score report includes MyBest® scores, also known as superscores, to help you show your best overall performance and achieve your goals sooner.	1	acl	 scores known 
+7-8	Learn more.	
+7-9	Let's learn more about your test scores and how they can help you get where you want to go.	
+7-10	Getting Your Scores.	
+7-11	See when you can expect your scores in your ETS account after you take the test.	
+7-12	Sending Your Scores.	
+7-13	Designate score recipients before you test.	
+7-14	Send out additional score reports after you test.	
+7-15	Understanding Your Scores.	
+7-16	What do your scores mean?	
+7-17	Scoring Policies.	
+7-18	Read the policies that ensure our scoring is fair and unbiased.	
+7-19	How We Ensure Fairness and Quality.	
+7-20	When you take the TOEFL iBT test, the only thing that matters is what you know, not where you test, what you look like or who scores your test.	
+7-21	All scoring is handled by a centralized scoring network to ensure consistency, fairness and quality, and to offer a complete and accurate picture of your ability.	1	main	 scoring is handled by network
+7-22	Getting Your TOEFL iBT® Scores.	
+7-23	When Will You Get Your Scores?	
+7-24	When your scores will be available in your ETS account depends on how you took your TOEFL iBT® test.	
+7-25	Taken at a test center: 6 days after your test date.	
+7-26	TOEFL iBT® Home Edition: 6–10 days after your test date.	
+7-27	TOEFL iBT® Paper Edition: 11–13 business days after your test date.	
+7-28	How Do You Get Your Scores?	
+7-29	Through Your ETS Account.	
+7-30	You'll receive an email when your scores are available, and you can access your account online.	
+7-31	Your scores are valid for 2 years, so you may want to download and print a PDF copy of your test taker score report from your account.	
+7-32	PDF score reports are ready for download 2 days after you receive your scores electronically through your ETS account, or you can view this list of dates (PDF) for an estimated availability date, for tests taken at a test center.	1	acl	 tests taken 
+7-33	Note: PDF score reports are currently not available for tests taken in Mainland China.	1	acl	 tests taken 
+7-34	If you have questions about your score report, contact TOEFL Services.	
+7-35	By Mail.	
+7-36	If you requested a paper copy of your score report before you took the test, it will be mailed 11–15 days after your test date, or sooner depending on how you took the test.	1	main	 it be mailed 
+7-37	Delivery times will vary based on local postal services.	
+7-38	When Do Score Recipients Receive Your Scores?	
+7-39	When your designated score recipients will receive your scores depends on how you took the test and what method of score delivery they use.	
+7-40	For more information, see Sending Your Scores.	
+7-41	Reinstating Your TOEFL iBT® Scores.	
+7-42	If you would like to reinstate canceled scores, your request must be received no later than 60 days after your test date.	1	main	 request be received 
+7-43	The fee for reinstatement is US$20.	
+7-44	All scores must be available to request reinstatement.	
+7-45	There are 2 ways to request a reinstatement: through your ETS account; by completing and returning the request form (PDF).	
+7-46	It takes approximately 3 weeks from receipt of your request and payment to reinstate your scores.	
+7-47	Once reinstated, your scores will be available in your account and sent to your designated institutions.	1	cls	 reinstated 
+7-48	Note: This applies only to scores that you canceled on test day at the end of your test.	
+7-49	Scores canceled by ETS cannot be reinstated.	1	main	 Scores be reinstated 
+		2	acl	 Scores canceled by ETS
+7-50	Requesting a Score Review.	
+7-51	You can request a score review of your Writing and/or Speaking section up to 30 days after you take the test.	
+7-52	The cost for each section is US$80; a review of both sections costs US$160.	
+7-53	The following policies apply:	
+7-54	Your scores can be reviewed only once.	1	main	 scores be reviewed 
+7-55	If you want both sections reviewed, they must be done at the same time.	1	main	 they be done 
+7-56	If the review results in a change in your scores (lower or higher), the revised scores will become your official scores.	
+7-57	Your scores can't be reviewed if you have already requested that they be sent to an institution or agency.	1	main	 scores be reviewed 
+		2	main	 they be sent 
+7-58	See acceptable forms of payment and payment policies.	
+7-59	You can request a score review in one of 2 ways: through your ETS account; by completing and returning the TOEFL iBT® Score Review Request Form (PDF).	
+7-60	Scores are reported 1–3 weeks after we receive your request and payment.	1	main	 Scores are reported 
+7-61	Sending Your TOEFL iBT® Scores.	
+7-62	Before the Test.	
+7-63	Your test fee includes up to 4 free official TOEFL® score reports to be sent to the TOEFL Destinations that you select before you take the test.	
+7-64	You can add or delete score report recipients through your ETS account until 10 p.m. (local test center time) on the day before your test.	
+7-65	Please keep in mind that if you designate any institution or agency to receive your scores, you won't be able to request a score review of your Writing and/or Speaking sections.	
+7-66	Score delivery time can vary based on how you took the test and how your designated score recipients receive scores (all times approximate): ETS® Data Manager: 6–8 business days (11–13 business days for TOEFL iBT® Paper Edition); Scorelink® Service: 8–10 business days (11–16 business days for Paper Edition); Postal Mail: 10–12 business days plus mailing time.	
+7-67	Allow an additional 7–10 days for mail delivery in the United States, and 4–6 weeks for mail delivery to other locations.	
+7-68	For information specific to your postal system, contact your post office.	
+7-69	After the Test.	
+7-70	Your scores are valid for 2 years after your test date.	
+7-71	During that time, you can order additional score reports for a fee of US$20* per institution/agency in 1 of 3 ways:  Through Your ETS Account.	
+7-72	Access your account online and use the "Send Additional Score Reports" option.	
+7-73	Pay by credit/debit card, e-check or PayPal®.	
+7-74	Score reports are mailed 3–5 business days after your request is received.	1	main	 reports are mailed 
+		2	main	 request is received 
+7-75	By Fax.	
+7-76	Fill out the TOEFL iBT® Additional Score Report Request Form (PDF).	
+7-77	Fax the completed form with your appointment number and credit/debit card information to +1-610-290-8972.	
+7-78	If you send the same fax more than once, write "DUPLICATE" in large letters on the form to avoid extra charges to your credit/debit card.	
+7-79	Score reports are mailed 10 business days after your request is received.	1	main	 reports are mailed 
+		2	main	 request is received 
+7-80	By Mail.	
+7-81	Complete the TOEFL iBT	
+7-82	Additional Score Report Request Form (PDF).	
+7-83	Mail it with your payment to:  ETS-TOEFL iBT P.O. Box 6153 Princeton, NJ 08541-6153 USA.	
+7-84	Score reports are mailed 10 business days after your request is received.	1	main	 reports are mailed 
+		2	main	 request is received 
+7-85	There is no Additional Score Reports fee for the TOEFL iBT Paper Edition.	
+7-86	Understanding Your TOEFL iBT® Scores.	
+7-87	What Do Your Scores Mean?	
+7-88	You will receive 4 scaled section scores and a total score.	
+7-89	Each section has a score range of 0–30.	
+7-90	These are added together for a total score of 0–120.	1	main	 These are added 
+7-91	Each skill has 4 or 5 proficiency levels, so where your score falls within that range tells you your proficiency for that skill.	
+7-92	Skill Level Reading Advanced (24–30) High-Intermediate (18–23) Low-Intermediate (4–17) Below Low-Intermediate (0–3)	
+7-93	Listening Advanced (22–30) High-Intermediate (17–21) Low-Intermediate (9–16) Below Low-Intermediate (0–8) Speaking Advanced (25–30) High-Intermediate (20–24) Low-Intermediate (16–19) Basic (10–15) Below Basic (0–9) Writing Advanced (24–30) High-Intermediate (17–23) Low-Intermediate (13–16) Basic (7–12) Below Basic (0–6).	
+7-94	For more information, see Performance Descriptors for the TOEFL iBT® test (PDF).	
+7-95	Did You Pass?	
+7-96	There are no passing or failing scores set by the TOEFL® Program or ETS.	1	acl	 scores set by Program
+7-97	Each institution or agency sets its own score requirements.	
+7-98	For more information about how your scores will be used or interpreted, contact the institution or agency directly.	1	main	 scores be used 
+		2	main	 scores be interpreted 
+7-99	What Are MyBest® Scores?	
+7-100	MyBest® scores, also referred to as superscores, offer you a way to show your best overall performance by combining your highest section scores from all test dates within the last 2 years.	
+7-101	This can help you to achieve your goals sooner, since it means you may be able to meet score requirements for your institution with fewer tests.	
+7-102	All TOEFL iBT score reports show both your traditional scores from your selected test date and your MyBest scores, like this.	
+7-103	This image shows a single student test score where scores for reading, listening, speaking, writing and a total score are shown on the left, and the right image is showing the test takers MyBest score for each section from all of their valid TOEFL scores in the last 2 years.	1	main	 scores are shown 
+		2	main	 score are shown 
+7-104	An increasing number of universities and other institutions accept MyBest scores.	
+7-105	We recommend that you check with institutions directly to confirm their TOEFL score requirements.	
+7-106	If you take the TOEFL iBT® Paper Edition, the MyBest scores section will only include your scores from all TOEFL iBT	
+7-107	Paper Edition tests.	
+7-108	It will not include your scores from tests taken at a test center or from home with the TOEFL iBT® Home Edition.	1	acl	 tests taken 
+7-109	How Is the Test Scored?	
+7-110	TOEFL tests are only scored by a centralized scoring network, never at the test center.	1	main	 tests are scored by network
+7-111	The Reading and Listening sections are scored by computer.	1	main	 sections are scored by computer
+7-112	The Speaking and Writing sections are scored by a combination of automated AI scoring and multiple, highly trained human raters to: offer a complete and accurate picture of your ability; minimize the rater bias that can occur with face-to-face interviews; ensure consistency and the highest quality.	1	main	 sections are scored by combination
+7-113	The TOEFL iBT	
+7-114	Paper Edition Writing section is scored by human raters only.	1	main	 section is scored by raters
+7-115	Institutions Accepting MyBest® Scores.	
+7-116	Universities and other institutions around the world have confirmed that they accept MyBest® scores for the TOEFL iBT® test.	
+7-117	Below is a list of the institutions known by ETS to accept MyBest scores for their programs.	1	acl	 institutions known by ETS
+7-118	It is based on information taken from university websites or other official university sources.	1	main	 It is based 
+		2	acl	 information taken 
+7-119	Additional universities may accept MyBest scores but not specifically mention it on their websites.	
+7-120	Be sure to check with them directly if there is a question about their policy.	
+7-121	Some universities may need time to discuss and update their requirements.	
+7-122	To add an institution or program to this list, email toeflnews@ets.org.	
+7-123	Institutions Accepting TOEFL iBT® Home Edition Scores.	
+7-124	The TOEFL iBT® Home Edition is a safe, convenient and reliable testing option for students and institutions worldwide.	
+7-125	Because the Home Edition is still a TOEFL iBT test, scores can be accepted and used in the same way as the test center version, and we have received overwhelmingly positive feedback about the acceptance and use of Home Edition scores from thousands of universities worldwide.	1	main	 scores be accepted 
+		2	main	 scores be used 
+		3	main	 scores be received 
+7-126	Please note that not all universities may specifically list the TOEFL	
+7-127	iBT Home Edition on their website even when they accept it, since they already list the TOEFL iBT test.	
+7-128	Be sure to check with them directly if there is a question about their policy.	
+7-129	Some universities may need time to discuss and update their requirements.	
+7-130	For your convenience, below is a list of institutions that have specifically listed the TOEFL	
+7-131	iBT	
+7-132	Home Edition, based on information taken from university websites or other official university sources.	1	acl	 Edition based 
+		2	acl	 information taken 
+7-133	To add an institution or program to this list, email toeflnews@ets.org.	
+7-134	Scoring Policies.	
+7-135	Confidentiality of Scores.	
+7-136	ETS Data Retention.	
+7-137	Inquiries on Test Questions.	
+7-138	ETS Score Cancellation.	
+7-139	ETS Use of Personal Information.	
+7-140	By providing personal information to us and/or registering for a TOEFL® test, you expressly consent (or confirm your consent) to allow ETS to use such personal information in accordance with the ETS Privacy and Security Policy and the Test Taker Privacy and Information Security Policy.	
+7-141	ETS may collect some information by phone and/or audio/video, or collect biometric identifiers such as fingerprints or still photographs.	
+7-142	Why Happens if ETS Questions My Scores?	
+7-143	There are several reasons that ETS may question a test taker's TOEFL scores.	
+7-144	Learn more about these reasons and the options available for resolution.	
+7-145	Confidentiality of Scores.	
+7-146	The TOEFL® program recognizes test takers' right to privacy.	
+7-147	Under the ETS privacy and information security policy, it is the program's responsibility to protect information that is stored in data or research files held by ETS from unauthorized disclosure.	1	main	 that is stored 
+		2	acl	 files held by ETS
+7-148	Under certain specific conditions, this data may be shared: ETS or its authorized associate(s) may share test takers' score data with institutions or agencies for verification purposes.	1	main	 data be shared 
+7-149	TOEFL test score data or writing and speaking responses that are not individually identified may be used at any time for informational, research, statistical or training purposes.	1	main	 that are identified 
+		2	main	 data be used 
+7-150	Information retained in TOEFL records is the same as the information in the score posting and on the official score reports.	1	acl	 Information retained 
+7-151	Official score reports will be sent only to those institutions or agencies chosen by the test taker when he or she registered to test, on a Score Report Request Form submitted at a later date, or otherwise authorized by the test taker.	1	main	 reports be sent 
+		2	acl	 institutions chosen by taker
+		3	acl	 Form submitted by taker
+		4	acl	 Form authorized by taker
+7-152	Test takers who provide their TOEFL registration numbers to an entity (for example, government immigration offices) are deemed to have authorized release of their TOEFL score data to that entity.	1	main	 takers are deemed 
+7-153	Do not provide your appointment number to anyone unless you want them to have access to your score data.	
+7-154	Entities must contract with ETS for access, but once they do that, they can use the information you provided to access your scores.	
+7-155	Review specific Terms and Conditions of the TOEFL Online Score Verification Service (PDF).	
+7-156	ETS's goal is to report valid scores that reflect the test taker's own unaided abilities.	
+7-157	To that end, ETS reserves the right to share any and all information in its possession about a test taker and the terms and conditions of test taking with appropriate parties, including: Any entity contracted with ETS and recognized as an authorized user of TOEFL test scores.	1	acl	 entity contracted 
+		2	acl	 entity recognized 
+7-158	This includes, without limitation, any entity to which ETS reports scores at the test taker's request.	
+7-159	Any government agency responsible for administration or enforcement of U.S. criminal and/or immigration laws.	
+7-160	Information subject to release to appropriate parties includes — but is not limited to — test taker identifying information, information concerning the conduct and findings of any test security investigation, and information regarding the test center where the test was taken.	1	main	 test was taken 
+		2	conj	 subject is limited 
+7-161	Scores are not to be released by score recipients without the permission of the test taker (subject to the arrangements and laws applicable to the test taker and the recipient).	
+7-162	ETS Data Retention.	
+7-163	ETS shall at all times protect your personal information with operational, administrative, technical and physical security safeguards.	
+7-164	Unless your photograph or other biometric samples taken on the day of the test or during the check-in or registration process are being used in connection with a test security investigation, ETS shall retain them for a maximum of 3 years unless local regulations limit retention.	1	main	 photograph being used 
+		2	acl	 photograph taken 
+7-165	We will keep your information as needed to meet the following requirements: To protect against fraud, theft and misrepresentation by unauthorized test takers; For the purpose of identity verification; To maintain integrity of the testing process.	1	cls	 needed 
+7-166	Test Question Inquiries.	
+7-167	Although ETS employs extensive quality control checks throughout the development of test questions and the preparation of final tests, typographical errors or flaws in questions can occasionally occur.	
+7-168	If you suspect a problem and want to question a test item for any reason, notify the administrator before you leave the test center.	
+7-169	You can also write to: TOEFL Test Question Inquiries Educational Testing Service Rosedale Road, MS 42N-208 Princeton, NJ 08541-0001, USA.	
+7-170	Or send a fax to +1-609-683-2600 as soon as possible after taking the test.	
+7-171	Please include: the test name; the test section; the test date; the name of the center where the test was taken; the number of the test item being questioned, if possible.	1	main	 test was taken 
+		2	acl	 item questioned 
+7-172	ETS Score Cancellation Policy.	
+7-173	ETS and the TOEFL® program strive to report scores that accurately reflect the performance and independent work of every test taker.	
+7-174	ETS standards in this regard have 2 primary goals: giving all test takers an equal opportunity to demonstrate their abilities; preventing any test taker from gaining an unfair advantage over others.	
+7-175	These standards are of the utmost importance to ETS and those who rely on the validity of ETS test scores.	
+7-176	Therefore, ETS reserves the right to cancel any test score when, in its sole judgment, there is substantial evidence that the score is invalid.	
+7-177	Scores may be canceled as a result of test taker behavior or irregularities that affect testing integrity.	1	main	 Scores be canceled 
+7-178	Test Taker Behavior.	
+7-179	Fraudulent or unethical testing behavior will not be tolerated.	1	main	 behavior be tolerated 
+7-180	ETS reserves the right to cancel a test taker's test appointment in advance, hold or cancel the test taker's scores, and/or ban the test taker from future testing if it appears that the entire test wasn't taken solely by person who was registered, or that there was pre-knowledge of test questions or answers.	1	main	 test was taken by person
+		2	main	 who was registered 
+7-181	If your scores are placed on hold, you will not be able to send score reports to any institution or agency until the investigation is complete and the scores are released.	1	main	 scores are placed 
+		2	main	 scores are released 
+7-182	If any of ETS's investigative methods result in a test taker's scores being cancelled, or if unethical behavior is identified on test day, ETS may also share its concerns with score recipients selected by the test taker so that the information can be considered in the institution or agency's decision-making process.	1	main	 scores being cancelled 
+		2	main	 behavior is identified 
+		3	main	 information be considered 
+		4	acl	 recipients selected by taker
+7-183	ETS reserves the right to dismiss you from a test session, terminate your test, and/or cancel your scores and ban you from taking ETS tests in the future for violations such as, but not limited to, those listed under Improper Behavior Leading to Test Termination.	
+7-184	Test Integrity Irregularities.	
+7-185	ETS may cancel your scores for irregularities such as, but not limited to, the following:  Problems with the administration of a test (improper timing, improper seating, defective materials, defective equipment) and other disruptions of test administrations (natural disasters, weather conditions and other emergencies).	
+7-186	These may affect an individual, a group or multiple groups of test takers.	
+7-187	Circumstances at the test center reasonably indicate that the test was improperly administered due to fraudulent or other improper or illegal activities.	1	main	 test was administered 
+7-188	In certain circumstances, determined by ETS, all scores for test takers at a particular test center may be canceled even if there is no evidence of individual wrongdoing.	1	main	 scores be canceled 
+		2	acl	 circumstances determined by ETS
+7-189	If your test administration is canceled before you test, or your test cannot be scored or your scores are canceled due to a testing irregularity, you can select a different test date and you will not be charged the rescheduling fee.	1	main	 administration is canceled 
+		2	main	 administration is scored 
+		3	main	 administration is canceled 
+		4	main	 test be scored 
+		5	main	 test be canceled 
+		6	main	 scores are canceled 
+		7	main	 you be charged 
+7-190	If you arrive at your testing appointment and find out that the test administration has been canceled by ETS, you can reschedule your test at no charge or receive a full refund of your test fee.	1	main	 administration been canceled by ETS
+7-191	If ETS cancels a test administration and you incurred travel costs to get to the test center, you may be eligible for reimbursement of reasonable and documented travel expenses for yourself only within 30 days of your original test date.	
+7-192	Refunds are in U.S. dollars.	
+7-193	When you contact TOEFL® Services, have appropriate receipts available and be prepared to provide the following information:  Name; Date of birth; Mailing address; Daytime phone number; Email address; Original test date; TOEFL registration number; A description of the problem.	
+7-194	Invalidating/Cancelling Scores.	
+7-195	When there is information that ETS considers sufficient to indicate that a test taker has engaged in any activity that affects score validity, ETS may cancel the test taker's scores and may ban the test taker from future ETS tests.	
+7-196	In addition, when there is information that ETS considers sufficient that the administrator of the test did not comply with regulations, some or all scores from that administration may be held or canceled.	1	main	 scores be held 
+		2	main	 scores be canceled 
+7-197	For test takers outside the United States, ETS may also inform score recipients of the reason(s) for the score cancellation and may also disclose the reason(s) for score cancellation in certain group cases.	
+7-198	Note: This policy applies only to test takers outside the United States.	
+7-199	For more detailed information, see Why and How ETS Questions TOEFL® Scores.	
+7-200	ETS reserves the right to take any action — including, but not limited to, dismissing you from the test center, terminating your test, cancelling your scores and banning you from future testing — for failure to comply with test administration regulations, the test center administrator's or test proctor's instructions.	
+7-201	If you are dismissed from the test center, your test is terminated or your scores are canceled, your scores will not be reported, and your test fee will not be refunded.	1	main	 you are dismissed 
+		2	main	 test is terminated 
+		3	main	 test is canceled 
+		4	main	 scores are canceled 
+		5	main	 scores be reported 
+		6	main	 scores be refunded 
+		7	main	 fee be refunded 
+7-202	ETS reserves the right to take appropriate action and/or notify the appropriate authorities, including but not limited to law enforcement authorities, if any test taker responds in a threatening or disturbing way to essay questions, or communicates with ETS either verbally or in writing in a threatening or disturbing manner.	
+7-203	Test takers who respond to a Speaking or Writing question by using profanity or other inappropriate language or content will receive a score of zero.	
+7-204	ETS will exercise its right to determine what constitutes an inappropriate response.	
+7-205	Liability.	
+7-206	ETS shall have no liability to any test taker for damages or claims of any kind whatsoever that the test taker may assert against ETS for not reporting scores, holding or cancelling scores, banning the test taker from future testing or disclosure of test taker information pursuant to ETS's rights.	
+7-207	Report Suspicious Behavior — Test Fraud Hotline.	
+7-208	Please contact ETS as soon as possible to report any conduct you observe at or in connection with a test administration that may be in conflict with the above policies, whether or not the conduct leads to an invalid score.	
+7-209	Your identity will be held in confidence.	1	main	 identity be held 
+7-210	Email: reportcheating@toefl.org Phone: +1-609-406-5430 Fax: +1-609-406-0709.	
+7-211	Why and How ETS Questions TOEFL® Scores.	
+7-212	Preface.	
+7-213	The procedures and options described below apply to score validity cases only and do not apply to testing irregularities, discrepancies in test taker identification or test taker misconduct.	1	acl	 procedures described 
+7-214	As a matter of fairness to test takers, educational institutions, government agencies, professional organizations, or any entity that ETS recognizes as an authorized user of TOEFL® scores in making important decisions about test takers, ETS reviews test scores that may be invalid.	
+7-215	This page explains why and how ETS questions the validity of test scores when concerns arise.	
+7-216	Most test scores are reported by ETS without any question regarding their validity.	1	main	 scores are reported by ETS
+7-217	When ETS is concerned that test scores may be invalid, ETS invites the test taker to submit information that addresses these concerns.	
+7-218	ETS also makes available 3 options for resolution, which are described in detail under "Options Leading to Resolution" below.	1	main	 which are described 
+7-219	The test taker may: 1. authorize ETS to cancel the questioned scores and take a future test without charge; 2. authorize ETS to cancel the questioned scores and receive a refund; 3.	
+7-220	submit the matter to arbitration (for test takers testing in the United States at the time of testing).	
+7-221	The test taker has the right to initiate legal action.	
+7-222	However, the filing of a lawsuit will not necessarily delay the cancellation of scores that ETS determines are invalid.	
+7-223	"Testing irregularities" refers to problems with the administration of a test.	
+7-224	When they occur, they may affect an individual or groups of test takers.	
+7-225	Such problems include, but are not limited to, administrative errors (e.g., improper timing, improper seating, improper proctoring, technical difficulties, defective materials, defective equipment or the failure of testing staff to comply with test administration policies or procedures) and disruptions of test administrations.	
+7-226	Why ETS Questions Test Scores.	
+7-227	ETS tests are widely viewed as accurate assessments of the abilities they are designed to measure.	1	main	 tests are viewed 
+		2	main	 they are designed 
+7-228	As a result, the millions of people who take ETS tests each year and the thousands of score recipients who receive test scores count on the validity of the test scores that ETS reports.	
+7-229	This is why ETS questions test scores when it is believed they may be invalid.	1	main	 it is believed 
+7-230	Acceptance of ETS Policies.	
+7-231	ETS strives to administer tests under secure, standard conditions that afford test takers equivalent opportunities to demonstrate their abilities.	
+7-232	During the registration process, upon arrival at the test center and before the start of the testing session, test takers are required to signify their agreement to accept ETS policies and procedures.	1	main	 takers are required 
+7-233	As part of that agreement, they acknowledge that ETS has the right to review scores of questionable validity and to cancel scores when there is substantial evidence that they are invalid.	
+7-234	Fairness.	
+7-235	ETS recognizes the importance of treating test takers fairly and has designed procedures with fairness in mind.	
+7-236	Communications in cases of questioned scores, including the information provided below, are designed to help test takers understand ETS procedures for reviewing scores so that questions about score validity can be resolved as quickly and equitably as possible.	1	main	 Communications are designed 
+		2	main	 questions be resolved 
+		3	acl	 information provided 
+7-237	The test taker's score record and the documents completed that are retained at ETS may be released to any entity that ETS recognizes as an authorized recipient of scores, including without limitation (1) any entity to which ETS reports scores at the test taker's request, (2) any government agency, including agencies responsible for administration or enforcement of U.S. criminal and/or immigration laws, and (3) pursuant to a U.S. or foreign subpoena or required by applicable law.	1	main	 that are retained 
+		2	main	 record be released 
+		3	acl	 documents completed 
+7-238	ETS may be required by a score recipient or other third party to release the names of test takers whose scores have been questioned, whether or not these scores are canceled and the reason for the score cancellation.	1	main	 ETS be required by recipient
+		2	main	 scores been questioned 
+		3	main	 scores are canceled 
+7-239	The information that may be released includes, but is not limited to, identifying information, details of any test security investigation and details regarding the test center where the test was taken.	1	main	 that be released 
+		2	main	 test was taken 
+7-240	Typically, the reasons for the disclosure of test taker information include score verification, test security investigations and investigations by score recipients of possible unlawful activity.	
+7-241	The ETS Score Review Process.	
+7-242	Over the years, ETS has developed procedures to review the validity of test scores.	
+7-243	Unless ETS finds substantial evidence that test scores are invalid, the scores are reported.	1	main	 scores are reported 
+7-244	If ETS has concerns about the validity of test scores, the test taker is offered an opportunity to respond and select an option for resolving the matter.	1	main	 taker is offered 
+7-245	If the matter cannot be resolved, ETS will cancel the questioned scores.	1	main	 matter be resolved 
+7-246	If before, during or after a review of questionable scores, ETS finds that misconduct has occurred in connection with a test, ETS may treat the matter under its misconduct procedures.	
+7-247	In that event, the options available in connection with Score Invalidity reviews will not be available even if those options were previously offered.	1	main	 options were offered 
+7-248	How Questions Arise.	
+7-249	Questions about the validity of test scores may arise from: inquiries from score recipients about the validity of particular scores (such inquiries often arise from inconsistencies among different measures of a test taker's abilities); communications from test center administrators or other test takers; other internal and external sources of information.	
+7-250	Although ETS considers information received from these sources, ETS does not cancel scores unless it is determined that there is substantial evidence that the scores are invalid.	1	acl	 information received 
+7-251	Some Types of Information that ETS Considers When Reviewing Scores.	
+7-252	Information, including but not limited to, indicating that: a test taker may not have worked independently; test scores are inconsistent with previous test scores or other measures of the test taker's abilities; test content or answers may have been available to the test taker before or during the test administration; an external source has provided such information to ETS.	
+7-253	Comparisons of, including but not limited to: a test taker's answers with those of other test takers; a test taker's scores with previous scores, or scores on different sections of the test; the handwriting from documents completed on test day with handwriting on other documents; identification documents presented by the test taker on test day with other records; the information on test day documents with other records; answers changed to match those of another test taker; biometric data.	1	acl	 documents completed 
+		2	acl	 documents presented by taker
+		3	acl	 documents changed 
+7-254	No Action	
+7-255	Taken During Review.	
+7-256	When questions are raised before test scores have been reported, ETS does not report the scores to score recipients unless and until concerns about their validity have been resolved.	1	main	 questions are raised 
+		2	main	 scores been reported 
+		3	main	 concerns been resolved 
+7-257	On the other hand, if previously reported scores are in question, ETS does not notify score recipients unless and until it has decided to cancel the scores after the review and resolution process has been completed, or after the test taker has failed to comply with deadlines for submitting information or exercising an option.	1	main	 process been completed 
+		2	cls	 reported 
+7-258	Two-stage Review Process.	
+7-259	ETS will not cancel test scores without substantial evidence that they are invalid.	
+7-260	To ensure fairness, the review process involves 2 stages, with different sets of personnel responsible for each.	
+7-261	The Initial Review.	
+7-262	The ETS Office of Testing Integrity (OTI) is responsible for the initial review of scores.	
+7-263	OTI staff consider whether, based on information available to ETS, there appears to be substantial evidence of invalidity.	
+7-264	In each case the OTI prepares a file, called a Score Review Summary, which contains information and documentation relating to its concerns.	
+7-265	If OTI determines that there is not substantial evidence of invalidity, it terminates the review and sends any scores not already reported to the test taker and designated score recipients.	1	acl	 scores reported 
+7-266	Any score recipients who have raised questions about the scores are then advised that ETS found no score validity issues that would cause the scores to be canceled.	1	main	 recipients are advised 
+		2	main	 scores be canceled 
+7-267	If OTI staff finds substantial evidence that scores may be invalid, they notify the test taker and offer a single opportunity to submit additional information that addresses ETS's concerns.	
+7-268	Upon receipt of such information, OTI staff refer the Score Review Summary and any additional information supplied by the test taker to the ETS Board of Review for consideration and decision/recommendation.	1	acl	 information supplied by taker
+7-269	If the test taker elects not to respond by the expiration of the time period indicated in ETS's letter, the test taker's scores will be canceled without further notice.	1	main	 scores be canceled 
+		2	acl	 period indicated 
+7-270	In this case, there will be no review by the Board.	
+7-271	Test takers are also offered the options to cancel the scores and take a future test without charge, or to cancel the scores and receive a refund.	1	main	 takers are offered 
+7-272	When there are concerns regarding plagiarism in the Writing section, the scores from the test administration are automatically canceled.	1	main	 scores are canceled 
+7-273	Submitting Additional Information.	
+7-274	Before questioned scores are submitted to the Board of Review, the OTI provides test takers with an opportunity to submit information addressing ETS's concerns.	1	main	 scores are submitted 
+7-275	Test takers may submit any information about their test experience that is relevant.	
+7-276	For example: Authenticated original documents written prior to the questioned test administration may address questions about handwriting differences.	1	acl	 documents written 
+7-277	In the case of a physical impairment or other disability, the test taker may submit a doctor's certificate or other relevant information.	
+7-278	The Board of Review considers all such information, and in some cases it resolves ETS's concerns.	
+7-279	On the other hand, the Board of Review gives little weight to information that does not specifically address ETS's questions about score validity.	
+7-280	For example, character references or testimonial letters do not explain handwriting differences or unusual agreement between the answers of 2 or more test takers.	
+7-281	The Second Stage of Review.	
+7-282	The Board of Review is an impartial group of ETS professional staff.	
+7-283	Board of Review members do not review scores from testing programs for which they have managerial or administrative responsibility.	
+7-284	The Board meets in rotating panels to review cases.	
+7-285	If even a single panel member concludes there is not substantial evidence of invalidity, the review is terminated and the scores are reported.	1	main	 review is terminated 
+		2	main	 review is reported 
+		3	main	 scores are reported 
+7-286	The Board of Review considers the contents of the Score Review Summary (which, in discrepant-handwriting cases, includes a report from an external document examiner retained by ETS) and any information submitted by the test taker.	1	acl	 examiner retained by ETS
+		2	acl	 information submitted by taker
+7-287	If the Board of Review finds that there is substantial evidence of invalidity, OTI notifies the test taker.	
+7-288	ETS offers options before cancelling the test taker's scores at this stage, as explained below under "Options Leading to Resolution."	1	cls	 explained 
+7-289	As discussed above, cancellation of scores is still an option.	1	cls	 discussed 
+7-290	Options Leading to Resolution.	
+7-291	Option 1 — Test Taker May Cancel the Scores and Take a Future Test without Charge.	
+7-292	A test taker may ask ETS to cancel the questioned scores and take a future test without charge.	
+7-293	ETS then removes the scores from the test taker's record.	
+7-294	If the scores have already been reported, ETS notifies score recipients or other third parties that the test taker's scores have been canceled.	1	main	 scores been reported 
+		2	main	 scores been canceled 
+7-295	Option 2 — Test Taker May Cancel the Scores and Receive a Refund.	
+7-296	A test taker may ask ETS to cancel the questioned scores and receive a refund of the test fee.	
+7-297	ETS then removes the scores from the test taker's record and refunds any applicable test fees paid by the test taker.	1	acl	 fees paid by taker
+7-298	If the scores have been previously reported, ETS notifies score recipients or other third parties that the test taker's scores have been canceled.	1	main	 scores been reported 
+		2	main	 scores been canceled 
+7-299	Option 3— Arbitration.	
+7-300	A test taker may ask to have a third-party arbitrator, appointed by the American Arbitration Association, determine whether ETS has substantial evidence to support the cancellation of the questioned test scores.	1	acl	 arbitrator appointed by Association
+7-301	The arbitration option is available only to test takers testing in the United States at the time of testing.	
+7-302	Requirements.	
+7-303	A test taker electing this option must sign a standard ETS Arbitration Agreement that spells out the procedures that will apply in the arbitration.	
+7-304	Arbitration is intended only as an independent review of ETS's decision that there is substantial evidence to support cancellation.	1	main	 Arbitration is intended 
+7-305	This review is based upon the documents alone.	1	main	 review is based 
+7-306	As a result, the arbitrator will review only the information that had been submitted to the ETS Board of Review when it decided to cancel the scores.	1	main	 that been submitted 
+7-307	Therefore, test takers may not submit any information in the arbitration that was not submitted to the Board of Review within the time provided.	1	main	 that was submitted 
+		2	acl	 time provided 
+7-308	Cost.	
+7-309	ETS pays the cost of arbitration.	
+7-310	Questions about Options.	
+7-311	Test takers who have questions about any of these options are invited to contact OTI (see "Contact Information" below).	1	main	 takers are invited 
+7-312	Cancellation Procedures.	
+7-313	When ETS cancels test scores, the scores are no longer reportable.	
+7-314	Any applicable test fee the test taker paid is refunded, or the test taker may take a future test without charge.	1	main	 fee is refunded 
+7-315	If scores have not already been reported to any score recipients, ETS takes no further action.	1	main	 scores been reported 
+7-316	If the scores have been reported, ETS notifies the score recipients or other third parties that previously received the scores that they have been canceled.	1	main	 scores been reported 
+		2	main	 they been canceled 
+7-317	Advice from Others.	
+7-318	Test takers may seek advice from a trusted individual concerning ETS's test score review procedures.	
+7-319	OTI staff members are available to discuss the ETS score review process with the test taker or any individual who has been asked by the test taker to help resolve these questions.	1	main	 who been asked by taker
+7-320	Test takers must give ETS written permission to talk to anyone.	1	cls	 written 
+7-321	Contact Information.	
+7-322	Please contact the Office of Testing Integrity (OTI) if you have any questions regarding questioned test scores:  Email: tsreturns@ets.org Phone: 1-800-750-6991 (Toll free in the United States, U.S. Virgin Islands, Puerto Rico and Canada) +1-609-406-5430 (all other locations) Mail: Office of Testing Integrity ETS Princeton, NJ 08541.	
+7-323		
+8-1	TOEFL iBT® Resources.	
+8-2	We offer a variety of resources to help you along the way during your study-abroad journey.	
+8-3	From choosing a destination to preparing for your TOEFL® test, we're here with the information and tools you need.	
+8-4	Make sure you join our mailing list to receive the latest updates and information, and check out our TOEFL Blog to learn how the TOEFL test can help you pursue your academic dreams.	
+8-5	Information Bulletin and Forms.	
+8-6	Download materials to help you get ready to take the TOEFL test.	
+8-7	Prepare for the Test.	
+8-8	Browse our test prep section to find the resources you need to do your best on test day.	
+8-9	Scoring Guides.	
+8-10	Read about how the Writing and Speaking sections are scored.	1	main	 sections are scored 
+8-11	Improve Your Skills.	
+8-12	Find advice on improving your English-language skills.	
+8-13	TOEFL Destination Directory.	
+8-14	Search 11,500+ institutions that accept TOEFL scores.	
+8-15	TOEFL® TV Channel.	
+8-16	Watch success stories, in-depth videos about the TOEFL test and more.	
+8-17	Expand Your Options with the TOEFL® Search Service.	
+8-18	This free service uses criteria from your ETS account to match you with universities and institutions around the world.	
+8-19	You can receive information about programs, admission requirements, financial aid opportunities and more.	
+8-20	Opt in for free.	
+8-21	TOEFL iBT® Information Bulletin and Forms.	
+8-22	Information Bulletin and Bulletin Supplement.	
+8-23	2021–22 TOEFL iBT® Information Bulletin.	
+8-24	Get complete instructions for registration, forms, identification (ID) requirements, score reporting information, policies and procedures.	
+8-25	Effective July 1, 2021–June 30, 2022.	
+8-26	2021–22 TOEFL iBT® Bulletin Supplement for Test Takers with Disabilities or Health-related Needs.	
+8-27	If you are requesting testing accommodations due to a disability or health-related need, you can't register using the online registration system or by phone.	
+8-28	This supplement, along with the Registration Bulletin, has the information and the forms you need to register.	
+8-29	Effective July 1, 2021–June 30, 2022.	
+8-30	Forms 2021–22 TOEFL iBT® Registration Form.	
+8-31	Additional Score Report Request Form.	
+8-32	TOEFL iBT® Score Review Request Form.	
+8-33	Score Reinstatement Request Form.	
+8-34	Code Lists	
+8-35	The following lists are needed for registration by phone or mail.	1	main	 lists are needed by phone
+8-36	If no code is listed, use our TOEFL® Destination Search to contact the institution directly.	1	main	 code is listed 
+8-37	Department Codes.	
+8-38	Country/Location and Region Codes.	
+8-39	Native Language Codes.	
+8-40	TOEFL iBT® Scoring Guides.	
+8-41	Scoring Guides (Rubrics) for Speaking Responses.	
+8-42	Scoring Guides (Rubrics) for Writing Responses.	
+8-43	Improve Your Skills.	
+8-44	Learn how to improve your English-language skills to help prepare you for the TOEFL iBT® test and university study.	
+8-45	Select the skill you wish to improve for some helpful advice on how to do so.	
+8-46	Tips to Improve Your Reading Skills.	
+8-47	Learn how to improve your English reading skills with these tips to help you prepare for the TOEFL iBT® test and university study.	
+8-48	Read in English as much and as often as you can.	
+8-49	Read texts on a variety of topics.	
+8-50	Read both academic and non-academic materials.	
+8-51	Read about subjects that interest you and about subjects that don't interest you.	
+8-52	Write basic questions to test your understanding of a text.	
+8-53	Write questions and answers about the first paragraph, then guess what might be discussed in the next paragraph.	1	main	 what be discussed 
+8-54	Use your knowledge of grammar to understand difficult sections of a passage.	
+8-55	Think carefully about the relationship between independent and dependent clauses.	
+8-56	Look for words that refer back to some information given in a previous section of the text.	1	acl	 information given 
+8-57	Look at pronouns and find the nouns that they refer to.	
+8-58	Look at relative pronouns (who, that, which, whom, whose) used in adjective clauses — for example, "The student whose classmates are taking the TOEFL® test …" and find the nouns they refer to.	
+8-59	Continually expand your vocabulary knowledge.	
+8-60	It is important to increase your vocabulary on many subjects, because you will have to read about various topics at university.	
+8-61	Review glossaries/lists of terms used in academic textbooks.	1	acl	 terms used 
+8-62	Make a plan for studying new words.	
+8-63	Write a new word on 1 side of a card and the definition on the back.	
+8-64	Write the sentence you saw the word in to help you learn correct usage.	
+8-65	Study the words often, and always mix up the cards.	
+8-66	Group the words by topic or meaning.	
+8-67	Study the words as a list of related words.	
+8-68	Study vocabulary by making a list of opposites (words with different meanings) and synonyms (words with similar meanings).	
+8-69	opposites — relevant-irrelevant, abstract-concrete synonyms — excellent, outstanding, superb Review the new words on a regular basis so that you remember them.	
+8-70	Expand your vocabulary by analyzing the parts of a word.	
+8-71	This will help you understand some unknown words that you see.	
+8-72	Study roots — a part of a word that other parts are attached to: -spect- (look at); -dict- (say).	1	main	 parts are attached 
+8-73	Study prefixes — a part of a word attached to the beginning of the word: in- (into); pre- (before).	1	acl	 word attached 
+8-74	Study suffixes — a part of a word attached at the end of the word: -tion (inspection); -able (predictable).	1	acl	 word attached 
+8-75	Study word families — the noun, verb, adjective or adverb forms of related words: enjoyment (noun); enjoy (verb); enjoyable (adjective); enjoyably (adverb).	
+8-76	Use the context to guess the meaning of unknown words.	
+8-77	Notice when difficult terms are defined in the text.	1	main	 Notice are defined 
+		2	main	 terms are defined 
+8-78	Look for examples with an explanation of the meaning of a word.	
+8-79	Look at the other words and structures around an unknown word to try to understand it.	
+8-80	Use resources to help you study vocabulary.	
+8-81	Use an English dictionary to learn correct meaning and word usage.	
+8-82	Get calendars that teach a new word each day, or look for websites that will send you an email with a new word each day.	
+8-83	Study the vocabulary you find on university websites that give information about the university and the faculty teaching at the school.	
+8-84	Practice correct usage by making sentences with new words.	
+8-85	This will also help you remember both the meaning and the correct usage of the words.	
+8-86	Have a teacher check your sentences.	
+8-87	Review the new words on a regular basis so that you remember them.	
+8-88	Learn to recognize different organizational styles so you can understand the way an article or text is structured.	1	main	 article is structured 
+8-89	Read an entire passage from beginning to end.	
+8-90	Look for the main ideas of the article.	
+8-91	Look for the supporting details.	
+8-92	Pay attention to the relationship between the details and the main ideas.	
+8-93	Look for the common patterns of organization you find in articles.	
+8-94	Pay attention to connecting words so you can understand the pattern of organization.	
+8-95	Write a summary of a text, making sure that it incorporates the organizational pattern of the original.	
+8-96	Pay attention to the connecting words/transitions used for specific relationships: steps — first, second, next, finally; reasons — because, since; results — as a result, so, therefore; examples — for example, such as; comparisons — in contrast, on the other hand; restatements of information — in other words, that is; conclusions — in conclusion, in summary.	1	acl	 transitions used 
+8-97	If the text argues 2 points of view, be sure both points of view are reflected in your summary and that appropriate transitional words are used.	1	main	 points are reflected 
+		2	main	 points are used 
+		3	main	 words are used 
+8-98	Look at connections between sentences.	
+8-99	Look at how the end of 1 sentence relates to the beginning of the next sentence.	
+8-100	Think about the connection between the ideas of the 2 sentences.	
+8-101	Combine the sentences using appropriate transition words to show the relationship between ideas.	
+8-102	Tips to Improve Your Listening Skills.	
+8-103	Learn how to improve your English listening skills with these tips to help you prepare for the TOEFL iBT® test and university study.	
+8-104	Practice listening to something in English every day, and gradually increase the amount of time that you listen.	
+8-105	Listen to different types of materials.	
+8-106	Listen actively.	
+8-107	Try to answer the following questions: who; what; when; where; why; how.	
+8-108	Listen passively to get the general idea of what's being said.	1	main	 what being said 
+8-109	Keep a listening log (a list of everything you listen to in English each day/week).	
+8-110	Write a 1-sentence summary to remember the main idea of what you heard.	
+8-111	Write down new expressions, idioms and vocabulary that you hear.	
+8-112	Use dictation and other exercises to help your listening ability.	
+8-113	Ask an English speaker to dictate an article to you.	
+8-114	Good sources of material are podcasts, magazines or online articles or textbooks.	
+8-115	First, write down exactly what you hear.	
+8-116	Then, only take notes on the important points that you hear.	
+8-117	Do information gap exercises, using unfamiliar content and complex structures.	
+8-118	Use the resources in your community to practice listening to English.	
+8-119	Visit places where you can practice listening.	
+8-120	If possible, enroll in an English class.	
+8-121	Go to a museum and take an audio tour in English.	
+8-122	Follow a guided tour in English in your city.	
+8-123	Call or visit a hotel where tourists stay, and get information in English about room rates, hotel availability or hotel facilities.	
+8-124	Call and listen to information recorded in English, such as a movie schedule, a weather report or information about an airline flight.	1	acl	 information recorded 
+8-125	Watch or listen to TV programs and podcasts recorded in English.	1	acl	 podcasts recorded 
+8-126	Some helpful TV channels to listen to are CNN®, Discovery Channel® and National Geographic®, as well as soap operas or situation comedies.	
+8-127	Do this with a friend and talk about the program together.	
+8-128	Watch movies or other videos online (turn off the captions!) or go to a movie in English.	
+8-129	Listen to an audiobook in English.	
+8-130	Listen to English-language recordings that come with a transcript.	
+8-131	Listen to each recording at least 3 times: The first time, take notes about the main ideas you hear.	
+8-132	The second time, read the transcript and listen for the ideas you wrote down.	
+8-133	The third time, write down any words and phrases that you didn't understand, and look them up.	
+8-134	Practice speaking English with others.	
+8-135	Exchange language lessons with an English speaker who wants to learn your language.	
+8-136	Begin to prepare for academic situations.	
+8-137	Visit academic classes conducted in English.	1	acl	 classes conducted 
+8-138	Record lectures or presentations, and replay them several times.	
+8-139	Listen to short sections several times, until you understand the main points and the flow of ideas.	
+8-140	Stop the recording in the middle, and predict what will come next.	
+8-141	Become familiar with the organization or structure of academic lectures.	
+8-142	Pay attention to the difference between main ideas and details presented.	1	acl	 difference presented 
+8-143	Listen for the general (main) ideas.	
+8-144	Pay attention to details — facts, examples, opinions.	
+8-145	Pay attention to the structure: Lecture or presentation — introduction, body and conclusion; Narrative story — beginning, middle and end.	
+8-146	Learn to recognize different styles of organization: Theory and evidence; Cause and effect; Steps of a process; Comparison of 2 things.	
+8-147	Think carefully about the purpose of the lecture.	
+8-148	Try to answer the question, "What is the professor trying to accomplish in this lecture?	
+8-149	" Write down only the information that you hear.	
+8-150	Be careful not to interpret information based on your personal understanding or knowledge of the topic.	1	acl	 information based 
+8-151	Develop a note-taking strategy to help you organize information into the main points and supporting details.	
+8-152	Make sure your notes follow the organization of the lecture.	
+8-153	Listen for related ideas and relationships within a lecture, and make sure you summarize similar information together.	
+8-154	Use your notes to write a summary.	
+8-155	Listen for signals that will help you understand the organization of a talk, connections between ideas and the importance of ideas.	
+8-156	Listen for expressions and vocabulary that tell you the type of information being given.	1	acl	 information given 
+8-157	Think carefully about the type of information that these phrases show: opinion — I think, It appears that, It is thought that; theory — in theory; inference — therefore, then; negatives — not, words that begin with "un-," "non-," "dis-" or "a-"; fillers — non-essential information — uh, er, um.	1	main	 It is thought 
+8-158	Identify digressions — discussion of a different topic from the main topic — or jokes that are not important to the main lecture.	
+8-159	It's OK not to understand these!	
+8-160	Listen for signal words or phrases that connect ideas in order to recognize the relationship between ideas.	
+8-161	Think carefully about the connection between ideas that these words show: reasons — because, since; results — as a result, so, therefore, thus, consequently; examples — for example, such as; comparisons — in contrast, than; an opposing idea — on the other hand, however; another idea — furthermore, moreover, besides; a similar idea — similarly, likewise; restatements of information — in other words, that is; conclusions — in conclusion, in summary.	
+8-162	Pay attention to the connections between examples.	
+8-163	When you hear 2 details, identify the relationship between them.	
+8-164	Write a sentence connecting the examples, using the appropriate connecting word.	
+8-165	Pay attention to intonation and other ways that speakers indicate that information is important.	
+8-166	Important key words are often: repeated; paraphrased — repeated information but using different words; said louder and clearer; stressed.	
+8-167	Pay attention to body language and intonation patterns used to express different emotions.	
+8-168	Emotions are often expressed through changes in intonation or stress.	1	main	 Emotions are expressed 
+8-169	Facial expressions or word choices can indicate excitement, anger, happiness or frustration.	
+8-170	Listen to how native English speakers divide long sentences into "thought groups" to make them easier to understand — a thought group is a spoken phrase or short sentence.	
+8-171	Thought groups are separated by short pauses.	1	main	 groups are separated by pauses
+8-172	Listen to sets of thought groups to be sure you get the whole idea of the talk.	
+8-173	Listen for pauses between important points.	
+8-174	Listen for numbers you might hear in prices, times or addresses.	
+8-175	Listen for verbs and other expressions that show if an event is happening in the past, present or future.	
+8-176	During a lecture, pay attention to words that are written on the board.	1	main	 that are written 
+8-177	Tips to Improve Your Speaking Skills.	
+8-178	Learn how to improve your English speaking skills with these tips to help you prepare for the TOEFL iBT® test and university study.	
+8-179	Develop friendships with people who want to speak English with you.	
+8-180	If you can't find a native English speaker, find a friend who wants to practice speaking English, and promise to speak only English to each other for a certain period of time.	
+8-181	Record yourself speaking in English.	
+8-182	Read a paragraph from an academic course book, and practice summarizing the paragraph aloud.	
+8-183	Practice several times, and then record your summary.	
+8-184	Listen to your summary again a week later.	
+8-185	Transcribe what you said, and review your mistakes.	
+8-186	Read a simple paragraph and record your voice.	
+8-187	Ask a teacher to give you feedback on the recording.	
+8-188	Listen to something spoken by a native English speaker.	1	acl	 something spoken by speaker
+8-189	Record yourself repeating the same information, and compare it to the native English speaker.	
+8-190	Practice speaking for a limited time on different topics without a lot of preparation.	
+8-191	Write down several questions about various topics.	
+8-192	Then, select a question and answer it aloud.	
+8-193	Try to talk for 1 minute.	
+8-194	family.	
+8-195	hobbies.	
+8-196	friends.	
+8-197	school.	
+8-198	cities.	
+8-199	countries.	
+8-200	places you are familiar with.	
+8-201	Ask a friend to give you topics, and record yourself discussing them.	
+8-202	Ask someone to listen with you and suggest ways for you to improve.	
+8-203	Think of a story that you are familiar with.	
+8-204	Tell the story to several different people, and try to tell the story faster each time.	
+8-205	Give yourself about 20 seconds to think about what you did yesterday.	
+8-206	After 20 seconds, begin to recount what you did.	
+8-207	Try to talk for 1 minute.	
+8-208	Pay attention to your use of the past tense.	
+8-209	Try to use connecting words and phrases such as first, then, while I was.	
+8-210	Give yourself about 20 seconds to think about what you will probably do tomorrow.	
+8-211	After 20 seconds, begin to talk about what you are planning to do.	
+8-212	Try to talk for 1 minute.	
+8-213	Try to use different forms of the future tense.	
+8-214	Listen to audiobooks and podcasts.	
+8-215	Study pronunciation, stress and intonation.	
+8-216	Sign up for an audiobook subscription service or look for free audiobook samples online.	
+8-217	Practice speaking about everyday issues relevant to students' lives.	
+8-218	Read articles from campus newsletters.	
+8-219	Discuss the articles with a speaking partner or friend.	
+8-220	Practice summarizing the articles and expressing your opinions about them.	
+8-221	Concentrate on speaking clearly, with good pronunciation and intonation.	
+8-222	Speak with confidence and open your mouth more widely than you normally do.	
+8-223	It is difficult to understand you if you speak word by word.	
+8-224	Try to speak in "thought groups.	
+8-225	" Take a reading passage and mark the thought groups first.	
+8-226	Then, read it aloud, paying close attention to these groups of words and ideas.	
+8-227	Get an audiobook or a transcript from a news report, podcast, interview or play.	
+8-228	Listen to the performance and mark the pauses, stress and intonation on the transcript.	
+8-229	Then, read the transcript and try to imitate the pauses, stress and intonation patterns.	
+8-230	Listen to the radio and watch TV and movies.	
+8-231	Pay attention to idiomatic usage of the language and different accents or speech patterns that are used.	1	main	 that are used 
+8-232	Write down new expressions you hear.	
+8-233	Use the expressions in your everyday English conversations.	
+8-234	Choose a character from a film or TV show.	
+8-235	Repeat the character's words, following the intonation patterns, as he or she speaks.	
+8-236	Include the gestures or other body language of the character you are imitating.	
+8-237	Listen to a college radio station in your area.	
+8-238	Make a list of the kinds of topics being discussed.	1	acl	 topics discussed 
+8-239	Use the list to generate discussion topics with your friend or speaking partner.	
+8-240	Practice pronunciation and intonation by reading aloud.	
+8-241	Record yourself so you can hear your accent.	
+8-242	Pay attention to your mistakes.	
+8-243	Work on pronouncing word endings clearly.	
+8-244	Tips to Improve Your Writing Skills.	
+8-245	Learn how to improve your English writing skills with these tips and practices to help you prepare for the TOEFL iBT® test and university study.	
+8-246	Read and listen to academic articles and other material in your own language.	
+8-247	Take notes on what you read and hear.	
+8-248	Start out taking notes in your own language, and then take notes in English.	
+8-249	Summarize the points in complete English sentences.	
+8-250	Ask your teacher to review your writing and help you correct your errors.	
+8-251	Gradually decrease the time it takes you to read the material and write these summaries.	
+8-252	Practice typing on a QWERTY (standard English) keyboard, if you don't already use one.	
+8-253	Listen to recorded lectures in English.	
+8-254	Practice finding the main points and taking notes.	
+8-255	Stop the recording every 20–30 seconds and write down the main points.	
+8-256	Replay the recording to check your notes and add information you may have missed.	
+8-257	Use your notes to write out these ideas in fuller, more complex English sentences.	
+8-258	Learn important phrases that help you figure out what is happening.	
+8-259	Determine who the source of the information is: the speaker; someone else the speaker is talking about.	
+8-260	Find out how certain the information is — might be versus is.	
+8-261	Listen for words that indicate the main ideas being discussed: point; factor; issue.	1	main	 ideas being discussed 
+8-262	Practice writing grammatically correct sentences and use appropriate words to summarize information from text and lecture material.	
+8-263	Each week, focus on a different aspect of English grammar.	
+8-264	Complete grammatical exercises that reinforce this aspect.	
+8-265	Record news broadcasts and informational programs in English from the radio or TV.	
+8-266	Practice listening and writing grammatical sentences about what you hear the newscaster say.	
+8-267	Ask your teacher or a friend to review your work.	
+8-268	Learn to pay attention to differing ideas about a topic, and to find the similarities and differences of opinion.	
+8-269	Look at different articles about the same topic (for example, editorials).	
+8-270	Make a list of the similarities and differences of opinion about the topic.	
+8-271	Take a controversial cultural issue, and write about how your culture understands it.	
+8-272	Then, compare your ideas with someone from another culture.	
+8-273	Study expressions that are used to compare and contrast ideas: in contrast; on the other hand; however; but;	1	main	 that are used 
+8-274	although; similarly; like.	
+8-275	Do another writing task in which you explain the ways in which these points are related, the ways they are different, or the ways in which one article supports the other or makes you look at the other in a different way.	1	main	 points are related 
+8-276	Read 1 lengthy article in English from a magazine or a website each day.	
+8-277	Outline the article.	
+8-278	Write a summary of it in English as quickly as you feel comfortable writing.	
+8-279	Ask your teacher to review your summary to see if your sentences are grammatically correct, and if your sentences and vocabulary have accurately expressed the ideas from the original source.	
+8-280	If you are writing many short, simple sentences, try to combine related ideas into more lengthy, complex sentences.	
+8-281	Read short but interesting academic articles in magazines and on websites in your own language each day.	
+8-282	Translate them into complete, accurate sentences in English.	
+8-283	Ask your teacher to review your translations for accuracy of content, vocabulary, and grammar.	
+8-284	Learn to recognize common errors you make	
+8-285	so you can correct these on your own.	
+8-286	Practice combining information you have heard and read into a written summary.	
+8-287	Read a text before listening to a talk on the same subject.	
+8-288	Make a list of the similarities and differences of the information presented.	
+8-289	Read an editorial on a subject.	
+8-290	Then talk to someone about it and listen to what they say about the issue.	
+8-291	Then, write a summary of the different views.	
+8-292	Get a book that teaches the different types of connecting words.	
+8-293	These expressions show the relationship between sentences and paragraphs.	
+8-294	Know expressions that show: reasons — because, since; results — as a result, so, therefore; examples — for example, such as; comparisons — in contrast, on the other hand; a process or list — first, second, then; conclusions — in conclusion, in summary.	
+8-295	Practice English writing and typing every day.	
+8-296	Keep a journal — write your opinions about things you experience or topics in which you are interested.	
+8-297	Start out writing in your own language — this will help you get used to journal writing and build your confidence in your writing ability.	1	main	 you get used 
+8-298	When you begin to feel comfortable keeping a journal, write it in English.	
+8-299	Pay attention to your grammar and sentence structure.	
+8-300	Study the basics of English grammar and develop your vocabulary.	
+8-301	Practice writing correct sentences in English — begin by writing simple sentences.	
+8-302	Make sure each sentence has a subject and a verb, and that the subject agrees with the verb.	
+8-303	The student likes …; The students like … .	
+8-304	Take 2 of your sentences and practice combining them.	
+8-305	Re-read what you wrote — look for and correct mistakes.	
+8-306	Study the organization of good paragraphs and essays.	
+8-307	A good paragraph discusses 1 main idea.	
+8-308	This idea is usually included in the first sentence, which is called the topic sentence.	1	main	 idea is included 
+		2	main	 which is called 
+8-309	Each paragraph should discuss 1 aspect of the main idea of the essay.	
+8-310	Write paragraphs in English that focus on 1 main idea and contain several complete sentences that explain or support that idea.	
+8-311	Ask your teacher to review your paragraphs for correctness.	
+8-312	Think about who will be reading your writing.	
+8-313	In some situations, you need to write in a formal manner and your sentence structure, vocabulary use and general style should reflect that.	
+8-314	Read in English as much as you can — this will help you recognize good writing styles.	
+8-315	Pay attention to how ideas support a position.	
+8-316	Practice generating ideas to support a position.	
+8-317	Read articles and essays that express opinions about an issue — for example, a social, environmental or educational issue.	
+8-318	Identify the writer's opinion or opinions.	
+8-319	Notice how the writer addresses possible objections to the opinion, if they are present.	
+8-320	Outline the article and note the ways the writer supports the ideas.	
+8-321	Write a response in English to the article or essay, taking the opposite viewpoint.	
+8-322	Outline your response.	
+8-323	Note the methods you use to support your ideas.	
+8-324	Re-read what you have written.	
+8-325	Make sure your supporting ideas are clearly related to your main point.	
+8-326	Note what methods you use to develop each of your supporting points.	
+8-327	Make sure you have developed each of your points in detail.	
+8-328	Is there anything more you could have said to strengthen your points?	
+8-329	Pay attention to how you organize ideas.	
+8-330	Think about how a reader who isn't familiar with your topic is going to be able to follow the information you want to present.	
+8-331	Spend time planning and thinking about how to organize your ideas.	
+8-332	Your reader should be able to understand how your essay is organized.	
+8-333	Have a friend or teacher outline your essay so you can see if others can recognize how you present and explain your ideas.	
+8-334	Make sure you are using the right words to connect your ideas and supporting information in the way you want your reader to understand them.	
+8-335	Remember that your reader doesn't know what you know or what you intend.	
+8-336	Is there any way your reader might misunderstand?	
+8-337	If so, consider revising how you present and explain your ideas.	
+8-338	Ask your teacher to check your use of topic sentences, paragraphs, and connecting words, phrases and sentences.	
+8-339	Did you use these correctly and effectively?	
+8-340	Continue improving your English writing ability.	
+8-341	Create your own dictionary of English words.	
+8-342	Use those words in your own writing.	
+8-343	Try writing longer and more complex sentences.	
+8-344	Focus on appropriate sentence formation and accurate word choice.	

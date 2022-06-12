@@ -11,30 +11,34 @@ if __name__ == "__main__":
     # f.close()
 
     # 1. get data
-    # f = open("data_pickle.txt", 'rb')
-    # data = pickle.load(f)
-    # texts = []
-    # for text in data:
-    #     text = preprocess.Text(text)
-    #     text.get_sents_obj()
-    #     texts.append(text)
-
-    data = preprocess.read_file("test_text.txt")
-    text = preprocess.Text(preprocess.nlp(data))
-    text.get_sents_obj()
+    f = open("data_pickle.txt", 'rb')
+    data = pickle.load(f)
     texts = []
-    texts.append(text)
+    for text in data:
+        text = preprocess.Text(text)
+        text.get_sents_obj()
+        texts.append(text)
 
-    """
+    ###############
+    # for sample data
+    # data = preprocess.read_file("test_text.txt")
+    # text = preprocess.Text(preprocess.nlp(data))
+    # text.get_sents_obj()
+    # texts = []
+    # texts.append(text)
+    ###############
+
+    ###############
     # get basic statistics
-    for text in texts:
-        print(text.get_sentcnt())
-        print(text.get_wordcnt())
-        print(text.get_wordcnt_per_sent())
-        for i, sent in enumerate(text.sents_raw):
-            print(i+1, end=". ")
-            print(sent)
-        print"""
+    # for text in texts:
+    #     print(text.get_sentcnt())
+    #     print(text.get_wordcnt())
+    #     print(text.get_wordcnt_per_sent())
+    #     for i, sent in enumerate(text.sents_raw):
+    #         print(i+1, end=". ")
+    #         print(sent)
+    #     print
+    ###############
 
     # 2. get clause information    
     # tags: https://web.archive.org/web/20190206204307/https://www.clips.uantwerpen.be/pages/mbsp-tags
@@ -48,8 +52,8 @@ if __name__ == "__main__":
             print(str(k) + "-" + str(i), s_str, sep="\t", end = "\t", file = output)
             
             if s.clauses:
-                print(s.text, file = output)
-                print([token.text.strip() + "(" + token.dep_.strip() + ")" for token in s.sent], file = output)
+                # print(s.text, file = output)
+                # print([token.text.strip() + "(" + token.dep_.strip() + ")" for token in s.sent], file = output)
                 cnt += len(s.clauses)
                 # for c in s.clauses:
                 #     # print("\ttoken: ", c, c.tag_, file = output)
