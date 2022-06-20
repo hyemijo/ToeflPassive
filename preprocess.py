@@ -72,6 +72,8 @@ matcher = DependencyMatcher(nlp.vocab)
 matcher2 = DependencyMatcher(nlp.vocab)
 matcher3 = DependencyMatcher(nlp.vocab)
 matcher4 = DependencyMatcher(nlp.vocab)
+matcher5 = DependencyMatcher(nlp.vocab)
+        
 
 # model architecture
 #https://spacy.io/models/en/#en_core_web_md
@@ -84,6 +86,50 @@ matcher4 = DependencyMatcher(nlp.vocab)
         # active voice __ to v -> aux advcl // aux xcomp
         # passive voice -> nsubjpass/csubjpass, (aux), (neg), auxpass, ROOT/advcl, (agent)
         # stanford p.11
+
+
+pattern_clause = [
+  {
+    "RIGHT_ID": "main verb",
+    "RIGHT_ATTRS": {"DEP" : {"IN" : ["ROOT", "conj", "acl", "advcl", "relcl", "auxpass"]}}
+  }
+]
+
+pattern_active_acl = [
+  {
+    "RIGHT_ID": "acl",
+    "RIGHT_ATTRS": {"DEP":"acl"} #{"DEP": {"IN" : ["ROOT"]}}
+  }
+]
+
+pattern_active_other_cls = [
+  {
+    "RIGHT_ID": "other_cls",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["advcl", "relcl"]}} #{"DEP": {"IN" : ["ROOT"]}} , "relcl"
+  }
+]
+
+
+pattern_active_conj = [
+  {
+    "RIGHT_ID": "main verb",
+    "RIGHT_ATTRS": {"DEP": {"IN" : ["ROOT"]}}
+  },
+  {
+    "LEFT_ID": "main verb",
+    "REL_OP": ">",
+    "RIGHT_ID": "subject",
+    "RIGHT_ATTRS": {"DEP": {"IN": ["nsubj", "csubj"]}},
+  },
+  {
+    "LEFT_ID": "main verb",
+    "REL_OP": ">",
+    "RIGHT_ID": "pp_conj",
+    "RIGHT_ATTRS": {"DEP": "conj"}
+  }
+]
+
+
 
 pattern_passive = [
   {
@@ -150,6 +196,7 @@ matcher.add("passive", [pattern_passive])
 matcher2.add("acl", [pattern_passive_acl])
 matcher3.add("other cls", [pattern_passive_other_cls])
 matcher4.add("conj", [pattern_passive_conj])
+matcher5.add("clause", [pattern_clause])
 
 
 # get clause information as a Clause Object
@@ -169,7 +216,10 @@ class Sentence:
         self.sent = sent
         self.text = sent.text
         self.clauses = []
-        self.get_clauses()
+        self.vdep = []
+        self.get_clauses_full()
+        
+        # self.get_clauses()
 
     
     def find_conj(self, token, conjs, agent, first_call):
@@ -191,6 +241,29 @@ class Sentence:
             elif t.dep_ == "agent":
                 agent.append(t)
             else: pass
+
+    def get_clauses_full(self):
+        dep_exclude = "aux auxpass dep amod prep acomp ccomp compound intj".split(" ")
+        for t in self.sent:
+            if t.dep_ in dep_exclude:
+                continue
+            if t.tag_.startswith("V"):
+                self.clauses.append(t)
+                self.vdep.append(t)
+
+
+        # m = matcher5(self.sent)
+        # for (match_id, token_ids) in m:
+        #     v = self.sent[token_ids[0]]
+
+        #     if not v.tag_.startswith("V"):
+        #         # print(self.sent)
+        #         # print([(t.text, t.tag_) for t in self.sent])
+        #         # print(v)
+        #         continue
+        #     self.clauses.append(v)
+        return
+
 
 
     def get_clauses(self):        
@@ -322,5 +395,4 @@ def get_texts(dir):
         data = read_file(dir+"\\"+filename)
         doc = nlp(data)
         texts.append(doc)
-        #texts.append(Text(dir+"\\"+filename, nlp))
     return texts
